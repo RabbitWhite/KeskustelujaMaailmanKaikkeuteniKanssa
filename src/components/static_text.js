@@ -1,3 +1,4 @@
-function static_text(props) {
-    return <h1>st, {props.name}</h1>;
+function Static_text(props) {
+    return <h1>{props.name}</h1>;
   }
+  export default Static_text
