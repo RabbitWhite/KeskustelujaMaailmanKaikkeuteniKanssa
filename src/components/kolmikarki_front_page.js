@@ -1,3 +1,10 @@
-import { Kolmikarki_front_page } from "./Kolmikarki_front_page.1";
+import Functional_text from "./functional_text";
 
-  export default Kolmikarki_front_page
+
+
+export default function Kolmikarki_front_page(props) {
+    return <Functional_text tag="h1" style="alert" text="Kolmikärki"/>;
+}
+
+
+ //Kolmikarki_front_page

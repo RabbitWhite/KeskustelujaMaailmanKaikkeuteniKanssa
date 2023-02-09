@@ -1,6 +1,7 @@
-function functional_text(props) {
-  if (props.type == "LINK")
-    <a href={props.link} target={props.target}>{props.text}</a>
-  else
-    return <h1>ft, {props.name}</h1>;
+import React, { useState } from 'react';
+
+export default function Functional_text(props) {
+  const [text, setText ] = useState("Kolmikärki")
+
+  return <div id="test" className="fixed alert" style={{right: "80%"}} onClick={()=>setText("Ahaa!")}><p>{text}</p></div> 
   }

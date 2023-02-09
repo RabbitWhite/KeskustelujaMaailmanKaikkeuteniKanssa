@@ -11,3 +11,20 @@ code {
   font-family: source-code-pro, Menlo, Monaco, Consolas, 'Courier New',
     monospace;
 }
+
+h1{
+  font-family:'Courier New', Courier, monospace;
+  font-size:x-large;
+}
+
+.alert {
+  color: red;
+  background-color: blueviolet;
+}
+
+.fixed {
+  position: fixed;
+  bottom: 50%;
+  right: 10%;
+  width: 300px
+}
