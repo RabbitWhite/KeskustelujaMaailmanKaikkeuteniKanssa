@@ -10,7 +10,7 @@ export default function Kolmikarki_front_page(props) {
     return (
         <Fragment>
         <Functional_text tag="h1" class="alert" style={{right: `80%`}} newText="Kolmikärki2"/>
-        <Functional_image class="alert" style={{right: `80%`}} newImage={DFImage}/>
+        <Functional_image class="fixed" style={{right: `80%`, width:`20%`, height:`20%`}} newImage={DFImage}/>
         </Fragment>
     )
 }
