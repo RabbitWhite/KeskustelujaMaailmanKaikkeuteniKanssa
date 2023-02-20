@@ -17,12 +17,11 @@ h1 { margin-top: 0; }
   font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
   font-size:xx-large;
   font-weight: bolder;
+  text-align: center;
 }
 
 .fixed {
   position: fixed;
-  bottom: 50%;
-  right: 10%;
 }
 
 .poemtext {

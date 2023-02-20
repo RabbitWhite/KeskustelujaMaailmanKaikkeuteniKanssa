@@ -6,7 +6,7 @@ import Kolmikarki_poem_page from './components/kolmikarki_poem_page';
 function App() {
   return (
     <div className="App">
-      <Kolmikarki_poem_page />
+      <Kolmikarki_front_page />
       </div>
   );
 }
