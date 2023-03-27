@@ -21,7 +21,7 @@ const Kolmikarki_poem_page =  (props) =>  {
     <div className="box" style={{ backgroundImage: `url(${BGImage})` }}>
         <Poems />
         <p>{from}</p>
-        <Link to="/nextpoem"><p>Next poem</p></Link>
+        <Link to="/nextpoem" class= "poemlink">Next poem</Link>
     </div>
     
     

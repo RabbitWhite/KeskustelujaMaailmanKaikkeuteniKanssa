@@ -3,7 +3,15 @@ body {
   margin: 0px;
   height: 100%;
   min-height: 100%;
-  overflow: auto;
+  overflow: auto; 
+}
+
+* {
+  cursor: url(./images/FishCursor.png), default;
+}
+
+.poemlink:hover {
+  cursor: url(./images/FishCursor_Hover.png), default;
 }
 
 .box {
