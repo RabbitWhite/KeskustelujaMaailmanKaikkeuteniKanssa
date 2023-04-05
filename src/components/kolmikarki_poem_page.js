@@ -18,14 +18,12 @@ const Kolmikarki_poem_page =  (props) =>  {
   const { from } = location.state
   return (
     <Fragment>
-    <div className="box" style={{ backgroundImage: `url(${BGImage})` }}>
-        <Poems />
+      <div className="box" style={{ backgroundImage: `url(${BGImage})` }}>
+        <Poems index = {location.state} />
         <p>{from}</p>
-        <Link to="/nextpoem" class= "poemlink">Next poem</Link>
-    </div>
-    
-    
-  </Fragment>
+        <Link to="/nextpoem" className="poemlink">Next poem</Link>
+      </div>  
+    </Fragment>
   )
   }
   export default Kolmikarki_poem_page; 
