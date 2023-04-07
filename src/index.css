@@ -10,6 +10,12 @@ body {
   cursor: url(./images/FishCursor.png), default;
 }
 
+.poemlink {
+  margin: auto;
+  width: 50%;
+  text-align: center;
+}
+
 .poemlink:hover {
   cursor: url(./images/FishCursor_Hover.png), default;
 }
