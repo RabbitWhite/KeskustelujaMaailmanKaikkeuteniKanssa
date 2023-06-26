@@ -2,7 +2,7 @@ import Functional_text from "./functional_text";
 import Functional_image from "./functional_image"
 import { Fragment } from "react";
 
-import {Link } from "react-router-dom";
+import {Link, useParams } from "react-router-dom";
 
 import DFImage from "./../images/Dragonfly.png";
 import BGImage from "./../images/Background_image_front_page.png";
@@ -56,12 +56,13 @@ const Kolmikarki_poem_page =  (props) =>  {
     console.log(nextpoems)
   }, 5000);
 */
+const nurl = "/nextpoem/" + from; 
 
 useEffect(() => {
   setTimeout(() => {
-    navigate('/nextpoem')
+    navigate(nurl)
   }, 5000)
-}, [])
+}, [navigate])
 
   console.log(nextpoems)
     return (
