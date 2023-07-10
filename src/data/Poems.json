@@ -2,13 +2,15 @@
   "poemsData": [
     {
       "name": "Aral",
-      "start":1,
-      "end": 13
+      "content":"<pre class=\"poemtext\">\n\nAral\n\nKuivettuneet kanavat,\nsuolaantuneet silmät.\n\nKöli dyynin harjan päällä,\nkeikkumassa\nkeulakuva aurinkoa kohti.\n\nPolte huulilla,\nsen tippuvat rohteet.\n\n  </pre>"
     },
     {
-      "name": "Bakkanaali",
-      "start": 11,
-      "lines":27
+      "name": "Kalantakoja",
+      "content": "<pre class=\"poemtext\">\n\nKalantakoja\n\nKuivettuneet kanavat,\nsuolaantuneet silmät.\n\nKöli dyynin harjan päällä,\nkeikkumassa\nkeulakuva aurinkoa kohti.\n\nPolte huulilla,\nsen tippuvat rohteet.\n\n  </pre>"
+    },
+    {
+      "name": "Tunnustuainen",
+      "content": "<pre class=\"poemtext\">\n\nTunnustuainen\n\nKuivettuneet kanavat,\nsuolaantuneet silmät.\n\nKöli dyynin harjan päällä,\nkeikkumassa\nkeulakuva aurinkoa kohti.\n\nPolte huulilla,\nsen tippuvat rohteet.\n\n  </pre>"
     }
   ]
 }
