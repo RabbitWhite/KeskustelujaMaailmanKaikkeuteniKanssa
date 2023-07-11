@@ -2,6 +2,7 @@ import { Fragment } from "react";
 import { useLocation } from 'react-router-dom'
 import { useEffect, useRef, useState} from 'react'
 import { useNavigate } from 'react-router-dom'
+import {Link, useParams } from "react-router-dom";
 
 import Poems from "./poems.js";
 
@@ -16,7 +17,7 @@ const Kolmikarki_poem_page =  (props) =>  {
   
   useEffect(() => {
     setTimeout(() => {
-      navigate(nextPoemPath)
+      navigate(nextPoemPath, {currentPoem: {from}})
     }, readingDelay)
   }, [navigate])
 

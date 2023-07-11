@@ -12,7 +12,7 @@ function App() {
       <Router>
         <Routes>
           <Route path="/" element={<Kolmikarki_front_page />} />
-          <Route path="/poem" element={<Kolmikarki_poem_page />} />
+          <Route path="/poem/" element={<Kolmikarki_poem_page />} />
           <Route path="/nextpoem/:id" element={<Kolmikarki_next_poem_page />} />
         </Routes>
       </Router>
