@@ -9,22 +9,23 @@ const poems = [
   [],
 ];
 */
-const poemsJSON = data.poemsData
+//const poemsJSON = data.poemsData
 
-function createMarkup(currentPoemName) {
-    let currentPoemCell = poemsJSON.findIndex(item => item.name === (currentPoemName))
+function createMarkup(currentPoemName, poemsdtat) {
+    let currentPoemCell = poemsdtat.findIndex(item => item.name === (currentPoemName))
     console.log("ho" + currentPoemCell)
     if (currentPoemCell != -1)
-      return {__html:  poemsJSON[currentPoemCell].content};
+      return {__html:  poemsdtat[currentPoemCell].content};
     else 
-      return {__html:  poemsJSON[0].content};
+      return {__html:  poemsdtat[7].content};
 }
 
 export default function Poems(props) {
   const {id} = useParams()
   let index = 0
+  let poemsdata = props.poemsdata
   if (props.currentPoem !== "default") 
-    index = poemsJSON.findIndex(item => item.name === props.currentPoem)
+    index = poemsdata.findIndex(item => item.name === props.currentPoem)
 
-    return <div className="poemcontainer" dangerouslySetInnerHTML={createMarkup(props.currentPoem)}/>;
+    return <div className="poemcontainer" dangerouslySetInnerHTML={createMarkup(props.currentPoem, poemsdata)}/>;
 }

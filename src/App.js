@@ -5,6 +5,9 @@ import Kolmikarki_next_poem_page from './components/kolmikarki_next_poem_page.js
 
 import {BrowserRouter as Router, Route, Routes} from "react-router-dom";
 
+import data from './data/Poems.json'
+
+const poemsJSON = data.poemsData
 
 function App() {
   return (
@@ -12,8 +15,8 @@ function App() {
       <Router>
         <Routes>
           <Route path="/" element={<Kolmikarki_front_page />} />
-          <Route path="/poem/" element={<Kolmikarki_poem_page />} />
-          <Route path="/nextpoem/:id" element={<Kolmikarki_next_poem_page />} />
+          <Route path="/poem/" element={<Kolmikarki_poem_page poemsdata ={poemsJSON}/>} />
+          <Route path="/nextpoem/:id/:id/" element={<Kolmikarki_next_poem_page />} />
         </Routes>
       </Router>
       </div>
