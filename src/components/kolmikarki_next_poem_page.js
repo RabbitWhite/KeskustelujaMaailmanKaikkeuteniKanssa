@@ -148,27 +148,36 @@ console.log("qwed"+JSON.stringify(selectedItem))
 
 return (
   <Fragment>
-    <div>
-      {selectedItem.map((data, key)=>{
-                        //console.log(key);
+    <div className="box" style={{ backgroundImage: `url(${BGImage})` }}>
+      <div>
+      
+        {selectedItem.map((data, key)=>{
+                  var ind = key*10+15
+                  ind = ind + `%`
+                        console.log("key"+ind);
                     return(
-                      <Fragment><Link to="/poem/" className = "poemlink" state={{ from: selectedItem[key].name }}>{selectedItem[key].name}</Link><br></br></Fragment>
-
+                      <Fragment key={key}><Link  to="/poem/" className = "poemlink fixed" state={{ from: selectedItem[key].name }} style={{top: ind, left: `0%`, width:`100%`, height:`20%`}}>{selectedItem[key].name}</Link><br></br></Fragment>
                     );
                 })
                 
               
             } 
-                </div>
-                <div>
+      </div>
+      <div>
+                  
                   {curpo.map((data, key)=>{
+                    console.log("L"+selectedItem.length)
+                    var ind2 = selectedItem.length*10+30
+                    ind2 = ind2 + `%`
                   return(
-                    <Fragment><Link to="/poem/" className = "poemlink" state={{ from: curpo[key].name }}>palaa</Link><br></br></Fragment>
+                    <Fragment key={key}><Link  to="/poem/" className = "poemlink fixed" state={{ from: curpo[key].name }} style={{top: ind2, left: `0%`, width:`100%`, height:`20%`}}>Lue uudelleen</Link><br></br></Fragment>
                   );
-                })}
-                </div>
-                </Fragment>
-  );
+                })
+        }
+      </div>
+    </div>
+  </Fragment>
+);
 
 /*
 if (props.poemsdata == null)

@@ -14,8 +14,8 @@ const Kolmikarki_poem_page =  (props) =>  {
 console.log("palaa2 "+ JSON.stringify(from))
   let poemsedata = props.poemsdata
   const navigate = useNavigate();
-  const nextPoemPath = "/nextpoem/id/id/"; 
-  const readingDelay = 5000;
+  const nextPoemPath = "/nextpoem/"; 
+  const readingDelay = 10000;
   
   //console.log("aha" + props.poemsdata)
   useEffect(() => {

@@ -16,7 +16,7 @@ function App() {
         <Routes>
           <Route path="/" element={<Kolmikarki_front_page />} />
           <Route path="/poem/" element={<Kolmikarki_poem_page poemsdata ={poemsJSON}/>} />
-          <Route path="/nextpoem/:id/:id/" element={<Kolmikarki_next_poem_page />} />
+          <Route path="/nextpoem/" element={<Kolmikarki_next_poem_page />} />
         </Routes>
       </Router>
       </div>

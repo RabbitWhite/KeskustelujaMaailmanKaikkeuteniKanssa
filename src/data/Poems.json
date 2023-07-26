@@ -3,7 +3,7 @@
     {
       "id": "0",
       "name": "Default",
-      "kinpoems": [1, 2],
+      "kinpoems": [2, 3],
       "content":"<pre class=\"poemtext\">\n\nPolttoväli\n\nEtsiä kaltaistaan, jonka kohdata.\nItseään ympäri käännettynä.\n\nEi vain lihassa, syljessä tai siemenessä,\njoita hieroo ikäväämme vasten.\n\nLaajentaen lämpöään,\ntavoitellen toistemme pintaa.\n\nPintaa,\njohon kiinnittyä. </pre>"
     },
     {
@@ -135,17 +135,11 @@
     {
       "id": "22",
       "name": "Kalantakoja",
-      "kinpoems": [23, 24],
+      "kinpoems": [23, 1],
       "content": "<pre class=\"poemtext\">\n\nKalantakoja\n\nKuivettuneet kanavat,\nsuolaantuneet silmät.\n\nKöli dyynin harjan päällä,\nkeikkumassa\nkeulakuva aurinkoa kohti.\n\nPolte huulilla,\nsen tippuvat rohteet.\n\n  </pre>"
     },
     {
       "id": "23",
-      "name": "Tunnustuainen",
-      "kinpoems": [24, 1],
-      "content": "<pre class=\"poemtext\">\n\nTunnustuainen\n\nKuivettuneet kanavat,\nsuolaantuneet silmät.\n\nKöli dyynin harjan päällä,\nkeikkumassa\nkeulakuva aurinkoa kohti.\n\nPolte huulilla,\nsen tippuvat rohteet.\n\n  </pre>"
-    },
-    {
-      "id": "24",
       "name": "Tunnustuainen",
       "kinpoems": [1, 2],
       "content": "<pre class=\"poemtext\">\n\nTunnustuainen\n\nKuivettuneet kanavat,\nsuolaantuneet silmät.\n\nKöli dyynin harjan päällä,\nkeikkumassa\nkeulakuva aurinkoa kohti.\n\nPolte huulilla,\nsen tippuvat rohteet.\n\n  </pre>"
