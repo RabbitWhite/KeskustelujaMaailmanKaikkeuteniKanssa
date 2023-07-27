@@ -1,23 +1,13 @@
-import {Link, useParams } from "react-router-dom";
+import {useParams } from "react-router-dom";
 
-import data from './../data/Poems.json'
-/*
-const poems = [
-  ['Aral', '<pre class="poemtext">\n\nAral\n\nKuivettuneet kanavat,\nsuolaantuneet silmät.\n\nKöli dyynin harjan päällä,\nkeikkumassa\nkeulakuva aurinkoa kohti.\n\nPolte huulilla,\nsen tippuvat rohteet.\n\n  </pre>'],
-  ['Kalantakoja','<pre class="poemtext">\n\nKalantakoja\n\nKuivettuneet kanavat,\nsuolaantuneet silmät.\n\nKöli dyynin harjan päällä,\nkeikkumassa\nkeulakuva aurinkoa kohti.\n\nPolte huulilla,\nsen tippuvat rohteet.\n\n  </pre>'],
-  ['Tunnustuainen','<pre class="poemtext">\n\nTunnustuainen\n\nKuivettuneet kanavat,\nsuolaantuneet silmät.\n\nKöli dyynin harjan päällä,\nkeikkumassa\nkeulakuva aurinkoa kohti.\n\nPolte huulilla,\nsen tippuvat rohteet.\n\n  </pre>'],
-  [],
-];
-*/
-//const poemsJSON = data.poemsData
 
-function createMarkup(currentPoemName, poemsdtat) {
-    let currentPoemCell = poemsdtat.findIndex(item => item.name === (currentPoemName))
+function createMarkup(currentPoemName, poemsData) {
+    let currentPoemCell = poemsData.findIndex(item => item.name === (currentPoemName))
     console.log("ho" + currentPoemCell)
     if (currentPoemCell != -1)
-      return {__html:  poemsdtat[currentPoemCell].content};
+      return {__html:  poemsData[currentPoemCell].content};
     else 
-      return {__html:  poemsdtat[7].content};
+      return {__html:  poemsData[0].content};
 }
 
 export default function Poems(props) {
