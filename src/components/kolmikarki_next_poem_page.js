@@ -2,7 +2,7 @@ import {Link, useParams } from "react-router-dom";
 import { Fragment } from "react";
 import { useLocation } from 'react-router-dom'
 
-import BGImage from "./../images/Background_image_front_page.png";
+import BGImage from "./../images/Kolmikarki_Background.png";
 //import data from './../data/Poems.json'
 
 function fetchKinPoems(currentPoemName, poemsdata) {
@@ -148,7 +148,7 @@ console.log("qwed"+JSON.stringify(selectedItem))
 
 return (
   <Fragment>
-    <div className="box" style={{ backgroundImage: `url(${BGImage})` }}>
+    <div className="box" style={{ backgroundImage: `url(${BGImage})`, backgroundSize:'cover' }}>
       <div>
       
         {selectedItem.map((data, key)=>{

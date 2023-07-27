@@ -6,7 +6,7 @@ import {Link, useParams } from "react-router-dom";
 
 import Poems from "./poems.js";
 
-import BGImage from "./../images/Background_image_front_page.png";
+import BGImage from "./../images/Kolmikarki_Background.png";
 
 const Kolmikarki_poem_page =  (props) =>  {  
   const location = useLocation()
@@ -30,7 +30,7 @@ console.log("palaa2 "+ JSON.stringify(from))
 
   return (
     <Fragment>
-      <div className="box" style={{ backgroundImage: `url(${BGImage})` }}>
+      <div className="box" style={{ backgroundImage: `url(${BGImage})`, backgroundSize:'cover' }}>
         <Poems currentPoem = {from} poemsdata = {poemsedata}/>        
       </div>  
     </Fragment>
