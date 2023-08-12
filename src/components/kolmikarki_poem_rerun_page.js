@@ -10,18 +10,18 @@ import BGImage from "./../images/Kolmikarki_Background.png";
 const Kolmikarki_poem_page =  (props) =>  {  
   const location = useLocation()
   let { from:fromWhichPoem, new:toWhichPoem} = location.state
-  console.log("to"+toWhichPoem) 
+  console.log("from"+fromWhichPoem)
 
   let poemsData = props.poemsdata
   const navigate = useNavigate();
   const nextPoemPath = "/nextpoem/"; 
   const readingDelay = 10000;
-  
+  console.log("fromWhichPoem" + fromWhichPoem)
   useEffect(() => {
     setTimeout(() => {
-      console.log("STo"+toWhichPoem)
+      //fromWhichPoem = location.state
       poemsData = props.poemsdata
-      navigate(nextPoemPath, {state: {a:toWhichPoem, b:poemsData}} )
+      navigate(nextPoemPath, {state: {a:fromWhichPoem, b:poemsData}} )
       
     }, readingDelay)
   }, [navigate])
@@ -29,7 +29,7 @@ const Kolmikarki_poem_page =  (props) =>  {
   return (
     <Fragment>
       <div className="box" style={{ backgroundImage: `url(${BGImage})`, backgroundSize:'cover' }}>
-        <Poems currentPoem = {toWhichPoem} poemsdata = {poemsData}/>        
+        <Poems currentPoem = {fromWhichPoem} poemsdata = {poemsData}/>        
       </div>  
     </Fragment>
   )

@@ -8,11 +8,11 @@ body {
 }
 
 * {
-  cursor: url(./images/Eye_cursor.png), default;
+  cursor: url(./images/Eye_cursor_2.png), default;
 }
 
 .poemlink:hover {
-  cursor: url(./images/Eye_cursor_hover.png), default;
+  cursor: url(./images/Eye_cursor_hover_2.png), default;
 }
 
 .box {
@@ -35,19 +35,15 @@ h1 { margin-top: 0; }
   font-size:150%;
   font-weight:lighter;
 
-  display: inline-block;
   text-align: center;
-  vertical-align: middle;
-  line-height: 100%;
   padding: 20% 0
 }
 
 .fixed {
-  display: inline-block;
+
   position: fixed;
   text-align: center;
-  vertical-align: bottom;
-  line-height: 10%;
+
 }
 
 .poemtext {
