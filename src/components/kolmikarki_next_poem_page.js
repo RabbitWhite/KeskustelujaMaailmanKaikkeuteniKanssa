@@ -120,43 +120,40 @@ if ({state}.state.a != undefined)
 
   return (
     <Fragment>
-      <div className="box" style={{ backgroundImage: `url(${BGImage})`, backgroundSize:'cover' }}>
-
-        <div>
+      <div className="box fixed img" style={{ backgroundImage: `url(${BGImage})`, backgroundSize:'cover', top: `0%`, left: `0%`, width:`100%`, height:`100%` }}>
         {      
           currentPoem.map((data, key)=>{
           var index = 15
           index = index + `%`
           
           return(
-            <Fragment key={key}>{console.log({state}.state.a+":"+selectedkinPoem[0].name)}<Link  to="/poemrerun/" className = "poemlink fixed"             
+            <Fragment key={key}><Link  to="/poemrerun/" className = "fixed"             
             state={{ from: {state}.state.a, new:selectedkinPoem[0].name}} style={{top: index, left: `30%`, width:`40%`, height:`10%`}}>
-            Lue uudelleen</Link><br></br>
+            <div className = "poemlink">Lue uudelleen</div></Link><br></br>
             
             </Fragment>
             
             );
           })       
         } 
-        </div>
         
-        <div>          
+                  
         {
           selectedkinPoem.map((data, key)=>{
           var index2 = 60
           index2 = index2 + `%`
 
           return(
-            <Fragment key={key}><Link  to="/poem/" className = "poemlink fixed" 
+            <Fragment key={key}><Link  to="/poem/" className = "fixed" 
             state={{ from: currentPoem[0].name, new:selectedkinPoem[0].name }} 
-            style={{top: index2, left: `0%`, width:`100%`, height:`10%`}}>
-            {selectedkinPoem[0].name}</Link><br></br>
+            style={{top: index2, left: `30%`, width:`40%`, height:`10%` }}>
+            <div className = "poemlink">{selectedkinPoem[0].name}</div></Link><br></br>
            
             </Fragment>
           );
           })
         }
-        </div>
+        
 
       </div>
     </Fragment>
