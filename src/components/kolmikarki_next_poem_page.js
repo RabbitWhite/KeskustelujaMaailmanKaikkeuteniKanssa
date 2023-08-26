@@ -1,6 +1,9 @@
 import {Link} from "react-router-dom";
 import { Fragment } from "react";
 import { useLocation } from 'react-router-dom'
+import { useNavigate } from 'react-router-dom';
+import { useState } from "react";
+import { useEffect } from "react";
 
 import BGImage from "./../images/Kolmikarki_Background.png";
 
@@ -80,10 +83,29 @@ function fetchThePoem(currentPoemName, poemsdata) {
   }
 }
 
+var tarpoe = 1
+
+function setSomething(val)
+{
+  tarpoe = val.target.value 
+    console.log(tarpoe);
+}
+
+function setSomething2()
+{
+
+  
+    console.log("let's move to " + tarpoe);
+
+    
+
+}
 
 export default function Kolmikarki_next_poem(props, {navigation, route}) {
 
    const { state } = useLocation();
+   const navigate = useNavigate();
+
   let poemsData = {state}.state.b
   let fromPoem =""
 if ({state}.state.a != undefined)
@@ -118,6 +140,20 @@ if ({state}.state.a != undefined)
 
   console.log("CurPo"+ JSON.stringify(currentPoem[0]))
 
+  const [count, setCount] = useState(1);
+
+  useEffect(() => {
+    //navigate('/poem')
+    //console.log("mt" + tarpoe)
+  });
+
+  function us(fr, ne)
+  {
+    console.log("mt" + count)
+    console.log(fr)
+    navigate('/poem', {state: {from:fr, new:ne}})
+  }
+  
   return (
     <Fragment>
       <div className="box fixed img" style={{ backgroundImage: `url(${BGImage})`, backgroundSize:'cover', top: `0%`, left: `0%`, width:`100%`, height:`100%` }}>
@@ -153,9 +189,17 @@ if ({state}.state.a != undefined)
           );
           })
         }
+
+        <div className = "fixed" style={{top: `80%`, left: `45%`, width:`10%`, height:`10%` }}>
+          <div className = "poemlink">
+          <input name="myInput" defaultValue="1" onChange={e => setCount(e.target.value)}/>
+            /{poemsData.length}<br></br>
+            <button onClick={() => us(currentPoem[0].name, selectedkinPoem[0].name)}>Default</button>;</div>
+        </div>
         
 
       </div>
     </Fragment>
   );
 }
+

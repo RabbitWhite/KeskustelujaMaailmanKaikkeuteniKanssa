@@ -9,6 +9,7 @@ import BGImage from "./../images/Kolmikarki_Background.png";
 
 const Kolmikarki_poem_page =  (props) =>  {  
   const location = useLocation()
+  console.log(JSON.stringify(location.state))
   let { from:fromWhichPoem, new:toWhichPoem} = location.state
   console.log("to"+toWhichPoem) 
 
