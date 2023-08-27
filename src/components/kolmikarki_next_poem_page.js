@@ -147,11 +147,18 @@ if ({state}.state.a != undefined)
     //console.log("mt" + tarpoe)
   });
 
+  let fsPoemid = 1
+
+  function uf(val)
+  {
+    fsPoemid = val
+  }
+
   function us(fr, ne)
   {
     console.log("mt" + count)
     console.log(fr)
-    navigate('/poem', {state: {from:fr, new:ne}})
+    navigate('/poem', {state: {from:fr, new:poemsData[ne].name}})
   }
   
   return (
@@ -192,9 +199,9 @@ if ({state}.state.a != undefined)
 
         <div className = "fixed" style={{top: `80%`, left: `45%`, width:`10%`, height:`10%` }}>
           <div className = "poemlink">
-          <input name="myInput" defaultValue="1" onChange={e => setCount(e.target.value)}/>
+          <input name="myInput" defaultValue="1" onChange={e => uf(e.target.value)}/>
             /{poemsData.length}<br></br>
-            <button onClick={() => us(currentPoem[0].name, selectedkinPoem[0].name)}>Default</button>;</div>
+            <button onClick={() => us(currentPoem[0].name, fsPoemid)}>Default</button>;</div>
         </div>
         
 
