@@ -6,7 +6,7 @@ function createMarkup(currentPoemName, poemsData) {
     console.log("cpn" + currentPoemName)
     console.log("ho" + currentPoemCell)
     if (currentPoemCell !== -1)
-      return {__html:  poemsData[currentPoemCell].content};
+      return {__html:  "<br>" + currentPoemCell + poemsData[currentPoemCell].content};
     else 
       return {__html:  poemsData[0].content};
 }

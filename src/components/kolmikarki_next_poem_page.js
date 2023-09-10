@@ -133,12 +133,18 @@ if ({state}.state.a != undefined)
     secondKinPoem.push(poemsData.find(item => item.id == kinPoems[1]));
 */
   let currentPoem = []
+  let prevPoem = []
+  let nextPoem = []
   if (poemsData.find(item => item.id == fetchThePoem({state}.state.a, {state}.state.b) !== undefined))
   {
     currentPoem.push(poemsData.find(item => item.id == fetchThePoem({state}.state.a, {state}.state.b)))
+    prevPoem.push(poemsData.find(item => (item.id-2)+3 == fetchThePoem({state}.state.a, {state}.state.b)))
+    nextPoem.push(poemsData.find(item => (item.id-1) == fetchThePoem({state}.state.a, {state}.state.b)))
   }
 
   console.log("CurPo"+ JSON.stringify(currentPoem[0]))
+  console.log("PrevPo"+ JSON.stringify(prevPoem[0]))
+  console.log("NextPo"+ JSON.stringify(nextPoem[0]))
 
   const [count, setCount] = useState(1);
 
@@ -190,19 +196,50 @@ if ({state}.state.a != undefined)
             <Fragment key={key}><Link  to="/poem/" className = "fixed" 
             state={{ from: currentPoem[0].name, new:selectedkinPoem[0].name }} 
             style={{top: index2, left: `30%`, width:`40%`, height:`10%` }}>
-            <div className = "poemlink">{selectedkinPoem[0].name}</div></Link><br></br>
+            <div className = "poemlink">Sisarruno: {selectedkinPoem[0].name}</div></Link><br></br>
            
             </Fragment>
           );
           })
         }
 
-        <div className = "fixed" style={{top: `80%`, left: `45%`, width:`10%`, height:`10%` }}>
-          <div className = "poemlink">
-          <input name="myInput" defaultValue="1" onChange={e => uf(e.target.value)}/>
-            /{poemsData.length}<br></br>
-            <button onClick={() => us(currentPoem[0].name, fsPoemid)}>Default</button>;</div>
-        </div>
+        {
+          prevPoem.map((data, key)=>{
+          var index3 = 60
+          index3 = index3 + `%`
+
+          return(
+            <Fragment key={key}><Link  to="/poem/" className = "fixed" 
+            state={{ from: currentPoem[0].name, new:prevPoem[0].name }} 
+            style={{top: `80%`, left: `20%`, width:`30%`, height:`10%` }}>
+            <div className = "poemlink">Edellinen</div></Link><br></br>
+           
+            </Fragment>
+          );
+          })
+        }
+
+        {
+          nextPoem.map((data, key)=>{
+          var index3 = 60
+          index3 = index3 + `%`
+
+          return(
+            <Fragment key={key}><Link  to="/poem/" className = "fixed" 
+            state={{ from: currentPoem[0].name, new:nextPoem[0].name }} 
+            style={{top: `80%`, left: `50%`, width:`30%`, height:`10%` }}>
+            <div className = "poemlink">Seuraaava</div></Link><br></br>
+           
+            </Fragment>
+          );
+          })
+        }
+        
+        
+        
+
+
+        
         
 
       </div>
@@ -210,3 +247,14 @@ if ({state}.state.a != undefined)
   );
 }
 
+/*
+<fragment className = "fixed" style={{top: `80%`, left: `45%`, width:`10%`, height:`10%` }}>
+        <table  className = "poemlink">
+  <tr>
+    <th><input className = "poemlink" name="myInput" defaultValue="1" onChange={e => uf(e.target.value)} style ={{background: `transparent`}}/></th>
+    <th>/{poemsData.length}</th>
+    <th><button className = "poemlink" onClick={() => us(currentPoem[0].name, fsPoemid)}>Siirry runoon</button></th>
+  </tr>
+  </table>
+  </fragment>
+  */
