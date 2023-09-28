@@ -142,6 +142,8 @@ if ({state}.state.a != undefined)
     nextPoem.push(poemsData.find(item => (item.id-1) == fetchThePoem({state}.state.a, {state}.state.b)))
   }
 
+  console.log(prevPoem[0] + ":" + prevPoem[1])
+
   console.log("CurPo"+ JSON.stringify(currentPoem[0]))
   console.log("PrevPo"+ JSON.stringify(prevPoem[0]))
   console.log("NextPo"+ JSON.stringify(nextPoem[0]))
@@ -178,7 +180,7 @@ if ({state}.state.a != undefined)
           return(
             <Fragment key={key}><Link  to="/poemrerun/" className = "fixed"             
             state={{ from: {state}.state.a, new:selectedkinPoem[0].name}} style={{top: index, left: `30%`, width:`40%`, height:`10%`}}>
-            <div className = "poemlink">Lue uudelleen</div></Link><br></br>
+            <div className = "poemlink">Lue "{currentPoem[0].name }" uudelleen</div></Link><br></br>
             
             </Fragment>
             
@@ -196,7 +198,7 @@ if ({state}.state.a != undefined)
             <Fragment key={key}><Link  to="/poem/" className = "fixed" 
             state={{ from: currentPoem[0].name, new:selectedkinPoem[0].name }} 
             style={{top: index2, left: `30%`, width:`40%`, height:`10%` }}>
-            <div className = "poemlink">Sisarruno: {selectedkinPoem[0].name}</div></Link><br></br>
+            <div className = "poemlink">Sattuman saattelema sisarruno: {selectedkinPoem[0].name}</div></Link><br></br>
            
             </Fragment>
           );
@@ -228,7 +230,7 @@ if ({state}.state.a != undefined)
             <Fragment key={key}><Link  to="/poem/" className = "fixed" 
             state={{ from: currentPoem[0].name, new:nextPoem[0].name }} 
             style={{top: `80%`, left: `50%`, width:`30%`, height:`10%` }}>
-            <div className = "poemlink">Seuraaava</div></Link><br></br>
+            <div className = "poemlink">Seuraava</div></Link><br></br>
            
             </Fragment>
           );
