@@ -4,7 +4,7 @@ import Kolmikarki_poem_page from './components/kolmikarki_poem_page';
 import Kolmikarki_poem_rerun_page from './components/kolmikarki_poem_rerun_page';
 import Kolmikarki_next_poem_page from './components/kolmikarki_next_poem_page.js';
 
-import {BrowserRouter as Router, Route, Routes} from "react-router-dom";
+import {HashRouter as Router, Route, Routes, HashRouter} from "react-router-dom";
 
 import data from './data/Poems.json'
 
@@ -12,6 +12,7 @@ const poemsJSON = data.poemsData
 
 function App() {
   return (
+    <HashRouter base="/">
     <div className="App">
       <Router>
         <Routes>
@@ -22,6 +23,7 @@ function App() {
         </Routes>
       </Router>
       </div>
+      </HashRouter>
   );
 }
 
