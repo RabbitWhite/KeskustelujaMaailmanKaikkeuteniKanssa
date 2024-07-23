@@ -29,14 +29,7 @@ h1 { margin-top: 0; }
   text-align: center;
 }
 
-.poemlink {
-  color: rgb(68, 67, 67);
-  font-family:serif;
-  font-size:150%;
-  font-weight:lighter;
-  text-align: center;
-  /*padding: 5% 0;*/
-}
+
 
 .fixed {
 
@@ -49,14 +42,74 @@ img{
   object-fit: contain;
   }
 
-.poemtext {
-  font-family: Garamond, Georgia, 'Times New Roman', Times, serif;
-  font-style: italic;
-  font-size: x-large;
-}
+
 
 .poemcontainer {
   margin: auto;
   width: 50%;
   text-align: center;
 }
+
+@media screen and (max-width: 12000px) {
+
+  .poemtext {
+    font-family: Garamond, Georgia, 'Times New Roman', Times, serif;
+    font-style: italic;
+    font-size:xx-large;
+    color: rgba(167, 3, 137, 0.865);
+  }
+
+  .poemlink {
+    color: rgb(68, 67, 67);
+    font-family:serif;
+    font-size:25px;
+    font-weight:lighter;
+    text-align: center;
+    /*padding: 5% 0;*/
+  }
+
+}
+
+@media screen and (max-width: 1300px) {
+
+  .poemtext {
+    font-family: Garamond, Georgia, 'Times New Roman', Times, serif;
+    font-style:italic;
+    font-size:xx-large;
+    color: rgba(55, 22, 203, 0.9);
+  }
+
+  .poemlink {
+    color: rgb(68, 67, 67);
+    font-family:serif;
+    font-size: 100px;/*150%;*/
+    font-weight:lighter;
+    text-align: center;
+    /*padding: 5% 0;*/
+  }
+
+}
+
+
+@media screen and (max-width: 800px) {
+
+  .poemtext {
+    font-family: Garamond, Georgia, 'Times New Roman', Times, serif;
+    font-style: italic;
+    font-size:xx-large;
+    color: rgba(11, 193, 36, 0.804);
+  }
+
+  .poemlink {
+    color: rgb(68, 67, 67);
+    font-family:serif;
+    font-size:200px; /*150%;*/
+    font-weight:lighter;
+    text-align: center;
+    /*padding: 5% 0;*/
+  }
+
+}
+
+
+
