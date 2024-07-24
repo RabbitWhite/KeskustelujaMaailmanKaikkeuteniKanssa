@@ -1,16 +1,16 @@
 {
   "files": {
-    "main.css": "/Kolmikarki/static/css/main.94cd5579.css",
+    "main.css": "/Kolmikarki/static/css/main.635794f8.css",
     "main.js": "/Kolmikarki/static/js/main.56f0a997.js",
     "static/js/787.1f06876a.chunk.js": "/Kolmikarki/static/js/787.1f06876a.chunk.js",
     "static/media/Kolmikarki_Background.png": "/Kolmikarki/static/media/Kolmikarki_Background.1bedf0d623370b26783e.png",
     "index.html": "/Kolmikarki/index.html",
-    "main.94cd5579.css.map": "/Kolmikarki/static/css/main.94cd5579.css.map",
+    "main.635794f8.css.map": "/Kolmikarki/static/css/main.635794f8.css.map",
     "main.56f0a997.js.map": "/Kolmikarki/static/js/main.56f0a997.js.map",
     "787.1f06876a.chunk.js.map": "/Kolmikarki/static/js/787.1f06876a.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.94cd5579.css",
+    "static/css/main.635794f8.css",
     "static/js/main.56f0a997.js"
   ]
 }
