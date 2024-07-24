@@ -60,9 +60,9 @@ img{
   }
 
   .poemlink {
-    color: rgb(68, 67, 67);
+    font-size:xx-large;
+    color: rgba(36, 3, 167, 0.742);
     font-family:serif;
-    font-size:25px;
     font-weight:lighter;
     text-align: center;
     /*padding: 5% 0;*/
@@ -74,15 +74,15 @@ img{
 
   .poemtext {
     font-family: Garamond, Georgia, 'Times New Roman', Times, serif;
-    font-style:italic;
-    font-size:xx-large;
-    color: rgba(55, 22, 203, 0.9);
+    font-style:normal;
+    font-size: 3vw;
+    color: rgba(22, 76, 203, 0.76);
   }
 
   .poemlink {
-    color: rgb(68, 67, 67);
+    font-size: 2vw;
+    color: rgba(203, 22, 22, 0.728);
     font-family:serif;
-    font-size: 100px;/*150%;*/
     font-weight:lighter;
     text-align: center;
     /*padding: 5% 0;*/
@@ -96,14 +96,14 @@ img{
   .poemtext {
     font-family: Garamond, Georgia, 'Times New Roman', Times, serif;
     font-style: italic;
-    font-size:xx-large;
+    font-size: 150px;
     color: rgba(11, 193, 36, 0.804);
   }
 
   .poemlink {
-    color: rgb(68, 67, 67);
+    font-size: 200px;
+    color: rgba(11, 193, 36, 0.804);
     font-family:serif;
-    font-size:200px; /*150%;*/
     font-weight:lighter;
     text-align: center;
     /*padding: 5% 0;*/
