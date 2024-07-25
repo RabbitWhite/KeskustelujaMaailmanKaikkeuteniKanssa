@@ -29,7 +29,7 @@ const Kolmikarki_poem_page =  (props) =>  {
 
   return (
     <Fragment>
-      <div className="box" style={{ backgroundImage: `url(${BGImage})`, backgroundSize:'cover' }}>
+      <div className="box" style={{ backgroundImage: `url(${BGImage})`}}>
         <Poems currentPoem = {toWhichPoem} poemsdata = {poemsData}/>        
       </div>  
     </Fragment>
