@@ -1,40 +1,53 @@
-import { Fragment } from "react";
-import { useLocation } from 'react-router-dom'
-import { useEffect} from 'react'
-import { useNavigate } from 'react-router-dom'
+import { Fragment, useEffect } from "react";
+import { useLocation, useNavigate } from "react-router-dom";
 
 import Poems from "./poems.js";
-
 import BGImage from "./../images/Kolmikarki_Background.png";
 
-const Kolmikarki_poem_page =  (props) =>  {  
-  const location = useLocation()
-  console.log(JSON.stringify(location.state))
-  let { from:fromWhichPoem, new:toWhichPoem} = location.state
-  console.log("to"+toWhichPoem) 
-
-  let poemsData = props.poemsdata
+// Component to display an individual poem and redirect after a delay
+const KolmikarkiPoemPage = (props) => {
+  const location = useLocation();
   const navigate = useNavigate();
-  const nextPoemPath = "/nextpoem/"; 
-  const readingDelay = 10000;
-  
+
+  // Destructure routing state to get source and destination poem names
+  const { from: fromWhichPoem, new: toWhichPoem } = location.state;
+
+  const poemsData = props.poemsdata;
+  const nextPoemPath = "/nextpoem/";
+  const readingDelay = 10000; // Delay before navigating to next poem (in ms)
+
+  // Automatically navigate to next poem after delay
   useEffect(() => {
-    setTimeout(() => {
-      console.log("STo"+toWhichPoem)
-      poemsData = props.poemsdata
-      navigate(nextPoemPath, {state: {a:toWhichPoem, b:poemsData}} )
-      
-    }, readingDelay)
-  }, [navigate])
+    const timer = setTimeout(() => {
+      navigate(nextPoemPath, {
+        state: { a: toWhichPoem, b: poemsData }
+      });
+    }, readingDelay);
+
+    // Clean up timer on unmount
+    return () => clearTimeout(timer);
+  }, [navigate, toWhichPoem, poemsData]);
 
   return (
     <Fragment>
-      <div className="box" style={{ backgroundImage: `url(${BGImage})`}}>
-        <Poems currentPoem = {toWhichPoem} poemsdata = {poemsData}/>        
-      </div>  
+      {/* Container with background image */}
+      <div 
+        className="box" 
+        style={{ 
+          backgroundImage: `url(${BGImage})`, 
+          backgroundSize: "cover", 
+          backgroundPosition: "center", 
+          height: "100vh", 
+          width: "100%" 
+        }}
+      >
+        {/* Display poem content */}
+        <Poems currentPoem={toWhichPoem} poemsdata={poemsData} />
+      </div>
     </Fragment>
-  )
-}
-export default Kolmikarki_poem_page;
+  );
+};
+
+export default KolmikarkiPoemPage;
   
 
