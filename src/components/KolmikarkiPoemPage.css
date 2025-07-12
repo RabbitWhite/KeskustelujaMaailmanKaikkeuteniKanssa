@@ -1,0 +1,23 @@
+.poem-container {
+  height: 100vh;                /* Full viewport height */
+  display: flex;
+  align-items: center;          /* Center vertically */
+  justify-content: center;      /* Center horizontally */
+  padding: 5vh 5vw;
+  box-sizing: border-box;
+  background-color: #fff;       /* Optional: background for contrast */
+}
+
+.poem-text {
+  height: 80vh;                 /* 80% of viewport height */
+  width: 100%;
+  max-width: 900px;             /* Optional: readable max width */
+  overflow: hidden;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  text-align: center;
+  font-size: clamp(1rem, 3vw, 2.5rem);  /* Responsive font */
+  line-height: 1.5;
+  white-space: pre-wrap;        /* Preserve poem formatting */
+}

@@ -4,6 +4,7 @@ import { useLocation, useNavigate } from "react-router-dom";
 import Poems from "./poems.js";
 import BGImage from "./../images/Kolmikarki_Background.png";
 
+
 // Component to display an individual poem and redirect after a delay
 const KolmikarkiPoemPage = (props) => {
   const location = useLocation();
@@ -43,7 +44,7 @@ const KolmikarkiPoemPage = (props) => {
       >
         {/* Display poem content */}
         <Poems currentPoem={toWhichPoem} poemsdata={poemsData} />
-      </div>
+        </div>
     </Fragment>
   );
 };
