@@ -15,7 +15,7 @@ const KolmikarkiPoemPage = (props) => {
 
   const poemsData = props.poemsdata;
   const nextPoemPath = "/nextpoem/";
-  const readingDelay = 10000; // Delay before navigating to next poem (in ms)
+  const readingDelay = 3000; // Delay before navigating to next poem (in ms)
 
   // Automatically navigate to next poem after delay
   useEffect(() => {
@@ -33,14 +33,8 @@ const KolmikarkiPoemPage = (props) => {
     <Fragment>
       {/* Container with background image */}
       <div 
-        className="box" 
-        style={{ 
-          backgroundImage: `url(${BGImage})`, 
-          backgroundSize: "cover", 
-          backgroundPosition: "center", 
-          height: "100vh", 
-          width: "100%" 
-        }}
+        className="box poem-page-background"
+        style={{ backgroundImage: `url(${BGImage})` }}
       >
         {/* Display poem content */}
         <Poems currentPoem={toWhichPoem} poemsdata={poemsData} />

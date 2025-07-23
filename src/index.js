@@ -1,6 +1,5 @@
 import React from 'react';
 import ReactDOM from 'react-dom/client';
-import './index.css';
 import App from './App';
 import reportWebVitals from './reportWebVitals';
 
@@ -10,9 +9,6 @@ root.render(
     <App />
   //</React.StrictMode>
 );
-
-console.log('height default :'+window.visualViewport.height)
-console.log('width default :'+window.visualViewport.width)
 
 window.addEventListener('resize',(e)=>{         
       console.log( `width: ${e.target.visualViewport.width}px`);
