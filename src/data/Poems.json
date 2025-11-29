@@ -1,12 +1,7 @@
 {
   "poemsData": [
     {
-      "id": "0",
-      "name": "Default",
-      "kinpoems": [2, 3],
-      "content":"<pre class=\"poemtext\">\n\nPolttoväli\n\nEtsiä kaltaistaan, jonka kohdata.\nItseään ympäri käännettynä.\n\nEi vain lihassa, syljessä tai siemenessä,\njoita hieroo ikäväämme vasten.\n\nLaajentaen lämpöään,\ntavoitellen toistemme pintaa.\n\nPintaa,\njohon kiinnittyä. </pre>"
-    },
-    {
+
       "id": "1",
       "name": "Polttoväli",
       "kinpoems": [2, 3],

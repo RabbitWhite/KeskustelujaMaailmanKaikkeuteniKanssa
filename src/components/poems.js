@@ -7,7 +7,7 @@ function createMarkup(currentPoemName, poemsData) {
       __html: `
         <div class="poem-wrapper">
           <div class="poem-number">
-            <pre class="poemtext">${currentPoemCell}</pre>
+            <pre class="poemtext">${currentPoemCell+1}</pre>
           </div>
           <div class="poem-content">
             ${poemsData[currentPoemCell].content}
