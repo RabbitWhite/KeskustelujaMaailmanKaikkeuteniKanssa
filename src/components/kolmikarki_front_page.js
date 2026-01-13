@@ -10,7 +10,7 @@ export default function KolmikarkiFrontPage(props) {
         <Fragment>
             {/* Full-page container with background image */}
             <div className="box fixed img frontpage-background">
-                <h1 className="title fixed frontpage-title">Kolmipiikki</h1>
+                <h1 className="title fixed frontpage-title">Keskusteluja Maailmani Kaikkeuden Kanssa</h1>
                 <div className="fixed start-button-container">
                     <Link
                     to="/poem/"

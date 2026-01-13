@@ -38,10 +38,10 @@ export default function KolmikarkiNextPoem(props) {
 
   // Get current, previous, and next poems
   const currentPoemId = fetchThePoem(currentPoemName, poemsData);
-  const currentPoemIdNum = parseInt(fetchThePoem(currentPoemName, poemsData), 10);
+  const currentPoemIdNum = parseInt(currentPoemId, 10);
   const prevPoemNum = currentPoemIdNum - 1;
   const nextPoemNum = currentPoemIdNum + 1;
-  const currentPoem = poemsData.filter(item => item.id === currentPoemId);
+  const currentPoem = poemsData.filter(item => item.id === String(currentPoemId));
   const prevPoem = poemsData.filter(item => item.id === String(prevPoemNum));
   const nextPoem = poemsData.filter(item => item.id === String(nextPoemNum));
 
