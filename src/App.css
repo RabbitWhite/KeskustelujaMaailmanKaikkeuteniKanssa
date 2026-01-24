@@ -149,7 +149,7 @@ img{
 }
 
 .frontpage-background {
-  background-image: url('./images/Kolmikarki_Background.png');
+  background-image: url('./images/Kolmikarki_Background.webp');
   background-size: cover;
   top: 0%;
   left: 0%;
@@ -214,13 +214,6 @@ img{
   width: 30%;
   height: 10%;
   position: fixed;
-}
-
-.poem-page-container {
-  background-size: cover;
-  background-position: center;
-  height: 100vh;
-  width: 100%;
 }
 
 .poem-page-background {

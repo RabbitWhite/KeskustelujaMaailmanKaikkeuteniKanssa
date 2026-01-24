@@ -3,46 +3,53 @@ import { useLocation, useNavigate } from "react-router-dom";
 
 import Poems from "./poems.js";
 import BGImage from "./../images/Kolmikarki_Background.png";
+import { usePoemsData } from "../context/PoemsContext";
 
-
-// Component to display an individual poem and redirect after a delay
-const KolmikarkiPoemPage = (props) => {
+// Unified component to display a poem and redirect after a delay
+// isRerun: if true, displays the "from" poem (re-reading), otherwise displays the "new" poem
+const KolmikarkiPoemPage = ({ isRerun = false }) => {
   const location = useLocation();
   const navigate = useNavigate();
+  const poemsData = usePoemsData();
 
-  // Destructure routing state to get source and destination poem names
-  const { from: fromWhichPoem, new: toWhichPoem } = location.state;
-
-  const poemsData = props.poemsdata;
   const nextPoemPath = "/nextpoem/";
   const readingDelay = 3000; // Delay before navigating to next poem (in ms)
 
-  // Automatically navigate to next poem after delay
+  // Select which poem to display based on mode
+  const currentPoem = isRerun ? location.state?.from : location.state?.new;
+
+  // Redirect to home if accessed directly without state, or navigate after delay
   useEffect(() => {
+    if (!location.state) {
+      navigate("/", { replace: true });
+      return;
+    }
+
     const timer = setTimeout(() => {
       navigate(nextPoemPath, {
-        state: { a: toWhichPoem, b: poemsData }
+        state: { currentPoem }
       });
     }, readingDelay);
 
     // Clean up timer on unmount
     return () => clearTimeout(timer);
-  }, [navigate, toWhichPoem, poemsData]);
+  }, [navigate, location.state, currentPoem]);
+
+  // Don't render if no state (redirect will happen in useEffect)
+  if (!location.state) {
+    return null;
+  }
 
   return (
     <Fragment>
-      {/* Container with background image */}
-      <div 
+      <div
         className="box poem-page-background"
         style={{ backgroundImage: `url(${BGImage})` }}
       >
-        {/* Display poem content */}
-        <Poems currentPoem={toWhichPoem} poemsdata={poemsData} />
-        </div>
+        <Poems currentPoem={currentPoem} poemsdata={poemsData} />
+      </div>
     </Fragment>
   );
 };
 
 export default KolmikarkiPoemPage;
-  
-

@@ -1,5 +1,3 @@
-import {useParams } from "react-router-dom";
-
 function createMarkup(currentPoemName, poemsData) {
   const currentPoemCell = poemsData.findIndex(item => item.name === currentPoemName);
   if (currentPoemCell !== -1) {
@@ -7,7 +5,7 @@ function createMarkup(currentPoemName, poemsData) {
       __html: `
         <div class="poem-wrapper">
           <div class="poem-number">
-            <pre class="poemtext">${currentPoemCell+1}</pre>
+            <pre class="poemtext">${currentPoemCell + 1}</pre>
           </div>
           <div class="poem-content">
             ${poemsData[currentPoemCell].content}
@@ -28,12 +26,11 @@ function createMarkup(currentPoemName, poemsData) {
   }
 }
 
-export default function Poems(props) {
-  const {id} = useParams()
-  let index = 0
-  let poemsdata = props.poemsdata
-  if (props.currentPoem !== "default") 
-    index = poemsdata.findIndex(item => item.name === props.currentPoem)
-
-    return <div className="poemcontainer" dangerouslySetInnerHTML={createMarkup(props.currentPoem, poemsdata)}/>;
+export default function Poems({ currentPoem, poemsdata }) {
+  return (
+    <div
+      className="poemcontainer"
+      dangerouslySetInnerHTML={createMarkup(currentPoem, poemsdata)}
+    />
+  );
 }

@@ -1,40 +1,52 @@
-import { Fragment, useEffect, useState } from "react";
+import { Fragment, useEffect } from "react";
 import { useLocation, useNavigate, Link } from "react-router-dom";
 
-import BGImage from "./../images/Kolmikarki_Background.png";
+import { usePoemsData } from "../context/PoemsContext";
 
 // Utility: Get random integer between min and max (inclusive)
 function getRandom(min, max) {
-  return Math.round(Math.random() * (max - min)) + min;
+  return Math.floor(Math.random() * (max - min + 1)) + min;
 }
 
 // Find kin poems by name and return array of numeric IDs
 function fetchKinPoems(currentPoemName, poemsdata) {
-  if (!poemsdata) return [1, 2];
+  if (!poemsdata || poemsdata.length === 0) return [1, 2];
   const index = poemsdata.findIndex(item => item.name === currentPoemName);
   return index !== -1 ? poemsdata[index].kinpoems.map(Number) : poemsdata[0].kinpoems.map(Number);
 }
 
 // Find poem ID by name
 function fetchThePoem(currentPoemName, poemsdata) {
-  if (!poemsdata) return 0;
+  if (!poemsdata || poemsdata.length === 0) return 0;
   const index = poemsdata.findIndex(item => item.name === currentPoemName);
   return index !== -1 ? poemsdata[index].id : 0;
 }
 
-export default function KolmikarkiNextPoem(props) {
+export default function KolmikarkiNextPoem() {
   const { state } = useLocation();
   const navigate = useNavigate();
+  const poemsData = usePoemsData();
 
-  const poemsData = state?.b || [];
-  const currentPoemName = state?.a || "";
+  // Redirect to home if accessed directly without state
+  useEffect(() => {
+    if (!state || !state.currentPoem) {
+      navigate("/", { replace: true });
+    }
+  }, [state, navigate]);
+
+  // Don't render if no state (redirect will happen in useEffect)
+  if (!state || !state.currentPoem) {
+    return null;
+  }
+
+  const currentPoemName = state.currentPoem;
 
   // Get kin poems and randomly choose one
   const kinPoems = fetchKinPoems(currentPoemName, poemsData);
   const randomIndex = getRandom(0, kinPoems.length - 1);
 
   const selectedKinPoemId = kinPoems[randomIndex];
-  const selectedKinPoem = poemsData.filter(item => item.id === JSON.stringify(selectedKinPoemId));
+  const selectedKinPoem = poemsData.filter(item => item.id === String(selectedKinPoemId));
 
   // Get current, previous, and next poems
   const currentPoemId = fetchThePoem(currentPoemName, poemsData);
@@ -44,12 +56,6 @@ export default function KolmikarkiNextPoem(props) {
   const currentPoem = poemsData.filter(item => item.id === String(currentPoemId));
   const prevPoem = poemsData.filter(item => item.id === String(prevPoemNum));
   const nextPoem = poemsData.filter(item => item.id === String(nextPoemNum));
-
-  const [count, setCount] = useState(1);
-
-  useEffect(() => {
-    // Reserved for potential future use (e.g., side effects or navigation delay)
-  }, []);
 
   return (
     <Fragment>
