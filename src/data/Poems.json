@@ -4,8 +4,8 @@
     "id": "3",
     "name": "Polttoväli",
     "kinpoems": [
-      4,
-      5
+      10,
+      12
     ],
     "content": "<pre class=\"poemtext\">\n\nPolttoväli\n\nEtsiä kaltaistaan, jonka kohdata. Itseään ympäri käännettynä.\n\nEi vain lihassa, syljessä tai siemenessä, joita hieroa ikäväämme vasten.\n\nLaajentaen lämpöä, tavoitellen toistemme pintaa, johon pyrkiä kiinnittymään.</pre>"
   },
@@ -13,8 +13,8 @@
     "id": "4",
     "name": "Sudenpesä",
     "kinpoems": [
-      4,
-      5
+      9,
+      14
     ],
     "content": "<pre class=\"poemtext\">\n\nSudenpesä\n\nKylmä kiertää sydämen reunan, tiivistyen ja tiputtautuen pisaraksi vatsanpohjalle.\n\nSupistaa reunustavat lihakset ja kaartaa kylkiluut.\n\nAntaa lasittuneen katseen muodostaa maljan, joka hukuttaa vierustavat ihmiset sisäänsä.</pre>"
   },
@@ -22,8 +22,8 @@
     "id": "5",
     "name": "Kello",
     "kinpoems": [
-      4,
-      5
+      5,
+      15
     ],
     "content": "<pre class=\"poemtext\">\n\nKello\n\nKysymykset tipahtavat kuolleiksi lehdiksi\njalkoihini, jotka kävelevät kohti talvea.\n\nTalvea, jossa nuotiot täytyy pysähtyä rakentamaan\nja jossa juoksijan keuhkot käyvät verta.</pre>"
   },
@@ -31,8 +31,8 @@
     "id": "6",
     "name": "Miekannielijä",
     "kinpoems": [
-      4,
-      5
+      24,
+      6
     ],
     "content": "<pre class=\"poemtext\">\n\nMiekannielijä\n\nKasvatan myrskyä viha-rakkaus-suhteessani päiviin\n\nJoista kiihkon ja halun liekki on lainannut itsensä ristiriitojen jättömaalle ilmoittamatta palautuspäivämääräänsä.\n\nTeen uhostani puolipätevän aseenkantajani,\nvarsinaisen Sancho Panzan.\n\nSekoitan kalkista ja äkäisestä hunajasta yömyssyn, jonka juon sirkusteräni kärjeltä.</pre>"
   },
@@ -40,8 +40,8 @@
     "id": "7",
     "name": "Tyhjennysharjoitus",
     "kinpoems": [
-      4,
-      5
+      19,
+      11
     ],
     "content": "<pre class=\"poemtext\">\n\nTyhjennysharjoitus\n\nKipuni valaa itsestään hopealuoteja ja käy karkoittamaan kellariin pesiytynyttä salamatkustajaa.\n\nkohdistaa höyryävin sieraimin itseensä poltetun maan taktiikkaa\n\nkunnes mikään ei enää liiku.\n\nKäärii itsensä tulevan usvaan ja jää vartioimaan satokauden kaskinauriita.</pre>"
   },
@@ -49,17 +49,17 @@
     "id": "8",
     "name": "Sivuääni",
     "kinpoems": [
-      4,
-      5
+      34,
+      25
     ],
-    "content": "<pre class=\"poemtext\">\n\nSivuääni\n\nEtäisyyteen juoksija kaivelee ullakoidensa laatikoita\nlöytääkseen kartan, johon on rastinsa joskus piirtänyt.\n\nEttä hänen askeleensa lopettaisivat piirtämästä  lattialleen yhä uudelleen kaatunutta kahdeksikkoa, joka kuluttaa hiljalleen pois ihmisensä pintaa.</pre>"
+    "content": "<pre class=\"poemtext\">\n\nSivuääni\n\nEtäisyyteen juoksija kaivelee ullakoidensa laatikoita\nlöytääkseen kartan, johon on rastinsa joskus piirtänyt.\n\nEttä hänen askeleensa lopettaisivat piirtämästä lattialleen yhä uudelleen kaatunutta kahdeksikkoa,\n joka kuluttaa hiljalleen pois ihmisensä pintaa.</pre>"
   },
   {
     "id": "9",
     "name": "Ikiliikkuja",
     "kinpoems": [
-      4,
-      5
+      114,
+      55
     ],
     "content": "<pre class=\"poemtext\">\n\nIkiliikkuja\n\nRakkauden ja vihan kaksoiskappaleet kulkevat kiinnitettyinä erottamattomasti kyljistään.\n\nTarve ruokkii omansa ja pelko\nomansa.\n\nSotkevat ajoittain askeleensa keskenään ja kompuroivat.\n\nNousevat ylös, korjaavat luunsa, tarkastavat ompeleensa  ja jatkavat matkaansa kaikilla jaloillaan.</pre>"
   },
@@ -67,8 +67,8 @@
     "id": "10",
     "name": "Yöretket",
     "kinpoems": [
-      4,
-      5
+      47,
+      25
     ],
     "content": "<pre class=\"poemtext\">\n\nYöretket\n\nVielä sanoiksi puettamattomat ajatukset leiriytyvät unen hämärtyvälle pintakalvolle.\n\nPolttavat leiritulensa, joiden hiilloksesta nousevat savukiehkurat muodostavat hiekkasilmäisen pimeän saattoväen.\n\nKuljettavat minua kolikot silmilläni jälleen tällä kertaa virran yli tai takaisin.</pre>"
   },
@@ -76,8 +76,8 @@
     "id": "11",
     "name": "Hetki",
     "kinpoems": [
-      4,
-      5
+      43,
+      135
     ],
     "content": "<pre class=\"poemtext\">\n\nHetki\n\nKatson kaikkea sitä, mikä myrskyää läpi päivien\n\npysähtyneenä, välimatkansa kauniiseen jäädyttäneenä.\n\nAjan paino on tasannut lyhyeksi aikaa itsensä eteeni\n\nJa historiani on käyttänyt itsensä päivän kääntäjällä.</pre>"
   },
@@ -85,8 +85,8 @@
     "id": "12",
     "name": "Kotelo",
     "kinpoems": [
-      4,
-      5
+      111,
+      222
     ],
     "content": "<pre class=\"poemtext\">\n\nKotelo\n\nPosliinisäryt piirtävät kuvionsa pitkin sidottuja jalkoja.\n\nPakotetun kauneiden pyrkiessä taivuttamaan itsensä  ihmisen muotoon.</pre>"
   },
@@ -94,8 +94,8 @@
     "id": "13",
     "name": "Nälkä",
     "kinpoems": [
-      4,
-      5
+      54,
+      87
     ],
     "content": "<pre class=\"poemtext\">\n\nNälkä\n\nKulkukoirat ottavat laumaansa\n\nRuokkivat luuytimillään.\n\nJohdattavat silmäkulmasta tuntemattomalle kadulle, jonka olen kulkenut lukemattomia kertoja.\n\nJuottavat elävistä valuma-altaista, jotka sade on juuri täyttänyt.</pre>"
   },
@@ -103,8 +103,8 @@
     "id": "14",
     "name": "Katoaminen",
     "kinpoems": [
-      4,
-      5
+      94,
+      88
     ],
     "content": "<pre class=\"poemtext\">\n\nKatoaminen\n\nAjatukset ja ruumis katkaisevat välinsä\nEtäisyydet typistyvät.\nÄånet tekevät itsestään kohinan,\njoka hukuttaa.\n\nOdotan,\ntietämättä ketä tai koska.\n\nKadotan, tietämättä mitä.\n\nOlen, tietämättä missä.</pre>"
   },
@@ -112,8 +112,8 @@
     "id": "15",
     "name": "Piknik",
     "kinpoems": [
-      4,
-      5
+      33,
+      67
     ],
     "content": "<pre class=\"poemtext\">\n\nPiknik\n\nVuorovaikutuksen vedet vetäytyvät ja jättävät jälkeensä ajatuksistansa katkenneen laiturin.\n\nUimahyppääjä\nlyö päänsä ilmaa haukkoviin kaloihin.\n\nRaitapukuinen auringonpalvoja kietoo vyötärönsä ympärille rantaan huuhtoutuneen talven renkaan.\n\nNokimeriharakka etsii kivien välistä leipääni, joka pomppii pakenevan jään pinnalle.</pre>"
   },
@@ -121,8 +121,8 @@
     "id": "16",
     "name": "Käärmeet",
     "kinpoems": [
-      4,
-      5
+      204,
+      175
     ],
     "content": "<pre class=\"poemtext\">\n\nKäärmeet\n\nPaljastettu niska kutsuu viipyvät huulet vierakseen,\nunohdetut silmät katoamaan toisen olkapään yli.\n\nKädet ja jalat tipahtamaan lattialle,\nraajojen haamut hallitsemaan enää kiertoliikkeensä vartaloiden ympäri.</pre>"
   },
@@ -130,8 +130,8 @@
     "id": "17",
     "name": "Pidot",
     "kinpoems": [
-      4,
-      5
+      64,
+      55
     ],
     "content": "<pre class=\"poemtext\">\n\nPidot\n\nPuolikuu asettuu kyljelleen kahden auringon alapuolelle.\n\nEikä horisontti piirrä enää erottelevaa viivaansa.\n\nKaikki opiskellut jumalat ja perkeleet kömpivät sisään ensimmäisistä löytämistään ruumiini aukoista\n\nJa alkavat tutustua toisiinsa paremmin.</pre>"
   },
@@ -139,8 +139,8 @@
     "id": "18",
     "name": "Ideologia",
     "kinpoems": [
-      4,
-      5
+      86,
+      69
     ],
     "content": "<pre class=\"poemtext\">\n\nIdeologia\n\nOdotuksen ja toteutuksen lapset\nkulkevat parijonoissa toistensa ohitse.\n\nViiltäen samalla auki\ntarpeensa ihon.\n\nSiemenkodat tipahtelevat taivaalta\navautuneeseen kyntövakoon.\n\nVuodet kasvattavat vinot puut,\nJotka kantavat outoja hedelmiä.\n\nKnalli odottaa käännetty herra kourassa.</pre>"
   },
@@ -148,8 +148,8 @@
     "id": "19",
     "name": "Kulakki",
     "kinpoems": [
-      4,
-      5
+      33,
+      77
     ],
     "content": "<pre class=\"poemtext\">\n\nKulakki\n\nKasvoveri maalaa taustansa maaväreillä\n\nJotka kulkevat kaikkien vuosien läpi.\n\nKukka koristaa napin pieltä ja nappi otsaa.\n\nIstutettu ajatus hengittää kuoleman läpi.</pre>"
   },
@@ -157,8 +157,8 @@
     "id": "20",
     "name": "Tourette",
     "kinpoems": [
-      4,
-      5
+      57,
+      186
     ],
     "content": "<pre class=\"poemtext\">\n\nTourette\n\nPintajännitys rikkoutuu rakeista,\njoiksi vesi tiivistyy.\n\nKun iskeydymme yhteen.\n\nVoima kuljettaa aisteja ohi uomien,\nAjatukset ajautuvat toistensa eteen.\n\nKieli asettuu viipaloituna tarjoilulautasilleen.</pre>"
   },
@@ -166,17 +166,17 @@
     "id": "21",
     "name": "Kylmä",
     "kinpoems": [
-      4,
-      5
+      231,
+      196
     ],
-    "content": "<pre class=\"poemtext\">\n\nKylmä\n\nVoimattomuus ajelehtii  kohti pohjoista ja toivoo, että kääntöpiiri sinkauttaa kipinäni liikkeelle\n\nEnnen kuin arktiset vedet rikkovat jäätyviä kannatinrakenteita.\n\nSamaan aikaan kun kapteeni kolja etsii pelastusveneistään jäniksiä, joiden käpälät liimata herra Cul-de-Sacin luokse matkaavien hiljalleen halvaantuvien raajojeni tilalle.</pre>"
+    "content": "<pre class=\"poemtext\">\n\nKylmä\n\nVoimattomuus ajelehtii kohti pohjoista ja toivoo, että kääntöpiiri sinkauttaa kipinäni liikkeelle\n\nEnnen kuin arktiset vedet rikkovat jäätyviä kannatinrakenteita.\n\nSamaan aikaan kun kapteeni kolja etsii pelastusveneistään jäniksiä, \njoiden käpälät liimata herra Cul-de-Sacin luokse matkaavien hiljalleen halvaantuvien raajojeni tilalle.</pre>"
   },
   {
     "id": "22",
     "name": "Kisälli",
     "kinpoems": [
-      4,
-      5
+      24,
+      127
     ],
     "content": "<pre class=\"poemtext\">\n\nKisälli\n\nIhmissiltani ovat rikkoutuneet rytmihäiriöihin.\n\nJa koen olevani pakotettu paastoamaan hetken kysymysmerkeillä.\n\nKunnes kävelen hankiaiselle, jonka kevään kylmä kirkkaus on laskenut alleni.\n\nMietin perustuksiani uudelleen\n\nJa piirrän itselleni uusia siltoja sulavien vesien ylitse, koristellun kaulani korkeudelle.</pre>"
   },
@@ -184,8 +184,8 @@
     "id": "23",
     "name": "Pakkopaita",
     "kinpoems": [
-      4,
-      5
+      96,
+      69
     ],
     "content": "<pre class=\"poemtext\">\n\nPakkopaita\n\nKuuntelen koneeni hurinaa\nkuuntelen vastaanottimeni sirinää\nKuuntelen mehiläisteni pörinää\nLöytämättä äänistäni hunajaa.\n\nKun ajatukset pyörivät loputonta ympyrää umpeen muuratun pääni sisällä.\n\nKun ajatukset iskevät käpälänsä tyngiksi ympäröivään ihmisrautaan.</pre>"
   },
@@ -193,8 +193,8 @@
     "id": "24",
     "name": "Kiertokulku",
     "kinpoems": [
-      4,
-      5
+      133,
+      211
     ],
     "content": "<pre class=\"poemtext\">\n\nKiertokulku\n\nAjan vuoksi kiertää jälleen ympäri\n\ntäyttääkseen valkean, jonka aika on jättänyt luoteeseen.\n\npienet kuihtumaiset seppeleet kiertävät  juurensa otsaltani rinnalleni.\n\nJonka alla sydämeni etsii uudelleen\nsykettään liikkeeni rytmistä.</pre>"
   },
@@ -202,17 +202,17 @@
     "id": "25",
     "name": "Paalu",
     "kinpoems": [
-      4,
-      5
+      107,
+      85
     ],
-    "content": "<pre class=\"poemtext\">\n\nPaalu\n\nVeistän itsestäni kauniimpaa  Akhilleelta varastetulla kantapäällä.\n\nLastu kerrallaan.</pre>"
+    "content": "<pre class=\"poemtext\">\n\nPaalu\n\nVeistän itsestäni kauniimpaa\n Akhilleelta varastetulla kantapäällä.\n\nLastu kerrallaan.</pre>"
   },
   {
     "id": "26",
     "name": "Kuola",
     "kinpoems": [
-      4,
-      5
+      117,
+      164
     ],
     "content": "<pre class=\"poemtext\">\n\nKuola\n\nAskel uppoaa talvisen narisevaan lumeen.\nJa toinen, kolmas, vielä neljäskin.\n\nToisiaan seuraavat pidentyvät yöt katkaisevat väliset aistit.\n\nKunnes enää vahvimmat ajatuksemme jaksavat kulkea ajan kylmäksi käyneen selän yli toistemme luo.</pre>"
   },
@@ -220,8 +220,8 @@
     "id": "27",
     "name": "Hämähäkki",
     "kinpoems": [
-      4,
-      5
+      77,
+      181
     ],
     "content": "<pre class=\"poemtext\">\n\nHämähäkki\n\nSanat tavoittelevat vastinkappaleitaan, kunnes väsyvät yksi toisensa jättämiin heikkeneviin jälkiin\n\njoihin särömme ilmestyvät.\n\nHapuilen luottamuksen vielä valaisevassa hämärässä\n\nlaskeutuen varovaisesti vielä rakentuneiden seittiemme varaan.\n\nNiiden, joita yhteen liitetyt kätemme joskus kutoivat.</pre>"
   },
@@ -229,17 +229,17 @@
     "id": "28",
     "name": "Karhu",
     "kinpoems": [
-      4,
-      5
+      205,
+      175
     ],
-    "content": "<pre class=\"poemtext\">\n\nKarhu\n\nOta sanoistani kiinni.\nSelätä ne.\n\nKuori hunaja haaskani päältä.\n\nLaita pitkittynyt selkäni koskettamaan maata. Nosta ehdottomat raajani kohti yllemme virittyvää taivasta.</pre>"
+    "content": "<pre class=\"poemtext\">\n\nKarhu\n\nOta sanoistani kiinni.\nSelätä ne.\n\nKuori hunaja haaskani päältä.\n\nLaita pitkittynyt selkäni koskettamaan maata. \nNosta ehdottomat raajani kohti yllemme virittyvää taivasta.</pre>"
   },
   {
     "id": "29",
     "name": "Rodeo",
     "kinpoems": [
-      4,
-      5
+      166,
+      133
     ],
     "content": "<pre class=\"poemtext\">\n\nRodeo\n\nYritän ottaa kiinni ajasta\netten karkaisi itseltäni.\n\nLuikahdan silti käsistäni\nja annan\najatukseni ennättää askeleen itsensä edelle.\n\nPitämään kultaisen vasikkani jalkojeni välissä ja lasittuneen fallokseni ajautuneena taivaan rantaan.</pre>"
   },
@@ -247,8 +247,8 @@
     "id": "30",
     "name": "Silmä",
     "kinpoems": [
-      4,
-      5
+      123,
+      134
     ],
     "content": "<pre class=\"poemtext\">\n\nSilmä\n\nRajat, jotka olen sitonut laukalle laskemieni ajatusten satuloihin\n\novat piirtäneet elämäni reunat ja kiskoneet tuuleni yhteen.\n\nKeränneet myrskyni hetkeksi kasaan yhdeksi tarkentuneeksi pupilliksi.</pre>"
   },
@@ -256,8 +256,8 @@
     "id": "31",
     "name": "Amazon",
     "kinpoems": [
-      4,
-      5
+      146,
+      157
     ],
     "content": "<pre class=\"poemtext\">\n\nAmazon\n\nHelppojen vastausten telakka kutsuu kylkiä luokseen.\n\nImukalat ruostuttavat suunsa sivuista teräviksi.\n\nJatkuvan sateen alla pyöristävät suitaan.\n\nLuiden välit, ne haluavat vuotaa.</pre>"
   },
@@ -265,8 +265,8 @@
     "id": "32",
     "name": "Turnajaistuli",
     "kinpoems": [
-      4,
-      5
+      148,
+      159
     ],
     "content": "<pre class=\"poemtext\">\n\nTurnajaistuli\n\nAstun nuotioon, jonka toiselta puolelta silmäsi löytävät omani.\n\nToivon että katseeni ei väistä katsettasi ennen kuin vuodamme itsemme toistemme kuviksi toistemme syliin.</pre>"
   },
@@ -274,8 +274,8 @@
     "id": "33",
     "name": "Kalastaja",
     "kinpoems": [
-      4,
-      5
+      53,
+      64
     ],
     "content": "<pre class=\"poemtext\">\n\nKalastaja\n\nKierrän kieleni koukuksi korvasi reunalle.\n\nAsetan syötiksi palan sydäntä.\n\nRipustan itseni laiturin nokkaan,\nnostelen vapaani.\n\nHärnään,\nilkamoin.\n\nKuuntelen,\nkatselen syvyyteen,\nvarron.</pre>"
   },
@@ -283,8 +283,8 @@
     "id": "34",
     "name": "Kuohu",
     "kinpoems": [
-      4,
-      5
+      32,
+      21
     ],
     "content": "<pre class=\"poemtext\">\n\nKuohu\n\nUpotettuihin kiviin iskeytyvä\nvirtaava vesi nostaa ilmaan\n\nAaveet ja haaveet,\njotka tekeytyvät päivänkorennoiksi.\n\nNiiksi, jotka riehakoivat, liehakoivat, käyvät soitimelleen.\n\nNiiksi, jotka yhtyvät sekoittuneiksi ilmalennoiksi.\n\nNiiksi,\njotka eivät halua palata vetensä pinnalle.</pre>"
   },
@@ -292,8 +292,8 @@
     "id": "35",
     "name": "Ratapiha",
     "kinpoems": [
-      4,
-      5
+      74,
+      85
     ],
     "content": "<pre class=\"poemtext\">\n\nRatapiha\n\nRuttovahti, vihaliha,\npolttava ihmisen läsnäolo.\n\nKaikonnut usko lämpimiin vastauksiin,\nkylmä logiikka, joka synnyttää psykopaattilapsiaan.\n\nPeili, joka näyttää ainoastaan ääriviivoja.\n\nSalonkivaunu, jossa en halua näyttää kauniilta.</pre>"
   },
@@ -301,8 +301,8 @@
     "id": "36",
     "name": "Puute",
     "kinpoems": [
-      4,
-      5
+      79,
+      68
     ],
     "content": "<pre class=\"poemtext\">\n\nPuute\n\nVain viisi pientä katkennutta sormea.\n\nEi höyryävää sydäntä\ntai punaista lihaa.</pre>"
   },
@@ -310,8 +310,8 @@
     "id": "37",
     "name": "Lyhdynkantaja",
     "kinpoems": [
-      4,
-      5
+      94,
+      83
     ],
     "content": "<pre class=\"poemtext\">\n\nLyhdynkantaja\n\nKauniit vierestä kuullut sanat\nasioista, jotka karttavat.\n\nAjan askeleet, jotka kiehnäävät nilkkoihin kulkukoiran kaltoin tavoin.\n\nYön suusta kömpii aamu,\njoka edelleen pidättelee hengitystään.</pre>"
   },
@@ -319,8 +319,8 @@
     "id": "38",
     "name": "Palaaja",
     "kinpoems": [
-      4,
-      5
+      99,
+      88
     ],
     "content": "<pre class=\"poemtext\">\n\nPalaaja\n\nIstun kivellä,\nvirran reunalla.\n\nTeen kädestäni kupin,\njonka upotan pintajännitteen alle.\n\nHetkeksi, kunnes\n\nnostan sen huulilleni\n\njuodakseni alkukotini.</pre>"
   },
@@ -328,17 +328,17 @@
     "id": "39",
     "name": "Varpushaukka",
     "kinpoems": [
-      4,
-      5
+      44,
+      55
     ],
-    "content": "<pre class=\"poemtext\">\n\nVarpushaukka\n\nKiihdytän,\nkunnes vauhti karistaa viimeiset lumet risukon oksien päältä.\n\nTarraan\nkarkulaiseeni kiinni kiihkon ja kiintymyksen kaksoiskynsillä.\n\nKatkon\nsaaliilta siiveet kauniilla sanoilla\nja\nPudotan\nomani luottamuksen jalkojen juureen.</pre>"
+    "content": "<pre class=\"poemtext\">\n\nVarpushaukka\n\nKiihdytän,\nkunnes vauhti karistaa viimeiset lumet risukon oksien päältä.\n\nTarraan\nkarkulaiseeni kiinni kiihkon ja kiintymyksen kaksoiskynsillä.\n\nKatkon\nsaaliilta siiveet kauniilla sanoilla\n\nja\n\nPudotan\nomani luottamuksen jalkojen juureen.</pre>"
   },
   {
     "id": "40",
     "name": "Mökki",
     "kinpoems": [
-      4,
-      5
+      36,
+      54
     ],
     "content": "<pre class=\"poemtext\">\n\nMökki\n\nHukatut avaimet ottavat  hengitysilmansa pihajäätikkönsä railoista.\n\nPuhaltavat  kylmemmäksi käyneen uloshengityksensä puikoiksi roikkumaan räystäänsä reunaan.\n\nTippumaan\n\nPahaa aavistamattomien\n\nOmien ja vieraiden\n\nYstävien ja vihollisten\n\nKaikkien\n\nPaljastettuihin niskoihin.</pre>"
   },
@@ -346,8 +346,8 @@
     "id": "41",
     "name": "Bakkanaali",
     "kinpoems": [
-      4,
-      5
+      139,
+      128
     ],
     "content": "<pre class=\"poemtext\">\n\nBakkanaali\n\nKurottaudun Bacchuksen\nhuulien väliin.\n\nVieritän ympärilleni\nhellän narkoottisen harson\n\nja\n\npiehtaroin vilun väreet olkapäiltäni\nKäpälänjäljiksi purppuralumeen.</pre>"
   },
@@ -355,8 +355,8 @@
     "id": "42",
     "name": "Siili",
     "kinpoems": [
-      4,
-      5
+      153,
+      146
     ],
     "content": "<pre class=\"poemtext\">\n\nSiili\n\nMitta kiertyy itseensä\nja\nkääntää ulospäin piikkinsä\n\nJotka vuodattavat verensä\npuhkomansa ihmisen sisään.\n\nSamalla kun\n\nLuotilanka huutaa sumuiselle talviselle ulapalle\nkuullakseen oman äänensä toisen suulla.</pre>"
   },
@@ -364,8 +364,8 @@
     "id": "43",
     "name": "Salpietari",
     "kinpoems": [
-      4,
-      5
+      172,
+      181
     ],
     "content": "<pre class=\"poemtext\">\n\nSalpietari\n\nHäränpylly heittelehtii peilin pinnalla\n\nSanahaarukat hakevat lihan pyörivälle lautaselle\n\nAsetetulle\n\nAlhaalta maalattujen pahojen ja ylhäältä puunattujen pyhien väliin viritetylle\n\nkauhun tasapainolle.</pre>"
   },
@@ -373,8 +373,8 @@
     "id": "44",
     "name": "Lievepyydystäjä",
     "kinpoems": [
-      4,
-      5
+      192,
+      233
     ],
     "content": "<pre class=\"poemtext\">\n\nLievepyydystäjä\n\nLiikun kantapää suussa.\n\nTartun kiinni merkityksestä,\nhuomaan pikku pirun muuttaneen.\n\nPuristan korvieni käsiini luovuttamat uudet sanat nyrkkini sisään\n\nja\n\nPidättelen puhaltamaan tullutta taikuria pysymään loitolla,\n\nkunnes ehdin\n\nKiivetä\ntakaisin palttooni sisään.</pre>"
   },
@@ -382,8 +382,8 @@
     "id": "45",
     "name": "Kaksoiskuut",
     "kinpoems": [
-      4,
-      5
+      206,
+      221
     ],
     "content": "<pre class=\"poemtext\">\n\nKaksoiskuut\n\nHarvajalkaisten öinen metsä\nkuihtuu kukistaan\n\ntoistensa läheltä\nohittavien horisonttien edessä.\n\nAiain koukkusormi\nsäikäyttää jo liian suuriksi käyneet kantajansa silmät.</pre>"
   },
@@ -391,8 +391,8 @@
     "id": "46",
     "name": "Sanaisen arkkuni kantajia",
     "kinpoems": [
-      4,
-      5
+      163,
+      187
     ],
     "content": "<pre class=\"poemtext\">\n\nSanaisen arkkuni kantajia\n\nDadan läpi uitettu lasinpala,\n\nKöysistä pelastettu hanskoitettu tanssiaskel,\n\nLiekaan sidottu mittarimato\n\nja\n\nYksittäinen talventörröttäjä.</pre>"
   },
@@ -400,8 +400,8 @@
     "id": "47",
     "name": "Viiltojen saari",
     "kinpoems": [
-      4,
-      5
+      169,
+      128
     ],
     "content": "<pre class=\"poemtext\">\n\nViiltojen saari\n\nPysäytetty aika viettää\nmuistista kadonneiden\nkasvojen linnakkeeseen.\n\nPuiltaan eksyneen metsän maille.\n\nJonne omaehtoinen rauha on laskenut\nhiljentyneen liikkeensä luoman\nhuurteisen häähunnun.</pre>"
   },
@@ -409,8 +409,8 @@
     "id": "48",
     "name": "Uhripiha",
     "kinpoems": [
-      4,
-      5
+      191,
+      182
     ],
     "content": "<pre class=\"poemtext\">\n\nUhripiha\n\nHaluttomaksi käynyt suu\npudottaa veltoiksi käyneet kysymyksensä lattialle.\n\nNäkemään väsynyt kääntää samentuneista silmistään valkoisen lipun\nja syöttää pupillinsa olmilleen.\n\nLöytää lemmikkinsä omista suljetuista käsistään,\njoiden käyttötarkoituksen on kadottanut jo kauan sitten.</pre>"
   },
@@ -418,8 +418,8 @@
     "id": "49",
     "name": "Haaveittuneet",
     "kinpoems": [
-      4,
-      5
+      139,
+      147
     ],
     "content": "<pre class=\"poemtext\">\n\nHaaveittuneet\n\nTulevan menneeseensä kohdistama kaunis katse\n\nTavoittelee nykyisyydessään riutuvaa vastakappaleettaan\n\nOdotus muodostaa alkovin, jonne väliin jäänyt aika kiertyy\n\nHaistelemaan ilmaa kielellään ja harjoittelemaan kuristusotettaan.</pre>"
   },
@@ -427,8 +427,8 @@
     "id": "50",
     "name": "Polttovaljaat",
     "kinpoems": [
-      4,
-      5
+      118,
+      138
     ],
     "content": "<pre class=\"poemtext\">\n\nPolttovaljaat\n\nJäätyneen veden poikki\njuoksevat Laikani.\n\nEtsiessään kantavaa\nliekinkestävää pintaa\nkuolleen mereni yllä.</pre>"
   },
@@ -436,8 +436,8 @@
     "id": "51",
     "name": "Lumisadepallo",
     "kinpoems": [
-      4,
-      5
+      188,
+      177
     ],
     "content": "<pre class=\"poemtext\">\n\nLumisadepallo\n\nAse suussa\nkieli kädessä\n\nPiirtää pelokas eksyklopedisti\nkokemisen yhtenäistettävää rajaa.\n\nRatsastaen oksymoronillaan\npitkin saumoistaan repeilevää ihmisen ihoa\n\nRakentaa suvaitsevaisuutta\nsisällyttämisen ja poissulkemisen\nkaksoispiikillään,\n\njota pelollaan öljyää.</pre>"
   },
@@ -445,8 +445,8 @@
     "id": "52",
     "name": "Kaleidoskopia",
     "kinpoems": [
-      4,
-      5
+      119,
+      29
     ],
     "content": "<pre class=\"poemtext\">\n\nKaleidoskopia\n\nUtelias\nkierittelee edestakaisin\nkohtaamansa katsetta\n\nEtsii silmien syvyyksistä kiteitä\n\njotka liikahtaessaan\ntuovat esiin uskalikkoja\n\njoita vasten iskeytyvät\netsijän omat vastinparit\nuudelleen järjestyvät.</pre>"
   },
@@ -454,8 +454,8 @@
     "id": "53",
     "name": "Usvavankkurit",
     "kinpoems": [
-      4,
-      5
+      37,
+      183
     ],
     "content": "<pre class=\"poemtext\">\n\nUsvavankkurit\n\nAsetan lumeentuneen\njalkani aistinlaudalle\n\nNousen kuskinpenkille,\notan käsiini ohjakset, joilla\n\nvaatetan alastomuuttani edessäsi\nsamalla kun\nviitoitan haavoittuvaisuuttani\nvarovaisella hymylläni\n\nNostan matkallemme\nmaljan ajurilasistani\n\nusuttaessani  sanoitetun ratsukkoni\nniihin kolkkiin,\n\njoihin olen vienyt jo kuolleeni.\nja\njoista tuon vielä eläväni.</pre>"
   },
@@ -463,8 +463,8 @@
     "id": "54",
     "name": "Rajankäyntiä",
     "kinpoems": [
-      4,
-      5
+      104,
+      193
     ],
     "content": "<pre class=\"poemtext\">\n\nRajankäyntiä\n\nKeihästät uneni reunan\nnälkäisellä aikaisella kielelläsi\n\njoka kiertelee\npiirtelemässä puumerkkejään\n\nunesta takaisin maailmaan syntyvälle\nvielä koristelemattomalle iholleni\n\nMuodostaen kärkensä lämmöllä sulia, joihin muuttolintuni merkki kerrallaan palaavat.</pre>"
   },
@@ -472,8 +472,8 @@
     "id": "55",
     "name": "Irtolainen",
     "kinpoems": [
-      4,
-      5
+      1,
+      16
     ],
     "content": "<pre class=\"poemtext\">\n\nIrtolainen\n\nKadottaneiden kulmahampaiden\nhitaasti mukaansa\nnakertamat ankkuripoijut\n\nVaihtaneet lähtiessään\nmaisemaikkunan tilalle\nmuukalaisen asuttaman peilin.\n\nPeilin nurkkiin piiloutuneet piirteet aseistuneina\nväijymään hetkeä,\n\njolloin tulevat\nilmestymään jälleen kokemieni hetkien kirkkaaseen pintaan.</pre>"
   },
@@ -481,8 +481,8 @@
     "id": "56",
     "name": "Odotuksen varas",
     "kinpoems": [
-      4,
-      5
+      107,
+      155
     ],
     "content": "<pre class=\"poemtext\">\n\nOdotuksen varas\n\nLevollisuuden oras kurkistaa\npienellä sievällä päällään\n\nPitkittyneen yön kainalosta,\njonne ketunhäntä on sen piilottanut\n\nPuhaltaa lämpimän pienen vieraan hetken\ntutun rintalastan alle\n\nJa\n\nLupaa olla siellä,\nminne en vielä kunnolla näe.</pre>"
   },
@@ -490,8 +490,8 @@
     "id": "57",
     "name": "Lyhtykrotti",
     "kinpoems": [
-      4,
-      5
+      172,
+      181
     ],
     "content": "<pre class=\"poemtext\">\n\nLyhtykrotti\n\nKipukala ui\nmyrkyttyneiden kohtaamisten välistä\n\nSyvänteisiin,\njonka seinämät sairastuneiden sanojen haulit\novat suolanneet.\n\nNäyttää lampullaan valoa enää  itselleen ja uskottelee pystyvänsä silti hankkimaan saaliinsa.\n\nHakee rauhaansa leikkien\nvenäläistä rulettia\nunohduksellaan.</pre>"
   },
@@ -499,8 +499,8 @@
     "id": "58",
     "name": "Kiertolaiset",
     "kinpoems": [
-      4,
-      5
+      195,
+      174
     ],
     "content": "<pre class=\"poemtext\">\n\nKiertolaiset\n\nEros-toukat kaivautuvat ylös\nkohmettuvan rakkauden pinnalle\n\nJohon kiinnittyvät ja koteloituvat\nkeräämään kylmentyneisiin kehoihinsa uuden ilman nostattamaa lämpöä.\n\nKuoriutuakseen ja lentääkseen vielä kerran syntyneillä neljällä siivellään uutena suudelmana takaisin\nlöytäneensä ihmisen suuhun.</pre>"
   },
@@ -508,8 +508,8 @@
     "id": "59",
     "name": "Eräs ihmisen kuva",
     "kinpoems": [
-      4,
-      5
+      86,
+      92
     ],
     "content": "<pre class=\"poemtext\">\n\nEräs ihmisen kuva\n\nTuulen pitelemä pieli,\nAjan aina auki repimä.\n\nOnnenkerääjä,\nSurun suustaan sylkijä.\n\nKasa kaluttuja luita,\nkehrä pidetyssä kädessä.</pre>"
   },
@@ -517,8 +517,8 @@
     "id": "60",
     "name": "Ruttolapset",
     "kinpoems": [
-      4,
-      5
+      114,
+      190
     ],
     "content": "<pre class=\"poemtext\">\n\nRuttolapset\n\nRumien hetkien\nilmoille laskema\näpärälauma\n\nleikkimässä\nkirjailluilla tikareilla\n\nPyörimässä tulevaisuuden\nkaatuvissa jaloissa\nriehakoimassa\nViiltämässä sen\nennen niin viehkeitä jalkojen mukana kaatuvia kasvoja\nisku kerrallaan\ntunnistamattomaksi\ntulevaksi\nkolariuhriksi.</pre>"
   },
@@ -526,17 +526,17 @@
     "id": "61",
     "name": "Palokärki",
     "kinpoems": [
-      4,
-      5
+      14,
+      85
     ],
-    "content": "<pre class=\"poemtext\">\n\nPalokärki\n\nRunkoansa rei'ittävä tuli\nyrittää\nlaajentua\nsupistua\nyhtä\naikaa\n\nLävistää katseen\nkaratessaan\nPuhkaisee sydämen\npalatessaan\n\nHapuilee\nhappea\nyrittäessään\n\nolla polttamatta\nelävää\nkantajaansa\n\nHaluamatta\njättää\nsisälle\nvain hitaasti tummuvaa heikkenevää kytöä.</pre>"
+    "content": "<pre class=\"poemtext\">\n\nPalokärki\n\nRunkoansa rei'ittävä tuli\nyrittää\nlaajentua, supistua\nyhtä aikaa\n\nLävistää katseen\nkaratessaan\nPuhkaisee sydämen\npalatessaan\n\nHapuilee happea yrittäessään\n\nolla polttamatta\nelävää\nkantajaansa\n\nHaluamatta\njättää\nsisälle\nvain hitaasti tummuvaa heikkenevää kytöä.</pre>"
   },
   {
     "id": "62",
     "name": "Dervissi",
     "kinpoems": [
-      4,
-      5
+      67,
+      92
     ],
     "content": "<pre class=\"poemtext\">\n\nDervissi\n\nKorkeuttaan menettäneet\najatukset\n\nVäistävät lähestyvää kosketuspintaa\nkuolemansa kanssa\n\nSukeltavat ukkospilveen.\n\nAntautuvat kiihkeyteensä eksyneeseen rukoukseen, joka päättää\n\nToiveikkuuteni kohti jotain, jonka pulssin voin mitata suoraan\n\nKatseeni salamoiden vielä teroittamalta terältä.</pre>"
   },
@@ -544,8 +544,8 @@
     "id": "63",
     "name": "Osuma",
     "kinpoems": [
-      4,
-      5
+      37,
+      73
     ],
     "content": "<pre class=\"poemtext\">\n\nOsuma\n\nOrastava kylmyys väreilee\nhaavoittuneen ihmisen eksyneellä pinnalla.\n\nOttaa ajatuksia tiukasti kädestä\nja taluttaa ne perustarpeiden äärelle.\n\nNostaa itsesuojeluvaiston\nmielen uumalta sen päälle.\n\nTäyttää tyhjentyneen pöydän\nmuistista kaivetuista kohtaamisista\nkauneimmilla\n\nJa ihon sisään varastoituneista\nkosketuksen jyvistä  vielä\npolttavimmilla.</pre>"
   },
@@ -553,8 +553,8 @@
     "id": "64",
     "name": "Eräs ihmisen kuva II",
     "kinpoems": [
-      4,
-      5
+      46,
+      63
     ],
     "content": "<pre class=\"poemtext\">\n\nEräs ihmisen kuva II\n\nElämänlangallaan\ntarpeidensa nurkista\nmaailman selkään\nkirjailtu kotelo.</pre>"
   },
@@ -562,8 +562,8 @@
     "id": "65",
     "name": "Kuolio",
     "kinpoems": [
-      4,
-      5
+      119,
+      127
     ],
     "content": "<pre class=\"poemtext\">\n\nKuolio\n\nMahdottomuuden syli\nkuristaa kylkiä kasaan tyhjyydeltä lainatuilla\nleveillä käsillään.\n\nIlman annettua suuntaa\njuoksuunsa karanneet jalat\nkykenevät vain polkemaan paikallaan\n\nPotkimaan sydäntä kasaan.\n\nKasvattavat sisään\nkääntyneet piikit\nitseensä väsyneen hymyn molempiin päihin\n\nVaihtavat silmämunien veden\narsenikkiin.</pre>"
   },
@@ -571,8 +571,8 @@
     "id": "66",
     "name": "Syntymämerkki",
     "kinpoems": [
-      4,
-      5
+      182,
+      171
     ],
     "content": "<pre class=\"poemtext\">\n\nSyntymämerkki\n\nLauhojen tuulten\nedellään ajamat etiäiset\n\nHoukuttelevat esiin\nmaailman salataskuihin\nkadonneet kameleontit\n\nJotka eivät\nenää vaihda muotoa\nOsaavat\nedelleen vaihtaa väriä\n\nTulevat\nja\nIskevät kristallikielensä\nuudeksi osaksi vanhaa otsaluuta.</pre>"
   },
@@ -580,8 +580,8 @@
     "id": "67",
     "name": "Sisarukset",
     "kinpoems": [
-      4,
-      5
+      164,
+      148
     ],
     "content": "<pre class=\"poemtext\">\n\nSisarukset\n\nPerille päässeet sanat\neivät yllä enää kotiinsa asti.\n\nEtäisyys tuiskuttaa\nmatkaa tehneet virkkeet umpeen.\n\nKaukana\n\njossain ajattelu lämmittelee hankeen\nkylmettyvää tunnetta,\n\nkun ei voi kylkeänsä irti leikata tai\nsydäntänsä ulos kaivaa\n\nkaksoisveljensä rinnasta\n\nitseänsä pelastamaan.</pre>"
   },
@@ -589,8 +589,8 @@
     "id": "68",
     "name": "Kierto",
     "kinpoems": [
-      4,
-      5
+      177,
+      133
     ],
     "content": "<pre class=\"poemtext\">\n\nKierto\n\nVälittömyys lävistää\ntaas\nkeskeemme kasvaneet välit.\n\nRumiksi revenneet railot.\n\nKuilun,\njosta kartoimme\n\npäädyn ei-kenenkään-maalle,\njosta en löydä enää itseäni.</pre>"
   },
@@ -598,8 +598,8 @@
     "id": "69",
     "name": "Haaksirikko",
     "kinpoems": [
-      4,
-      5
+      134,
+      185
     ],
     "content": "<pre class=\"poemtext\">\n\nHaaksirikko\n\nTunteidensa ulkopuolelle rantautunut\nharmaavalas\n\nseurustelee Pääsiäissaarten\npatsaiden kanssa.\n\nKatselee merelle,\njosta nousi rikkinäisen kaikuluotaimensa\nkanssa kuivaksi luulemalleen maalle.</pre>"
   },
@@ -607,8 +607,8 @@
     "id": "70",
     "name": "Nielukko",
     "kinpoems": [
-      4,
-      5
+      191,
+      183
     ],
     "content": "<pre class=\"poemtext\">\n\nNielukko\n\nAataminomenansa ympärille kiertynyt taivaanranta\n\nTyngiksi järsityt kädet\n\nSisään vedetty jäätynyt hengitys.\n\nPidättyneenä painona kurkunpään päällä,\npoistumistietä etsimässä.</pre>"
   },
@@ -616,8 +616,8 @@
     "id": "71",
     "name": "Chaplin",
     "kinpoems": [
-      4,
-      5
+      149,
+      138
     ],
     "content": "<pre class=\"poemtext\">\n\nChaplin\n\nPelko kuorii itsestään todistajan,\njoka\n\nlainaa kenkänsä karkoitetulta kulkurilta\nkuminauhoittaa järkensä.\nMaalaa hymyn kasvoilleen\ntähden silmänsä ympärille\n\nHakee kauneuden komiikasta, repii hellyyden huumorista\n\nPilkkoo purevuutta pilkkakirveellä, jonka lainaa kertomatta siltä suurimmalta ilveilijältä kaikista.\n\nLaulaa lihavan naisen kanssa itsensä ulos\nkujalta, jonka lamput on kivitetty onnen sirpaleista.</pre>"
   },
@@ -625,8 +625,8 @@
     "id": "72",
     "name": "Kieppi",
     "kinpoems": [
-      4,
-      5
+      173,
+      184
     ],
     "content": "<pre class=\"poemtext\">\n\nKieppi\n\nSees laskee itsensä\nkevyeksi painoksi talvettuneen mielen päälle\n\nPainaa piilottaa pois pohjoisten tuulten\npieksennältä\n\nKuljettaa sinne,\nminne aistikkaat ovat itsensä ennakoineet\n\nMuuttaneet sula mennessään.</pre>"
   },
@@ -634,8 +634,8 @@
     "id": "73",
     "name": "Puolimieli",
     "kinpoems": [
-      4,
-      5
+      159,
+      224
     ],
     "content": "<pre class=\"poemtext\">\n\nPuolimieli\n\nKameleonttisilmäni eivät löydä yhteistä katseen säveltään\nHajoavat toisistaan irti\nrepivät maailmaani kahtia.\n\nPudottavat rikkoutuneiden ajatusrakennelmien väliin jäävään tyhjään veteen\n\nJonka aika on pedannut eksyneille mielipuolille.</pre>"
   },
@@ -643,8 +643,8 @@
     "id": "74",
     "name": "Raskasvesivaunu",
     "kinpoems": [
-      4,
-      5
+      205,
+      201
     ],
     "content": "<pre class=\"poemtext\">\n\nRaskasvesivaunu\n\nTähyilen väärin ajoitettua risteystä,\njoka pysäyttää\njo\nennen raidepuskinta.\n\nTuhoaa\njo\nvioittuneen horisontin\n\nVääntää\njo\nkoetun eri asentoon.\n\nTekee parantavaa väkivaltaa\njo\nharmaakaihiin\nsairastuneille raiteille.</pre>"
   },
@@ -652,8 +652,8 @@
     "id": "75",
     "name": "Mafia",
     "kinpoems": [
-      4,
-      5
+      159,
+      136
     ],
     "content": "<pre class=\"poemtext\">\n\nMafia\n\nKuorin kovettuneita kirjaimia irti iholtani\n\nSementtijaloiksi painumaan alas läpi orvaskeden veden\n\nVerinahalle,\njonka pinnalle älykäs apina ei osaa hengittää itsehallintaa.</pre>"
   },
@@ -661,8 +661,8 @@
     "id": "76",
     "name": "Hotelli",
     "kinpoems": [
-      4,
-      5
+      124,
+      174
     ],
     "content": "<pre class=\"poemtext\">\n\nHotelli\n\nKirjoitan kipupisteeni paperille heti pyöröovista\nkadulle poistuneiden lauseiden perään.\n\nHaen rivien väliin karannutta kohdistinta, jonka unohdan aina itselleni valjastaa.\n\nRavitsen vieraskirjan allekirjoituksellani, kummastelijani.\n\nValaisen itseni uloskirjoittautuneiden lauseiden muistijäljistä kudotulla lampulla.</pre>"
   },
@@ -670,8 +670,8 @@
     "id": "77",
     "name": "Vinttikoirat",
     "kinpoems": [
-      4,
-      5
+      193,
+      158
     ],
     "content": "<pre class=\"poemtext\">\n\nVinttikoirat\n\nHajaantuneiden haaveiden poljettu aro\nRukoushuoneeksi restauroitu kokoomo.\n\nVetojen kannat heiluvissa käsissä.\n\nSähköjäniksiin sullotut ajatukset, joita\nrationaalisuuteen roikottunut jahtaa.\n\nJauhavat odotuksista kokemuksia,\nheittelevät ilmestyksistä kadotuksiin\nja takaisin, kaiteista kaiteisiin, köysistä köysiin.</pre>"
   },
@@ -679,8 +679,8 @@
     "id": "78",
     "name": "Luottamuksesta",
     "kinpoems": [
-      4,
-      5
+      129,
+      174
     ],
     "content": "<pre class=\"poemtext\">\n\nLuottamuksesta\n\nValoon takertuja,\ntummien juonteiden\nalta kiertelijä,\narkuuttaan kurkistelija,\ntaitteiden varoja,\nihonsa pesijä,\nylös katsoja,\n\nElämän puhkomien reikien\nrintaan aina uudelleen kirjailema sydän\nhengittää sisään ilman,\njonka lämpötilanvaihteluja\nkauniita sanoja kaipaava korva huolella kuuntelee,\nkädet hakevat kehoa, jonka ympärille kiertyä,\ntoisen, jonka puristukseen itsensä uskaltaa antaa.</pre>"
   },
@@ -688,8 +688,8 @@
     "id": "79",
     "name": "Kalantakoja",
     "kinpoems": [
-      4,
-      5
+      178,
+      163
     ],
     "content": "<pre class=\"poemtext\">\n\nKalantakoja\n\nTarpeidensa verkot,\njoiden pauloihin toisen yrittää pyydystää\nkohtaamisille kuvittamallaan kauneudella.\n\nUskolla olevansa toisen\nravitseva saalis,\nkaikki tarvitsemansa kalat ja leivät.\n\nIskee kirkkaana kuumuudesta hohkavan kapulan ajan kylmiin rattaisiin,\nristii sormensa toisen sormien väliin.\n\nToivoo kauneuden muuttumattomuutta\nja hetken levittymistä yli viisareiden kulun.</pre>"
   },
@@ -697,8 +697,8 @@
     "id": "80",
     "name": "Koettujen maailmojen trapetsi",
     "kinpoems": [
-      4,
-      5
+      113,
+      173
     ],
     "content": "<pre class=\"poemtext\">\n\nKoettujen maailmojen trapetsi\n\nPelon ja halun,\nArkuuden ja tarpeen,\nHaavoittuvaisuuden ja hoivan\nvälille viritetty vaijeri.\n\nTuulinen, viileä kanjoni,\njota kävellä kaksoistornilta toiselle,\nvielä kun molemmat seisovat omilla jaloillaan.</pre>"
   },
@@ -706,8 +706,8 @@
     "id": "81",
     "name": "Parkapiru",
     "kinpoems": [
-      4,
-      5
+      129,
+      196
     ],
     "content": "<pre class=\"poemtext\">\n\nParkapiru\n\nMusta maalipurkki kädessä,\nsirrillään olevat silmät\nsiveltimenä.\n\nMaailma, joka on rutistunut toistensa läpi kasvaneiden kerrosten väliin.\n\nIlma ilman välitiloja,\nliian ohut hengittää\nliian sakea kantaa.\n\nElämän kivi,\njoka raahaa\nsatulasta pudonnutta perässään.</pre>"
   },
@@ -715,8 +715,8 @@
     "id": "82",
     "name": "Teatteri",
     "kinpoems": [
-      4,
-      5
+      207,
+      201
     ],
     "content": "<pre class=\"poemtext\">\n\nTeatteri\n\nJo taakse jääneet taustakankaat\nkaatuvat  uudelleen\n\nLavalla askelten edessä,\nKuoppaansa kaatuneen kuiskaajan yllä.\n\nLäpi pitkittyneen poltteen,\npimeän reunojen kytätessä viimeistä kipinää.</pre>"
   },
@@ -724,8 +724,8 @@
     "id": "83",
     "name": "Kultasuu",
     "kinpoems": [
-      4,
-      5
+      172,
+      177
     ],
     "content": "<pre class=\"poemtext\">\n\nKultasuu\n\nVatsapoimujen väliin horroksistunut\nväkivaltakoneisto.\n\nViiva jota pitkin nautinto peilaa kauneuttaan.\n\nKuva, jonka lumo taittaa selkänsä vienosti kehyksensä ylle.</pre>"
   },
@@ -733,8 +733,8 @@
     "id": "84",
     "name": "Eräs ihmisen kuva III",
     "kinpoems": [
-      4,
-      5
+      197,
+      188
     ],
     "content": "<pre class=\"poemtext\">\n\nEräs ihmisen kuva III\n\nItseään perässään vetävä  kokemusten nuotta,\njohon on kirjailtu unohduksen reikä.\n\nItsestään teroittuvien tuntosarvien kantaja.</pre>"
   },
@@ -742,8 +742,8 @@
     "id": "85",
     "name": "Pyyntö",
     "kinpoems": [
-      4,
-      5
+      138,
+      128
     ],
     "content": "<pre class=\"poemtext\">\n\nPyyntö\n\nVäritä minut kirkkaaksi hiotulla kielelläsi\nKaiverra minut karkaistun katseesi kärjellä\nYmpäröi minut käsiesi kiertyvällä kehällä\n\nkunnes kylmäni väistyy.</pre>"
   },
@@ -751,8 +751,8 @@
     "id": "86",
     "name": "Mosaiikkiseinä",
     "kinpoems": [
-      4,
-      5
+      143,
+      154
     ],
     "content": "<pre class=\"poemtext\">\n\nMosaiikkiseinä\n\nPaperinohut kalvo välissämme\n\nyhteisillä sanoilla merkitty,\nomilla merkityksillä täytetty.\n\nKaikki se, mikä\nyhdistää\nerottaa\nhämmentää\nkirkastaa\npolttaa\nkylmää\n\nkietoo yhteen,\nsynnyttää arpemme ja lapsemme,\njoita toisillemme jaamme.</pre>"
   },
@@ -760,8 +760,8 @@
     "id": "87",
     "name": "Vaskooli",
     "kinpoems": [
-      4,
-      5
+      186,
+      168
     ],
     "content": "<pre class=\"poemtext\">\n\nVaskooli\n\nYhä terävämmäksi  ajan kynällä piirtyvä kartta\nSilti aina sameampaa vettä.\n\nNiin kirkkaana pinnalle kerran vedetty elämän viiva ohenee ohenemistaan.\n\nKäsissä pohjamutaa.\n\nPainoa.\n\nLyijyä tai kultaa,\nMene tai tiedä.</pre>"
   },
@@ -769,8 +769,8 @@
     "id": "88",
     "name": "Kaappari",
     "kinpoems": [
-      4,
-      5
+      164,
+      159
     ],
     "content": "<pre class=\"poemtext\">\n\nKaappari\n\nLäpi ajatusrakennelmien raivoisasti singotut kiinnityshaat\nFilosofiaa,\nTeologiaa,\nJärjen oletettua valoa,\nPimeässä tapahtuvaa luonnonvalintaa.\n\nPalaavia peilinpalasia, joista näkyy ainoastaan\nihmisen savuisia kylkiä ja pakaran palasia.\n\nKaiken jälkeen suussa kurittomasti kaikkialle kurkoitteleva koditon kieli.</pre>"
   },
@@ -778,8 +778,8 @@
     "id": "89",
     "name": "Kokoontuminen",
     "kinpoems": [
-      4,
-      5
+      49,
+      54
     ],
     "content": "<pre class=\"poemtext\">\n\nKokoontuminen\n\nToistemme sinkoilevien pyrstötähtien pyydystäjiä\n\nPimenevissä illoissamme\nöittemme edessä\n\nkuvajaisiimme tarrautujia\nuskomme rakentajia\n\ntorniemme kasaajia,\nkäsissänsä jälleen yksi\njaettujen jalkojen etsijä.</pre>"
   },
@@ -787,8 +787,8 @@
     "id": "90",
     "name": "Läheisyydentavoittelija",
     "kinpoems": [
-      4,
-      5
+      48,
+      153
     ],
     "content": "<pre class=\"poemtext\">\n\nLäheisyydentavoittelija\n\nAamussaan yksin,\nheräämisessään,\nennen kätensä ojentamista\n\nviereisen ihon sileälle pinnalle,\njolla omat kovettumat pehmenevät jälleen\n\nkirkkaaksi heijastavaksi peiliksi.</pre>"
   },
@@ -796,17 +796,17 @@
     "id": "91",
     "name": "Ihon alle pesijä",
     "kinpoems": [
-      4,
-      5
+      148,
+      193
     ],
-    "content": "<pre class=\"poemtext\">\n\nIhon alle pesijä\n\nIhokarvojen juuriinsa\nvarastoima hellä kosketus\n\ntai kivuliaasti pinnalle tummunut, lopulta pohjalle painunut muistelma.\n\nEhkä kenties\n\nKorvakäytävän kautta sisälle kulkeutunut ilmalle liian painava sana. Ruma tai kaunis, kunhan ei turha.\n\nMiksei\n\nVerkkokalvojen palaen pyydystämä kuvajainen, haave tai painajainen.\n\nJoka tapauksessa\n\nKarkoituksen kaihtaja\ntai\nkynsin ja hampain kiinni pidetty.\n\nTunteiden nyrkkiin\npuristettu elämän koru tai\nniiden kaulalle kiedottu riippakivi.</pre>"
+    "content": "<pre class=\"poemtext\">\n\nIhon alle pesijä\n\nIhokarvojen juuriinsa\nvarastoima hellä kosketus\n\ntai kivuliaasti pinnalle tummunut, lopulta pohjalle painunut muistelma.\n\nEhkä kenties\nKorvakäytävän kautta sisälle kulkeutunut ilmalle liian painava sana. Ruma tai kaunis, kunhan ei turha.\n\nMiksei\nVerkkokalvojen palaen pyydystämä kuvajainen, haave tai painajainen.\n\nJoka tapauksessa\nKarkoituksen kaihtaja\ntai\nkynsin ja hampain kiinni pidetty.\n\nTunteiden nyrkkiin\npuristettu elämän koru tai\nniiden kaulalle kiedottu riippakivi.</pre>"
   },
   {
     "id": "92",
     "name": "Jääkonehuone",
     "kinpoems": [
-      4,
-      5
+      134,
+      125
     ],
     "content": "<pre class=\"poemtext\">\n\nJääkonehuone\n\nKuvajaiseksi haalistunut lapiomies\nAjastaan ulos harhautunut\n\nlapiossaan koksin sijaan selkäytimen nielemiä käyttäytymismalleja.\n\nHeitettäväksi lämmityskattilaan, jolla\nyrittää loppuun asti pitää numeroitujen ovien takana olevat elintoiminnot ominaan.</pre>"
   },
@@ -814,8 +814,8 @@
     "id": "93",
     "name": "Taivaskatu",
     "kinpoems": [
-      4,
-      5
+      177,
+      154
     ],
     "content": "<pre class=\"poemtext\">\n\nTaivaskatu\n\nSinä sanot\nminä huudan\n\nSinä palat\nminä näen\n\nme koemme\nminä elän\n\nme olimme.\n\nminä olen.</pre>"
   },
@@ -823,8 +823,8 @@
     "id": "94",
     "name": "Herakleen pylväät",
     "kinpoems": [
-      4,
-      5
+      178,
+      153
     ],
     "content": "<pre class=\"poemtext\">\n\nHerakleen pylväät\n\nKiveeen valetun myrskyn läpi lentävät hollantilaiseni\nupohtelevan Atlantikseni perään.</pre>"
   },
@@ -832,8 +832,8 @@
     "id": "95",
     "name": "Luukappeli",
     "kinpoems": [
-      4,
-      5
+      140,
+      160
     ],
     "content": "<pre class=\"poemtext\">\n\nLuukappeli\n\nTunnustelevien sormien mentävät\neletyn rintaan kaivertamat kolot\n\nJoissa muistot pesivät\n\nTörmässä, jota aika\nsyö pala palalta\n\nKohti   korkeammalle\nkurkottelevaa ilmaa.</pre>"
   },
@@ -841,8 +841,8 @@
     "id": "96",
     "name": "Liekkilintu",
     "kinpoems": [
-      4,
-      5
+      193,
+      130
     ],
     "content": "<pre class=\"poemtext\">\n\nLiekkilintu\n\nPoltan myrkyttyneet tuhkasi\nyöllisissä rauhanpiipuissani.\n\nVoidaksesi syntyä uudelleen\nkieppuvassa mielessäni,\npunovassa kielessäni,\nAjatuksissani,\njoilla aamuihisi ankkuroidun.</pre>"
   },
@@ -850,8 +850,8 @@
     "id": "97",
     "name": "Iilimadot",
     "kinpoems": [
-      4,
-      5
+      129,
+      134
     ],
     "content": "<pre class=\"poemtext\">\n\nIilimadot\n\nVäljähtäneessä vedessä kiertelevät\nmieleltä karanneet\npäämääräänsä löytämättömät tunteet.\n\nLikaisen sateenkaaren värjäämät\nnilkkatahrat paljastetussa kastetussa jalassa\nkuolemaan laskevassa joessa.</pre>"
   },
@@ -859,8 +859,8 @@
     "id": "98",
     "name": "Perhoskaari",
     "kinpoems": [
-      4,
-      5
+      192,
+      186
     ],
     "content": "<pre class=\"poemtext\">\n\nPerhoskaari\n\nRunsain jaloin,\npaksuin nahoin,\nPiikki koholla\n\nKirkkaan hahmottoman\nnesteen läpi\n\nkohti itselle\nkoristeltuja siipiä,\njotka jo naulakossa nimettynä odottavat.</pre>"
   },
@@ -868,8 +868,8 @@
     "id": "99",
     "name": "Katarsis",
     "kinpoems": [
-      4,
-      5
+      135,
+      125
     ],
     "content": "<pre class=\"poemtext\">\n\nKatarsis\n\nRusikoitu murhe\nKatseen kirkastava ajatusten vuotama\n\nhurme,\njonka vihaksi vaatetettu\ntuulelle uhrattu\n\njuova\nkirjoittaa ilmaan\n\nparantolan huutavaksi portiksi,\npieneksi pusertuneen mustuneen mielen käydä\n\nja unohtaa.</pre>"
   },
@@ -877,8 +877,8 @@
     "id": "100",
     "name": "Aral",
     "kinpoems": [
-      4,
-      5
+      138,
+      168
     ],
     "content": "<pre class=\"poemtext\">\n\nAral\n\nKuivettuneet kanavat,\nsuolaantuneet silmät.\n\nKöli dyynin harjan päällä\nkeikkumassa\nkeulakuva\naurinkoa kohti\n\nPolte huulilla\nSen\ntippuvat rohteet.</pre>"
   },
@@ -886,8 +886,8 @@
     "id": "101",
     "name": "Valokaivo",
     "kinpoems": [
-      4,
-      5
+      217,
+      228
     ],
     "content": "<pre class=\"poemtext\">\n\nValokaivo\n\nTyhjyydessä eivät aallot käy\nLampussa, jonka sisään siivekkäät kuolevat\nliialliseen kirkkauteen.</pre>"
   },
@@ -895,8 +895,8 @@
     "id": "102",
     "name": "Routasorkkaeläin",
     "kinpoems": [
-      4,
-      5
+      192,
+      163
     ],
     "content": "<pre class=\"poemtext\">\n\nRoutasorkkaeläin\n\nRaivostuneet tuulikynnet\nrepivät\nmielen saranoita sijoiltaan.\n\nKasvettuaan kuvitelmien\nkasvattamina\nkasvattajaansa suuremmiksi.\n\nKarkaavat\naukkopihoille\netsimään hetkensä kokoisia kohteita.\n\nLohtuverkkoja,\njoihin tapulin lepakot\nennättävät tarttua\n\nennenkuin kello lyö keskiyötään.</pre>"
   },
@@ -904,8 +904,8 @@
     "id": "103",
     "name": "Viipyjä",
     "kinpoems": [
-      4,
-      5
+      179,
+      139
     ],
     "content": "<pre class=\"poemtext\">\n\nViipyjä\n\nMuistot kuljettavat oman tarkoituksensa\ntyhjien hetkiensä yli.\n\nJättävät pimeät laaksonsa\nkauas siipiensä alle.\n\nPitävät itsensä elossa\ntakaraivollaan\nja kääntyvillä korvillaan,\n\njotka poimivat elävien aaveidensa\nviitteet\nitselleen kuolleiden elävien joukosta.</pre>"
   },
@@ -913,8 +913,8 @@
     "id": "104",
     "name": "Eräs ihmisen kuva IV",
     "kinpoems": [
-      4,
-      5
+      126,
+      124
     ],
     "content": "<pre class=\"poemtext\">\n\nEräs ihmisen kuva IV\n\nKaipuun kovertama\nonnen onkija.\n\nNautintojen narkomaani,\ntarkoituksen tavoittelija.\n\nKuoleman kavahtaja,\nsuu täynnä elämännälkää.</pre>"
   },
@@ -922,8 +922,8 @@
     "id": "105",
     "name": "Lumisokeus",
     "kinpoems": [
-      4,
-      5
+      187,
+      169
     ],
     "content": "<pre class=\"poemtext\">\n\nLumisokeus\n\nValkoiset myrskyt riippuvat siinä horisontissa,\njoka kadotessaan tuo\nsijalleen levollisuuden petoksen.\n\nSurman sylin,\njonka käärmeenote\non pehmein luonnontieteideni tuntema\nkosketus.\n\nHalvaannuttava hyväily,\njonka jäljiltä ei\njää ensimmäistäkään ehjää luuta.</pre>"
   },
@@ -931,8 +931,8 @@
     "id": "106",
     "name": "Utopistin",
     "kinpoems": [
-      4,
-      5
+      136,
+      128
     ],
     "content": "<pre class=\"poemtext\">\n\nUtopistin\n\nRakentaa elämälleen\nselkärangan naksahtelevista nikamista,\n\njoista joka toisen muuraa\ntarkoituksella harhaan astunut kärkiaskel,\n\njoka pyrkii lävistämään kynnellään\nkantajansa otsan\nkallon sisäiseen\npimeään materiaan,\n\njonka valaisee pään ympärille syttynyt tähtikehä,\n\njonka alle jääneet silmät on ristitty,\n\njoiden vierelle ilmestyneet pikkulinnut laulavat,\n\njoiden katveeseen jäänyt suu\non hetkeksi\nväännetty voimallisen vienoon virneeseen.</pre>"
   },
@@ -940,8 +940,8 @@
     "id": "107",
     "name": "Yömyssy",
     "kinpoems": [
-      4,
-      5
+      142,
+      162
     ],
     "content": "<pre class=\"poemtext\">\n\nYömyssy\n\nUtuisen saksofonin\nraukean vinkunan ympärillä leijuva\ntumma huokailu.\n\nSisällään omat ajatukseni, jotka osaavat\nasettua ymmärettävään riviin\nunen unohduksen edellä.\n\nKaiken hetkeksi selittävässä lyhyessä\nhämärretyssä hetkessä,\njoka katoaa seuraavaan\nsekavaan päivään ajatuksillani astuessa.</pre>"
   },
@@ -949,8 +949,8 @@
     "id": "108",
     "name": "Irroittautuminen",
     "kinpoems": [
-      4,
-      5
+      175,
+      167
     ],
     "content": "<pre class=\"poemtext\">\n\nIrroittautuminen\n\nHarkinnan\nkatveesta\npäivän valoon\n\nkarkaavat tunteen\nilmaukset\nheiluttelevat\nherransa ja hidalgonsa\nirti\nhyhmästä\n\ntempoilevat,\nrepivät liekojaan,\npyrkiessään kaula pitkällä\nmerkityksellisen\nkohteensa luo\n\nyli niiden mielen miinakenttien,\njoille talvehtineet sananjalat katkeilevat.</pre>"
   },
@@ -958,8 +958,8 @@
     "id": "109",
     "name": "Elohopeasurffari",
     "kinpoems": [
-      4,
-      5
+      41,
+      71
     ],
     "content": "<pre class=\"poemtext\">\n\nElohopeasurffari\n\nSuhteellisuudentaju nostaa\nraskaaksi käyneen isäntänsä\njalati hetkeksi ilmaan.\n\nPuhaltaakseen keveyden\nkorvakäytäviä pitkin\nmielen poimujen väleihin.\n\nJotta  ilma pääsee\njälleen kiertämään\n\nilman niitä henkisiä happiviiksiä,\njotka oli lainattu vaivalla pystytetyiltä\najatusrakennelmilta.</pre>"
   },
@@ -967,8 +967,8 @@
     "id": "110",
     "name": "Ei-kenenkään-maa",
     "kinpoems": [
-      4,
-      5
+      83,
+      74
     ],
     "content": "<pre class=\"poemtext\">\n\nEi-kenenkään-maa\n\nRintamalinjojen välissä,\naskeltaen unikon vartta pitkin.\n\nVaroen kaatumasta\nkummankaan puolen poteroihin.\n\nNyppien sirpaleita irti\nkummankin kehosta.\n\nYrittäen edetä huomiseen\nkohti konfliktia\nedeltänyttä kokemusta.</pre>"
   },
@@ -976,8 +976,8 @@
     "id": "111",
     "name": "Gulliver",
     "kinpoems": [
-      4,
-      5
+      157,
+      186
     ],
     "content": "<pre class=\"poemtext\">\n\nGulliver\n\nEntropian lilliputtipakanat\nkiskovat lauseiden lahkeista,\nvaluttavat aatteen palot\njuoksujalkaa pitkin\njäähtymään\nkylmään maahan.\n\nOpettelen antamaan\ntuolle maalle\nhymyilevän passiivisen poskisuudelman,\njotta\nviimeinen kohtaamisemme\ntulisi olemaan\nmolemmin puolin\nymmärtäväinen.</pre>"
   },
@@ -985,8 +985,8 @@
     "id": "112",
     "name": "Taisteluväsymys",
     "kinpoems": [
-      4,
-      5
+      129,
+      188
     ],
     "content": "<pre class=\"poemtext\">\n\nTaisteluväsymys\n\nPuhki poltetut sanat\nKouristuneiden\ntoisen kadottaneiden\nkäsien väliin pusertuneet.\n\nAjan tapahtuneiden hammaspyörät\nkyntävät tunteiden ihon\narpikudokseksi, hiljalleen kovettuvaksi\nliskonnahaksi,\n\njonka läpi uusien versojen\non entistä hankalampi kurkistaa.</pre>"
   },
@@ -994,8 +994,8 @@
     "id": "113",
     "name": "Käpälälauta",
     "kinpoems": [
-      4,
-      5
+      166,
+      127
     ],
     "content": "<pre class=\"poemtext\">\n\nKäpälälauta\n\nUteliaisuus malttamaton  juoksee\nhätäiset jalkansa\naltaan väsymyksen\nsyliin,\n\nuuttaa tyydyttämättömän nälkänsä\nsynnyttämästä kiireestä\nepähuomiossa kyllästysaineen,\njolla\n\nVälinpitämättömyydeksi itsensä\nmuuttanut uskoteltu ymmärrys\ntahattomasti itsensä pinnoittaa\n\nsinisen hetken sisälle,\nviileään rauhaan,\nlämpökameran\nlinssin taakse.</pre>"
   },
@@ -1003,8 +1003,8 @@
     "id": "114",
     "name": "Eräs ihmisen kuva V",
     "kinpoems": [
-      4,
-      5
+      129,
+      153
     ],
     "content": "<pre class=\"poemtext\">\n\nEräs ihmisen kuva V\n\nTuiskujen tuivertama\nlämpöohjus\n\nlukittuneena kohteeseen,\njohon vielä mahtuisi\njo elämäänsä suuremmaksi käyneiden\nristiriitojensa kera.</pre>"
   },
@@ -1012,8 +1012,8 @@
     "id": "115",
     "name": "Alakulo",
     "kinpoems": [
-      4,
-      5
+      128,
+      196
     ],
     "content": "<pre class=\"poemtext\">\n\nAlakulo\n\nSelän takaa\nhartioille kiipeävä varjo.\n\nVarjo, joka on väsynyt\nvain\nseurailemaan omistajaansa.\n\nHuputtaa\niloiltaan\npäättyneen\npään\n\nharmaan tehdaskaupunkinsa viipyilevään nokiseen usvaan.</pre>"
   },
@@ -1021,8 +1021,8 @@
     "id": "116",
     "name": "Uskosta",
     "kinpoems": [
-      4,
-      5
+      174,
+      188
     ],
     "content": "<pre class=\"poemtext\">\n\nUskosta\n\nMerkitys löytää\naina uudelleen\ntämän ihmisensä luo\ntämän niin halutessaan,\n\naina\n\nkärsivällisyyden halki,\n\naina\n\nluottamuksen varassa.</pre>"
   },
@@ -1030,8 +1030,8 @@
     "id": "117",
     "name": "Sekasikiö",
     "kinpoems": [
-      4,
-      5
+      149,
+      125
     ],
     "content": "<pre class=\"poemtext\">\n\nSekasikiö\n\nLokeroimattomuuden perkele\nvarustaa kauniit pakanalapsensa\n\nKaiikilla mahdollisilla aromaattisilla aseilla,\njotka sotkuisesta keittokomerostaan löytää.\n\nKompensoi synnyttämiään vatsaoireita\nmiljoonilla makunystyröillä\nja\nkatseen loppumattomuudella.</pre>"
   },
@@ -1039,8 +1039,8 @@
     "id": "118",
     "name": "Paha loitsu",
     "kinpoems": [
-      4,
-      5
+      128,
+      174
     ],
     "content": "<pre class=\"poemtext\">\n\nPaha loitsu\n\nSuojavallit yksinäisyyden kokemista vastaan,\nmitä jyrkimmiksi kaivetut,\n\nsitä paremmin puutteen\nsynnyttämältä kivulta eristävät.\n\nViettävät\nironian irvokkaaseen syliin.\n\nKummitusten\nkehtolauluja\nkuuntelemaan.\n\nPirun\npitkä piippu\nsyvällä\nomassa savuavassa suussa.</pre>"
   },
@@ -1048,8 +1048,8 @@
     "id": "119",
     "name": "Braille",
     "kinpoems": [
-      4,
-      5
+      188,
+      144
     ],
     "content": "<pre class=\"poemtext\">\n\nBraille\n\nPoistat suomuja silmiltäni\ntuntevilla käsilläsi.\n\nSormenpäilläsi,\njotka asettuvat pisteiksi\ni-kirjainteni päälle.\n\nVirkkeissä,\njotka kuulemme\nvaikkeivat ne koskaan\nehdi karata huuliltamme.</pre>"
   },
@@ -1057,8 +1057,8 @@
     "id": "120",
     "name": "Kyltymättömät kurimukset",
     "kinpoems": [
-      4,
-      5
+      155,
+      166
     ],
     "content": "<pre class=\"poemtext\">\n\nKyltymättömät kurimukset\n\nKokemusten kulottaessa\nhavaintojen voimakenttää\n\nliekillään,\njonka mielivät antaa\nmielellään roihuta.\n\nAmmentavat elämyksiään\nnälkäänsä ja janoonsa,\njotka\najokoirikseen ovat kouluttaneet\n\nPakonomaisessa pyörteessään,\n\njosta elämänpesänsä\nkasaavat aina avonaisille\nkurkotteleville suilleen.</pre>"
   },
@@ -1066,8 +1066,8 @@
     "id": "121",
     "name": "Kuilunkatsoja",
     "kinpoems": [
-      4,
-      5
+      127,
+      193
     ],
     "content": "<pre class=\"poemtext\">\n\nKuilunkatsoja\n\nMaasta kaivettuun\nkävelevään lähteeseen\nheitetty kolikko,\n\njolla itseään kiillottaa.\n\nVoidakseen kurkistaa\noman kopekkansa\nkääntöpuolen\n\nkavahtamatta\nomaa painolastiaan.</pre>"
   },
@@ -1075,8 +1075,8 @@
     "id": "122",
     "name": "Taivaanrannan ahtaajat",
     "kinpoems": [
-      4,
-      5
+      155,
+      207
     ],
     "content": "<pre class=\"poemtext\">\n\nTaivaanrannan ahtaajat\n\nToivottavasti en riko\nkauneuttasi\nympärillesi ristimieni sormien\nväleihin.\n\nSillä\n\nsilmäni kykenevät näkemään,\nmitä näkevät.\n\nJa\n\nkorvani kuulemaan,\nmitä kuulevat.\n\nVain omien tarpeideni\npäälle kasattujen toiveideni\nvärjäämän horisontin läpi,\n\npelkojani vasten.</pre>"
   },
@@ -1084,8 +1084,8 @@
     "id": "123",
     "name": "Ajopuuverso",
     "kinpoems": [
-      4,
-      5
+      86,
+      75
     ],
     "content": "<pre class=\"poemtext\">\n\nAjopuuverso\n\nSatunnaiseen hetkeen\nilmoittamatta rantautuva rauha\n\ntyynnyttää mielen\ntyrskyävän pinnan.\n\nKasaa ajatusten vesirajaan\nkasan kauniita ajopuita,\njoista rakentuu\n\nhuvimaja,\njossa levollinen hymyni\nvoi hetken kutitella\nsuolaisten huulieni kulmia.</pre>"
   },
@@ -1093,8 +1093,8 @@
     "id": "124",
     "name": "Kotiinpaluu",
     "kinpoems": [
-      4,
-      5
+      54,
+      66
     ],
     "content": "<pre class=\"poemtext\">\n\nKotiinpaluu\n\nEnää\nvain ajatuksien jaloista roikkuvat tunteet\n\nTipahtelevat yksitellen,\nväsyvät,\notteensa kirvottua\nvähitellen unohdetulle iholle,\n\njosta kaunis kosketus\nne vielä virvoittelee\n\nomille jaloilleen\nkävelemään takaisin sijoilleen\n\noman pään kautta\nalas\ntyhjäksi hetkeksi\nennättäneen\nsydämen sisään.</pre>"
   },
@@ -1102,8 +1102,8 @@
     "id": "125",
     "name": "24.02.2022",
     "kinpoems": [
-      4,
-      5
+      79,
+      95
     ],
     "content": "<pre class=\"poemtext\">\n\n24.02.2022\n\nJälleen kerran\nyksittäiset kuolevaiset\nkaivertavat\nviattomien veressä kastetulla kunnianhimollaan\nallekirjoitustaan\nkuolemattomuuden\nhistorian lehdillä lepäävään tulehtuneeseen kudelmaan.\n\nLuovuttavat ihmisyyttään\nsuuruudenhulluuden sairastuneelle alttarille,\njotta muutkin näkisivät heissä sen ikuisuuden,\njota eivät kykene muilta itselleen lunastamaan\nilman kehyskertomusta.\n\nEllei sitä muille pakkosyötetä propagandan ja/tai pistimien voimin,\npuhkota ennen omiin tahtiinsa sykkiviä itsenäisiä sydämiä\nomia ja vieraita\nkylmiksi kuuliaisiksi sivuääniksi\nja sen jälkeen parsita huuliaan ja silmäluomiaan kiinni.</pre>"
   },
@@ -1111,8 +1111,8 @@
     "id": "126",
     "name": "Harhahetki",
     "kinpoems": [
-      4,
-      5
+      84,
+      75
     ],
     "content": "<pre class=\"poemtext\">\n\nHarhahetki\n\nRakenteissa resonoiva kyimä\nsana sanalta\nkovettuva puheensorina\n\nViereisistä pöydistä,\njoissa keskustelu asuu\n\nomien erakoituneiden ajatusteni tuolla puolen\n\npuhkoen reikiä kärpäspaperiin,\njohon itseänsä joutilaisuuttaan kirjoittaa.</pre>"
   },
@@ -1120,8 +1120,8 @@
     "id": "127",
     "name": "Merkitsijä",
     "kinpoems": [
-      4,
-      5
+      134,
+      145
     ],
     "content": "<pre class=\"poemtext\">\n\nMerkitsijä\n\nOlisipa enemmän kuin hetkiensä summa.\n\nJatkuisipa jälkipolvien kautta.\n\nPesiytyisipä myöhempiensä mieleen.\n\nKuljettaisipa ennakoitu muisto ohi oman kuolemansa valkorajapyykin.</pre>"
   },
@@ -1129,8 +1129,8 @@
     "id": "128",
     "name": "Petrolikynnet",
     "kinpoems": [
-      4,
-      5
+      184,
+      175
     ],
     "content": "<pre class=\"poemtext\">\n\nPetrolikynnet\n\nPimeydessä\nselkäänsä\nkiipeävät kädet\n\nJoiden kymmenpään kärjessä\nauringossa kastetut\nskorpioninhännät\n\nValmiina piirtämään\nkarmiininpunaiset siivet\nselkäpiin ympärille.</pre>"
   },
@@ -1138,26 +1138,26 @@
     "id": "129",
     "name": "Oudoksuja",
     "kinpoems": [
-      4,
-      5
+      117,
+      165
     ],
-    "content": "<pre class=\"poemtext\">\n\nOudoksuja\n\nYmmälleen mennyt\nymmärrys.\n\nKatkennut jo niin monesta kohtaa,\nettä\non\nmenettänyt pintajännitteensä\non\nkiertynyt tiukalle kerälle itsensä ympärille\n\nOn\nmuuttunut vieraaksi\nomassa maailmassaan.\n\nOn\nvaihtanut\ntanssikenkänsä\nvahingossa\nlautassilmiin\njotka\non on\nsyönyt tyhjiksi.</pre>"
+    "content": "<pre class=\"poemtext\">\n\nOudoksuja\n\nYmmälleen mennyt\nymmärrys.\n\nKatkennut jo niin monesta kohtaa,\nettä on menettänyt pintajännitteensä\non kiertynyt tiukalle kerälle itsensä ympärille\n\nOn\nmuuttunut vieraaksi\nomassa maailmassaan.\n\nOn\nvaihtanut\ntanssikenkänsä\nvahingossa\nlautassilmiin\njotka\non on\nsyönyt tyhjiksi.</pre>"
   },
   {
     "id": "130",
     "name": "Yksinäisyydestä",
     "kinpoems": [
-      4,
-      5
+      179,
+      163
     ],
-    "content": "<pre class=\"poemtext\">\n\nYksinäisyydestä\n\nLiikun tanssiaskelillani\nyhteisessä salissamme,\n\njoka  tuntuu enemmän tai vähemmän vieraalta,\njosta kaikesta huolimatta etsin toisiamme,\n\nkoska en voi muualta toisiamme löytää.\n\nKoska en saa erilleen voimaamme ja valtaamme toisistamme,\nrakkauttamme ja hallintaamme\ntoisistamme,\n\nKoska rakastamaamme ja satutamme toisiamme\nsamoilla sormillamme, samoilla sanoillamme.\n\nKoska tiedän olevani yksin vain\njossain toisaalla\n\nja\n\nKoska täällä\nainoastaan pelkään olevani yksin.</pre>"
+    "content": "<pre class=\"poemtext\">\n\nYksinäisyydestä\n\nLiikun tanssiaskelillani\nyhteisessä salissamme,\n\njoka  tuntuu enemmän tai vähemmän vieraalta,\njosta kaikesta huolimatta etsin toisiamme,\nkoska en voi muualta toisiamme löytää.\n\nKoska en saa erilleen voimaamme ja valtaamme toisistamme,\nrakkauttamme ja hallintaamme\ntoisistamme,\n\nKoska rakastamaamme ja satutamme toisiamme\nsamoilla sormillamme, samoilla sanoillamme.\n\nKoska tiedän olevani yksin vain\njossain toisaalla\n\nja\n\nKoska täällä\nainoastaan pelkään olevani yksin.</pre>"
   },
   {
     "id": "131",
     "name": "Propaganda",
     "kinpoems": [
-      4,
-      5
+      59,
+      72
     ],
     "content": "<pre class=\"poemtext\">\n\nPropaganda\n\nTummuus ui sisään\naltaamme\nsyvään päähän.\n\nkäsitteenä,\njonka muka tunnistamme,\njosta muka irtisanoudumme,\n\njoka voi elää kaikesta huolimatta\nvain kauttamme,\n\nvoi tavoittaa happensa\nvain kaunistelevissa harhoissamme,\n\nalastoman kuninkaamme edessä.</pre>"
   },
@@ -1165,8 +1165,8 @@
     "id": "132",
     "name": "Tunnustuainen",
     "kinpoems": [
-      4,
-      5
+      164,
+      187
     ],
     "content": "<pre class=\"poemtext\">\n\nTunnustuainen\n\nRakastan sinua,\n\najatusta kauniista sinusta.\n\nMielikuviini\nluikertelevaa elekieltäsi,\njoka\n\njälleen nuolee\nsamankaltaisuudesta samentuneet\npupillini kirkkaiksi\n\nja\n\navaa  jälleen\nkristallipalatsini\npalaneet ovet.</pre>"
   },
@@ -1174,8 +1174,8 @@
     "id": "133",
     "name": "Amok komA",
     "kinpoems": [
-      4,
-      5
+      143,
+      157
     ],
     "content": "<pre class=\"poemtext\">\n\nAmok komA\n\nHaaveensa päältään riisuneet aaveet\n\nKuulluissa lauseissa kulkevat, kolisevat.\n\nAjan sisään piiloutuneet,\najan alta esiin paljastuvat.\n\nJalkapohjia pois polttelevat.</pre>"
   },
@@ -1183,8 +1183,8 @@
     "id": "134",
     "name": "Pässi",
     "kinpoems": [
-      4,
-      5
+      117,
+      183
     ],
     "content": "<pre class=\"poemtext\">\n\nPässi\n\nMysteereistään kuihtunut matkalainen\n\nUnettoman metsänsä\nvaloisassa yössä.\n\nKerää\nmaahan pudonneet lorunsa\nliimakseen,\n\njolla kiinnittää talven edeltä tippuneet runsaudensarvensa\ntakaisin keväisille ohimoilleen.</pre>"
   },
@@ -1192,8 +1192,8 @@
     "id": "135",
     "name": "Eräs ihmisen kuva VI",
     "kinpoems": [
-      4,
-      5
+      168,
+      159
     ],
     "content": "<pre class=\"poemtext\">\n\nEräs ihmisen kuva VI\n\nToiveiden,\nhalujen,\ntarpeiden,\najatusrakenteiden\nsekalainen esiinmarssi.\n\nSeitinohuilla langoillaan\nelämäntarinakseen kudottu.\n\nOman tahdon varaan valettu,\nuskomuksilla vuorattu,\nmuiden varaan pystytetty\nrakennelma,\njoka yrittää pitää olemassaoloansa lämpimänä.</pre>"
   },
@@ -1201,8 +1201,8 @@
     "id": "136",
     "name": "Tarinankutojalintu",
     "kinpoems": [
-      4,
-      5
+      224,
+      235
     ],
     "content": "<pre class=\"poemtext\">\n\nTarinankutojalintu\n\nKertomustani ajan taskuista\nesille kaivelen\n\nsirkustemppuni kollektiivisuuden turvaverkkoon pudottautuen\n\nyhdyskuntaani ympärilleni rakentaen,\nvuoropuhelu kerrallaan.\n\nToivottavasti\n\nnopeammin kuin ajan ja eron haalentavat hampaat\nkauniista sanoistanne vanhimmat pois\nmielestäni nakertavat.</pre>"
   },
@@ -1210,8 +1210,8 @@
     "id": "137",
     "name": "Teurastamo viis",
     "kinpoems": [
-      4,
-      5
+      92,
+      82
     ],
     "content": "<pre class=\"poemtext\">\n\nTeurastamo viis\n\nLunastamattomat sanat\n\nkuolevat\n\ntäyttymättömien odotusten alttareille\n\nväen ja vallan pyhätöissä,\n\nvierelleen rakennetuissa\n\nmasuuneissa,\njoissa\nihmistä\npannaan\nkyltymättömyyden\npauhaavilla\nsuuliekeillä\njälleen\nlaihoiksi\nlihoiksi.</pre>"
   },
@@ -1219,8 +1219,8 @@
     "id": "138",
     "name": "Vampyyrit",
     "kinpoems": [
-      4,
-      5
+      114,
+      158
     ],
     "content": "<pre class=\"poemtext\">\n\nVampyyrit\n\nKuljetamme sormiamme\nlasisilla kauloillamme\n\npaljastetuilla suonillamme\n\nkun olemme hauraita\nja herkkiä\n\ntoistemme suihin vuotavia\navohaavoja,\n\njotka toisemme ruokkivat.</pre>"
   },
@@ -1228,8 +1228,8 @@
     "id": "139",
     "name": "Välitilojen pelko",
     "kinpoems": [
-      4,
-      5
+      144,
+      186
     ],
     "content": "<pre class=\"poemtext\">\n\nVälitilojen pelko\n\nKaikki  aistini\nkaikkia tuuliani vasten\n\npyydystääkseen mahdollisimman paljon\nvielä kokemattomia hetkiäni,\n\njoista kasvattaa uusia\ntulevia vanhoja muistoja,\n\njotka eivät\ntoivottavasti\nehdi maatua\nmullaksi\n\nennenkuin seuraavat ovat\njo oraalla.</pre>"
   },
@@ -1237,8 +1237,8 @@
     "id": "140",
     "name": "Muistikirja",
     "kinpoems": [
-      4,
-      5
+      197,
+      149
     ],
     "content": "<pre class=\"poemtext\">\n\nMuistikirja\n\nSuistomaaksi eteeni\navautuva mieleni maisema,\njolle aikani hiljalleen virtaa.\n\nKohtaamisissa uomiksi haarautuen,\nlopulta\nmuistoissani takaisin yhteen liittyen.\n\nSadetta alati tanssivien jalkojeni alla,\nniiden,\njoiden nilkkoihin\nsivuni ovat sidotut.</pre>"
   },
@@ -1246,8 +1246,8 @@
     "id": "141",
     "name": "Luuydiniho",
     "kinpoems": [
-      4,
-      5
+      129,
+      175
     ],
     "content": "<pre class=\"poemtext\">\n\nLuuydiniho\n\nNyrjähtäneet hetket paljastamassa\navointa mielen pintaa\n\nhaavoittuvuutta,\njota opittu hallintansa\nyrittää peitellä,\n\nrumia ja kauniita\nyksinkertaisia tarpeita,\njoilla ihmistäni\nsyntymästä asti voidellaan.</pre>"
   },
@@ -1255,8 +1255,8 @@
     "id": "142",
     "name": "Sinulle, Harold",
     "kinpoems": [
-      4,
-      5
+      192,
+      138
     ],
     "content": "<pre class=\"poemtext\">\n\nSinulle, Harold\n\nRoikut kellosi viisareissa,\njaloillasi kaupunkisi katuja allesi hakien.\n\nTuntejasi\ntarvikevaraston kautta\ntarinaksesi kasaten.\n\nYleisösi\nkasvoillesi\nmaskeeraamon maaleilla loihditulla hymyllä\nottaen.</pre>"
   },
@@ -1264,8 +1264,8 @@
     "id": "143",
     "name": "John Donnen jälkeen jääneet",
     "kinpoems": [
-      4,
-      5
+      139,
+      126
     ],
     "content": "<pre class=\"poemtext\">\n\nJohn Donnen jälkeen jääneet\n\nSanojen siltojen katkenneiden\nkoristamilla erkanevilla selillä\najatukset uhkaavat erakoitua vajoaville saarilleen\n\nRipustavat pelastautuakseen\nselkäänsä\nerillisyyden jo mustuttamia\ntoiveissa vielä kantavia\nsiipiä\nkuljettamaan kantajansa\nkiireesti takaisin mantereelle,\n\njaettujen korvien maahan.</pre>"
   },
@@ -1273,8 +1273,8 @@
     "id": "144",
     "name": "Kalahari",
     "kinpoems": [
-      4,
-      5
+      153,
+      186
     ],
     "content": "<pre class=\"poemtext\">\n\nKalahari\n\nYritän pyydystää kurkkuusi juuttunutta puhettasi laajentuneilla pupilleillani\n\nÄäneti,\nlaajentuneiden pupilliesi edessä\n\nkantokykynsä kadottaneiden sanojen hautausmaalla, jollle vanhaksi käyneet elefantit käyvät\nsyöksyhampaansa salametsästäjille menettäneinä,\n\nvenyneet kielensä hirttyneinä\naurinkoon liiaksi kurkoittautuneiden puiden kuivuneisiin lehdettömiin oksiin.</pre>"
   },
@@ -1282,8 +1282,8 @@
     "id": "145",
     "name": "Loppukielipeli",
     "kinpoems": [
-      4,
-      5
+      73,
+      48
     ],
     "content": "<pre class=\"poemtext\">\n\nLoppukielipeli\n\nLogiikasta  irti väännellyt ja käännellyt virkkeet\nkuskattuina kirkasotsaisuuden romuttamolle,\n\njossa puheen purkupojat puuhailevat\npovitaskut pulloillaan\n\nItseään historian kuvastimesta ihailevien\nhuorakuninkaiden hovinarreina.</pre>"
   },
@@ -1291,8 +1291,8 @@
     "id": "146",
     "name": "Köynnöskasvi",
     "kinpoems": [
-      4,
-      5
+      39,
+      46
     ],
     "content": "<pre class=\"poemtext\">\n\nKöynnöskasvi\n\nTunnustelemme\nsanojamme ja kosketuksiamme\netsiessämme elämämme läpi yltävää\nmolemmissa rintalastoissa resonoivaa rytmiä,\n\njonka muodostamista silmukoista\nranteet ja nilkat\nkaikki kahdeksan\npujottaa\n\nGordionin solmuksi,\njoka ei löydä halkaisijaansa.</pre>"
   },
@@ -1300,8 +1300,8 @@
     "id": "147",
     "name": "Läsnäolosta I",
     "kinpoems": [
-      4,
-      5
+      28,
+      95
     ],
     "content": "<pre class=\"poemtext\">\n\nLäsnäolosta I\n\nLaskea läpi\nmielestään ja kehostaan\nvihan/rakkauden,\nsurun/ilon,\nkivun/nautinnon\npelon/rohkeuden\nriisutut ammukset,\njoilla on kultaiset kasvot.\n\nUskaltaa lukita\nkarkulaisensa\nsätkyläisensä\npaikallaan pysyvien\npaljaiden jalkojensa alle.</pre>"
   },
@@ -1309,8 +1309,8 @@
     "id": "148",
     "name": "Sidos",
     "kinpoems": [
-      4,
-      5
+      27,
+      43
     ],
     "content": "<pre class=\"poemtext\">\n\nSidos\n\nHuudamme toisiamme.\n\nVäliemme tai\nvälittömyytemme kautta.\n\nVuodatamme toistemme ilmoja\ntyhjentyneille pihoillemme.\n\nVuodamme veremme\ntoistemme syliin.\n\nKielellä kirkastettuina kimpaleina\nkylmyydessä palelevaa\ntoistemme koristelluissa sanoissa höyryävää vaatetettua vereslihaa.</pre>"
   },
@@ -1318,8 +1318,8 @@
     "id": "149",
     "name": "Ystävyydestä",
     "kinpoems": [
-      4,
-      5
+      37,
+      84
     ],
     "content": "<pre class=\"poemtext\">\n\nYstävyydestä\n\nLuottaa itsensä toisen ajatuksiin\nsijoittuneeksi siten, kuten\nlöytää toisen omistaan.\n\nKohdata toisensa\npaljastetuin rinnoin,\nriisuutuin asein.\n\nRohjeta tanssiaskeliin\ntoisen katseen\nyhteisissä kohtaamisissa kirkastuneella terällä,\n\nOmista askeleistaan nurinkurisimmilleen\naina uudelleen naurahdellen.</pre>"
   },
@@ -1327,8 +1327,8 @@
     "id": "150",
     "name": "Syvyys, joka katselee takaisin",
     "kinpoems": [
-      4,
-      5
+      74,
+      68
     ],
     "content": "<pre class=\"poemtext\">\n\nSyvyys, joka katselee takaisin\n\nMiksi\nlöytää vastauksensa\n\nSiksi\ntoisista ihmisistä.\n\nPeileistä,\njoista tavoittella kauneuttaan\n\nvaroen\nkohtaamasta rumuuttaan.\n\nMeistä\ntoisista\nitselleen\nrehellisyyttään, rohkeuttaan, oikeutustaan\naina uudelleen vakuutellen.</pre>"
   },
@@ -1336,8 +1336,8 @@
     "id": "151",
     "name": "Kantosäde",
     "kinpoems": [
-      4,
-      5
+      43,
+      27
     ],
     "content": "<pre class=\"poemtext\">\n\nKantosäde\n\nSanojesi sylistä\nmieleeni kaatuvat\n\nMuistojen ja tunteiden värjäämän\nvastaanottimeni taivuttelemat\n\najatustesi alkiot,\njoista kasvavat,\nvastaan kurkoittelevat,\nomien kasvojeni taakse piiloutuneet\naikasi lapset,\n\njotka\npitäisi vielä omaksensa tunnustaa,\n\npysyäkseen\nrintalastansa läpäisevien lämpöohjusten\nkantaman sisäpuolella.</pre>"
   },
@@ -1345,8 +1345,8 @@
     "id": "152",
     "name": "Luoto",
     "kinpoems": [
-      4,
-      5
+      83,
+      76
     ],
     "content": "<pre class=\"poemtext\">\n\nLuoto\n\nOlet paljas,\npuhurien päältä kulkema.\n\nOlet avoin,\nsyvien vesien ympäröimä.\n\nSinua vasten aallot\nmurtuvat.\n\nSinulle ihmiset\nmajakkamme rakentavat.</pre>"
   },
@@ -1354,8 +1354,8 @@
     "id": "153",
     "name": "Ei auki sunnuntaina",
     "kinpoems": [
-      4,
-      5
+      7,
+      37
     ],
     "content": "<pre class=\"poemtext\">\n\nEi auki sunnuntaina\n\nSattunut sydän\nsulkeutunut.\n\nSammuttanut\nyltään\nuteliaat silmät.\n\nVetänyt himmennysverhot\nvieraiden katseiden eteen.\n\nAsettelee\nkäännetyn kyltin takana\nkäyttämätöntä hymyään\nmetallihengariin,\n\njonka ripustaa\nnäyteikkunaansa,\nkävelykadun puolelle.</pre>"
   },
@@ -1363,8 +1363,8 @@
     "id": "154",
     "name": "Nummilla",
     "kinpoems": [
-      4,
-      5
+      83,
+      93
     ],
     "content": "<pre class=\"poemtext\">\n\nNummilla\n\nSuustaan puhalletun sumun läpi\nmyrskylyhtyäni katselen.\n\nUsvakyidensä\nmuodostamia ajatuksia\nlauseikseni tulkiten.\n\nVaatettamatonta\nkehoaan\nkastepisaroillani peittäen,\n\nhuomiseeni\nhaamuni kulkee.</pre>"
   },
@@ -1372,8 +1372,8 @@
     "id": "155",
     "name": "Ohjenuoria talleilta",
     "kinpoems": [
-      4,
-      5
+      54,
+      35
     ],
     "content": "<pre class=\"poemtext\">\n\nOhjenuoria talleilta\n\nMielenliikkeidensä\nikuiset mutantit\non syytä\nsatuloida huolella.</pre>"
   },
@@ -1381,8 +1381,8 @@
     "id": "156",
     "name": "Arpajaisissa",
     "kinpoems": [
-      4,
-      5
+      24,
+      87
     ],
     "content": "<pre class=\"poemtext\">\n\nArpajaisissa\n\nPäivien pisaroita,\ntaivaan tuomia.\n\nKuolankappaleita,\nkyyneleiden silmuja.\n\nEhjiä nauhoja\nah niin ahnaille suille\nojennetuilla siroilla kauloilla,\n\nirroinneita mustuneita helmiä\nsianpään mädänneessä suussa,\njonne ensimmäinen omena oli joskus vierinyt.</pre>"
   },
@@ -1390,8 +1390,8 @@
     "id": "157",
     "name": "Kuvien vangit",
     "kinpoems": [
-      4,
-      5
+      92,
+      73
     ],
     "content": "<pre class=\"poemtext\">\n\nKuvien vangit\n\nPoimivat silmät\npyydystävät.\n\nKohteita,\njoiden kautta kylkeensä\nkiinni kirjoittaa.\n\nTarina,\njoka jaetaan,\n\ntarinaan,\njota sankarillinen kauneus kansoittaa.</pre>"
   },
@@ -1399,8 +1399,8 @@
     "id": "158",
     "name": "Myrskynsä ratsastajat",
     "kinpoems": [
-      4,
-      5
+      92,
+      18
     ],
     "content": "<pre class=\"poemtext\">\n\nMyrskynsä ratsastajat\n\nKiihkonsa\naallonharhalla\n\nmaailmanselitystänsä\nporkkanoimaansa\nedessään\nkuljettavat\nuskonsa soturit\n\nkyntävät\nkivittämänsä\nelämän\npellot\nsieraimiinsa.</pre>"
   },
@@ -1408,8 +1408,8 @@
     "id": "159",
     "name": "Minotauros",
     "kinpoems": [
-      4,
-      5
+      98,
+      79
     ],
     "content": "<pre class=\"poemtext\">\n\nMinotauros\n\nSanojen labyrintissä\n\nTarkoitushakuisuuden\nsairastunut sarvi\n\npuhkoo eksyneet keuhkot.\n\nTäyttää syntyneet kolot\nteutaroinnillaan\nnostattamallaan\nkutittelevalla\nkultapöllyllä.</pre>"
   },
@@ -1417,8 +1417,8 @@
     "id": "160",
     "name": "Naali",
     "kinpoems": [
-      4,
-      5
+      27,
+      111
     ],
     "content": "<pre class=\"poemtext\">\n\nNaali\n\nKasvot\nahavan uurteilla koristamat\n\nKatse\nkylmien hetkien kirkastama\n\nLämmin veri\nvirtana kielen päällä\n\nHampaat\nhaudattuina\nsyvälle\nharvojen\nsaaliseläinten\nluihin ja ytimiin.</pre>"
   },
@@ -1426,8 +1426,8 @@
     "id": "161",
     "name": "Tekstitarhani faunaa",
     "kinpoems": [
-      4,
-      5
+      122,
+      144
     ],
     "content": "<pre class=\"poemtext\">\n\nTekstitarhani faunaa\n\nHaaveiden virrassa\nhuljuteltu rukoilijasirkka\n\nja\n\ntunteiden alasimella\ntaottu taistelijakala,\n\nkäärittyinä mieleni kantaman\nsideharsoiseen harhaan.</pre>"
   },
@@ -1435,8 +1435,8 @@
     "id": "162",
     "name": "Vuota",
     "kinpoems": [
-      4,
-      5
+      133,
+      156
     ],
     "content": "<pre class=\"poemtext\">\n\nVuota\n\nAjatusteni askeleet\neksyneinä\nmieleni kuolleisiin kulmiin.\n\nJoissa opittujen\nnarratiivien yönsiniset\narmeijat\nantavat\nhahmotonta & kasvotonta\nrymäterapiaansa.\n\nRipustavat silmäluomet\nvaloa kohti\nvenyneistä ristikkäisistä kulmistaan\nkertomustensa\nkylmäävään yhteiskudokseen.</pre>"
   },
@@ -1444,8 +1444,8 @@
     "id": "163",
     "name": "Kaarlensillalla",
     "kinpoems": [
-      4,
-      5
+      166,
+      177
     ],
     "content": "<pre class=\"poemtext\">\n\nKaarlensillalla\n\nUskonkappaleensa onnenlanteiksi\nkulkuaan seuraavien\npatsaiden silmiin painaen.\n\nKadotuksen rasvatyynen takaa itseään etsien,\nkuvajaisiaan vieroksuen.\n\nKauniiksi kuvittamansa tulevaisuuden\ntakaisin akanvirtaansa käsistänsä pudottaneena.\n\nSanansa parsittuina seitsemän peninkulman saappaiksi juoksujalkojensa ympärille.</pre>"
   },
@@ -1453,17 +1453,17 @@
     "id": "164",
     "name": "Lekapäät",
     "kinpoems": [
-      4,
-      5
+      188,
+      199
     ],
     "content": "<pre class=\"poemtext\">\n\nLekapäät\n\nUhon ja tuhon raiteilla\ninhimilliset,\nomat ja vieraat,\nuhrataan.\n\nSääli luokitellaan sairaudeksi,\njosta tulee parantua,\nalistumattomat tiputellaan\nyhdeksälle vaiennetulle piirille,\n\njotta vallan ja ahneuden\njuopunut koristautunut pariskunta\npääsee sisäsiittämään\njälleen uuden\nkultaisen aasinsa\nihailtavakseen.</pre>"
   },
   {
     "id": "165",
-    "name": "Karanneet  kielet",
+    "name": "Karanneet kielet",
     "kinpoems": [
-      4,
-      5
+      134,
+      182
     ],
     "content": "<pre class=\"poemtext\">\n\nKaranneet  kielet\n\nHuutamani sanat palavat\nvastaani\nhuutamillesi silloille\n\nEtsiessämme toisiamme\nmustaksi juosseen virran yli,\ntoistemme ohi,\n\nepäpuhtaasti tanssivan liekkimme varjossa.</pre>"
   },
@@ -1471,8 +1471,8 @@
     "id": "166",
     "name": "Ikuinen paluu I",
     "kinpoems": [
-      4,
-      5
+      179,
+      168
     ],
     "content": "<pre class=\"poemtext\">\n\nIkuinen paluu I\n\nPyörteissä riepoteltu mieli\netsii myrskynsä tyynen silmän,\n\njonne rakentaa hetken kotinsa\ntempoileviin tuntosarviinsa tarttuneilla\n\noman rauhansa rapisevilla rappauksilla,\njotka jälleen hymyn kaarella\nhetken läpi ratsastavat,\n\nlyhyttä aikaansa uhmaten,\naina uudelleen omaan ihmiseensä palaten.</pre>"
   },
@@ -1480,8 +1480,8 @@
     "id": "167",
     "name": "Siipienkasvattaja",
     "kinpoems": [
-      4,
-      5
+      122,
+      196
     ],
     "content": "<pre class=\"poemtext\">\n\nSiipienkasvattaja\n\nPimentyneen taivaan halki\nkauniista muistoista\nkauniisiin ajatuksiin\nkuunsiltoja rakennellen,\n\nluottamuksen kainalosta\nlämpöä kylmiä hetkiä vastaan hakien,\nkeskellä kiitorataa yötä pois\nseuraavan lämpimän aamun alta istuen.</pre>"
   },
@@ -1489,8 +1489,8 @@
     "id": "168",
     "name": "Oireyhtymiä",
     "kinpoems": [
-      4,
-      5
+      114,
+      198
     ],
     "content": "<pre class=\"poemtext\">\n\nOireyhtymiä\n\nPunon kielestä polkuja\nvieraantumiseni ylitse\n\nselitysmallien\nvielä nuoriin\nmittoihin ahtautuen\n\nkielikuviin\nkoristautuen\nkauniisiin\nitseni\nkäärien.</pre>"
   },
@@ -1498,17 +1498,17 @@
     "id": "169",
     "name": "Juuret",
     "kinpoems": [
-      4,
-      5
+      222,
+      256
     ],
-    "content": "<pre class=\"poemtext\">\n\nJuuret\n\nTasalle painon,\npohjalle vieden.\n\nSyvyyksiin asti,\njoissa,\n\njuoksevissa\nnoissa,\n\nkiintymys\ntarttuu\n\nhetkien taakse\nyltäviin\n\najan\nkestäneisiin\n\naikaa\nriittävästi\nnähneisiin\nkehyksiinsä.</pre>"
+    "content": "<pre class=\"poemtext\">\n\nJuuret\n\nTasalle painon,\npohjalle vieden.\n\nSyvyyksiin asti,\njoissa,\n\njuoksevissa noissa,\n\nkiintymys tarttuu\n\nhetkien taakse yltäviin\n\najan\nkestäneisiin\n\naikaa\nriittävästi\nnähneisiin\nkehyksiinsä.</pre>"
   },
   {
     "id": "170",
     "name": "Rivien väleissä",
     "kinpoems": [
-      4,
-      5
+      200,
+      100
     ],
     "content": "<pre class=\"poemtext\">\n\nRivien väleissä\n\nNiissä elämäni pienissä\nkuolemieni laaksoissa,\n\njoihin kauniit muistikuvat\njaetuista hetkistämme\nvielä yltävät\n\nmutta joihin\nmielikuvat tulevista jaetuista hetkistämme\neivät ole vielä löytäneet\n\nvain ikävä ojentaa kätensä\nmustasta aukostaan\nylös kapuajan\nkiinni pideltäväksi.</pre>"
   },
@@ -1516,8 +1516,8 @@
     "id": "171",
     "name": "Me kuivettujat",
     "kinpoems": [
-      4,
-      5
+      209,
+      219
     ],
     "content": "<pre class=\"poemtext\">\n\nMe kuivettujat\n\nYritämme satuttaa jalkamme\nsamojen sateiden pisaroihin\n\netteivät kosteikot\nkatoaisi\nyhteisten kertomustemme alta.</pre>"
   },
@@ -1525,8 +1525,8 @@
     "id": "172",
     "name": "Entropiamatkaaja",
     "kinpoems": [
-      4,
-      5
+      134,
+      122
     ],
     "content": "<pre class=\"poemtext\">\n\nEntropiamatkaaja\n\nAnnan\nrikkoutua\nkaikkien\nkäsiini saamieni\nsoittorasioideni\n\nlöytääkseni\nloputtomia puuttuvia rattaitani\n\njoiden avulla virittää\nkellokoneistoani käymään\nvielä vain\nhajanaisia hetkiäni\ntarkemmin.</pre>"
   },
@@ -1534,8 +1534,8 @@
     "id": "173",
     "name": "Saattajat",
     "kinpoems": [
-      4,
-      5
+      172,
+      185
     ],
     "content": "<pre class=\"poemtext\">\n\nSaattajat\n\nKorvakäytäviini kaivautuneet aiemmat kuiskauksesi\nKieleni päälle kiivenneet lainasanasi\n\nTaluttavat erossa olevat ajatukseni\nhiljaisten hetkieni tuolle puolen\n\nSaattavat odottelemaan\nunohduksen kuilumme reunalle,\n\njolla sillanrakentajamme\nvielä jo operoivat.</pre>"
   },
@@ -1543,8 +1543,8 @@
     "id": "174",
     "name": "Häkinsärkijä",
     "kinpoems": [
-      4,
-      5
+      194,
+      156
     ],
     "content": "<pre class=\"poemtext\">\n\nHäkinsärkijä\n\nRistiin luutuneiden\nkylkiluideni väleistä\nristeilevät\nkarkuun\ntoiveet,\njoilla on tarpeilta\nlainatut hännät,\n\nkosiskelevat\nhunajalla kuorrutetulla\nmuurinmurtajallaan\nviereisiään\n\nsynnyttävät\ntuuliset pihat,\njoilta tunteeni kerätään.</pre>"
   },
@@ -1552,8 +1552,8 @@
     "id": "175",
     "name": "Yönhalkoja",
     "kinpoems": [
-      4,
-      5
+      29,
+      42
     ],
     "content": "<pre class=\"poemtext\">\n\nYönhalkoja\n\nTähtien rei'ille\npolttama tumma taivaankansi\n\njota ikuisuutta\ntavoittelevat sormeni\npyrkivät koskettamaan.\n\nJättämään jäljen,\njoka häivyttäisi oman katoavaisuuteni\nennen kuin se kurkistaa olkani yli\n\nja syö omansa sydämen.</pre>"
   },
@@ -1561,8 +1561,8 @@
     "id": "176",
     "name": "Kasa kyitä",
     "kinpoems": [
-      4,
-      5
+      95,
+      93
     ],
     "content": "<pre class=\"poemtext\">\n\nKasa kyitä\n\nKiimaan kadonneet kylkiluut,\nunohdukseen uponneet myrkkyhampaat\n\nEnää vain\nkevään mieleen\nkuljettama\njatkumisen tarve.</pre>"
   },
@@ -1570,8 +1570,8 @@
     "id": "177",
     "name": "Moottoritie",
     "kinpoems": [
-      4,
-      5
+      58,
+      39
     ],
     "content": "<pre class=\"poemtext\">\n\nMoottoritie\n\nKirjoittaudun\nedessäni levittäytyvälle paperille\nkoukeroin\nsanankääntein,\n\nsillä suorani\novat liian pitkiä,\ntuulisia ja\npaljaita,\n\nkykeneväisiä\nkuljettamaan\nvaromattoman katseeni\naina\nviimeisen risteykseni\nkoleuteen\nsaakka.</pre>"
   },
@@ -1579,8 +1579,8 @@
     "id": "178",
     "name": "Paljain jaloin",
     "kinpoems": [
-      4,
-      5
+      27,
+      74
     ],
     "content": "<pre class=\"poemtext\">\n\nPaljain jaloin\n\nTarkoituksensa kadottanut\nkutoo sanoistaan\nrationaalisuuden nuottaa,\njolla vetää itseänsä kuivalle maalle\n\nSiltä katkenneiden\nhorisonttien\nupottamalta lentomatolta,\njota\nkivun nimeen vannovat\nfakiirit jo\nitselleen himoitsevat.</pre>"
   },
@@ -1588,8 +1588,8 @@
     "id": "179",
     "name": "Aamuntörröttäjä",
     "kinpoems": [
-      4,
-      5
+      95,
+      75
     ],
     "content": "<pre class=\"poemtext\">\n\nAamuntörröttäjä\n\nKatseeni asettuu\nunessa vielä keinuvalle vartalollesi\n\nRauhoittaa levottomuuttani\nspiraaleihisi,\n\njoita\nonnellisuutemme\nkehosi pinnalle\nkauneudellaan kiertää\n\ntuulia vasten,\nvasten aamua,\njota ajatuksesi ei malta odottaa,\njohon se arastelee kuitenkin nousta\nennen\nhuulieni kosketusta\nvalveen rajalla\nvielä\nodottavalle ihollesi.</pre>"
   },
@@ -1597,8 +1597,8 @@
     "id": "180",
     "name": "Varaaja",
     "kinpoems": [
-      4,
-      5
+      39,
+      29
     ],
     "content": "<pre class=\"poemtext\">\n\nVaraaja\n\nSinua vasten\nhauraat toiveeni\nkauneuttaan kaatuvat.\n\nSinua vasten itseni\nrakennan ja rikkoudun.\n\nSinuun aikani sidon\nja toivon\nettei se koskaan\nväkivaltaisuuttaan katkea.</pre>"
   },
@@ -1606,8 +1606,8 @@
     "id": "181",
     "name": "Horrostaja",
     "kinpoems": [
-      4,
-      5
+      38,
+      47
     ],
     "content": "<pre class=\"poemtext\">\n\nHorrostaja\n\nSinua vasten\ntuuleni huutavat\n\nSinua vasten\nkipunoin\n\nsyntyäkseni\nliekkeihini uudelleen.\n\nSyvän uneni\nviileydestä,\n\njonne\nptkittynyt talveni\non minut vienyt.</pre>"
   },
@@ -1615,8 +1615,8 @@
     "id": "182",
     "name": "Tuulikello",
     "kinpoems": [
-      4,
-      5
+      32,
+      86
     ],
     "content": "<pre class=\"poemtext\">\n\nTuulikello\n\nSätkin jalkojani\nvielä juoksevia jalkojani\n\ntaivasta kohti\nkurottelevasta kaulastani\nvielä venyvästä kaulastani.</pre>"
   },
@@ -1624,8 +1624,8 @@
     "id": "183",
     "name": "Valtakunta hevosesta",
     "kinpoems": [
-      4,
-      5
+      29,
+      36
     ],
     "content": "<pre class=\"poemtext\">\n\nValtakunta hevosesta\n\n... joka tietää minne juosta.</pre>"
   },
@@ -1633,8 +1633,8 @@
     "id": "184",
     "name": "Kielen puhkaisusta",
     "kinpoems": [
-      4,
-      5
+      78,
+      72
     ],
     "content": "<pre class=\"poemtext\">\n\nKielen puhkaisusta\n\nKoukku läpi\nomista\nkielenkannoista\n\nTuntemus jokaisesta\njulki lausutusta\nsanasta\n\nmyönnetty\nja\nmyötä eletty\n\nSanojan ja kohteen\nkautta,\n\nmatkojensa päihin.</pre>"
   },
@@ -1642,8 +1642,8 @@
     "id": "185",
     "name": "Vuorovesi",
     "kinpoems": [
-      4,
-      5
+      28,
+      29
     ],
     "content": "<pre class=\"poemtext\">\n\nVuorovesi\n\nRistiriidat\nsaapuvat\njälleen.\n\nSaapuvat,\n\nsaman\nkuun\nkulman takaa,\n\njoka\njokaista yötäni koristaa.\n\nPitävät\najatuksiani kosteina.\n\nPitävät\nne\nverevinä.</pre>"
   },
@@ -1651,8 +1651,8 @@
     "id": "186",
     "name": "Tarrautuja",
     "kinpoems": [
-      4,
-      5
+      94,
+      183
     ],
     "content": "<pre class=\"poemtext\">\n\nTarrautuja\n\nMuuraan\nitseäni kiinni\nihmisen rakennelmiimme\n\nLukitsen\nitseäni kiiinni\nluonnon liikkeisiinsä\n\nHukutan\nirrallisuuttani\nyhteisen unemme\najan halki valuvaan hiekkaan.</pre>"
   },
@@ -1660,8 +1660,8 @@
     "id": "187",
     "name": "Sijaiskärsijä",
     "kinpoems": [
-      4,
-      5
+      128,
+      122
     ],
     "content": "<pre class=\"poemtext\">\n\nSijaiskärsijä\n\nTyönnän\nliiaksi tummenneet\najatukseni\nystäväni,\nunohdukseni,\nsyliin\n\nEtteivät värjäymät\nlaikuttaisi liiaksi\nmieleni syntyjään\nkirkasta pintaa,\n\nvielä muistini laidalla\nkeikkuvaa.</pre>"
   },
@@ -1669,8 +1669,8 @@
     "id": "188",
     "name": "Manipulseparaattori",
     "kinpoems": [
-      4,
-      5
+      183,
+      193
     ],
     "content": "<pre class=\"poemtext\">\n\nManipulseparaattori\n\nKieli\nkeinona, jolla\nkantaa verhottua tarkoitusta\nkuin häntää kainalossaan.\n\nSen sijaan, että riisuisi kielellään\nitseänsä paljaaksi\ntoisten edessä.\n\nKieli välineenä,\njolla vaatettaa toisia kaltaisiaan\nsavuilla ja peileillä.\n\nPakkosynnyttääkseen\nvälillemme\nväkinäisiä eroja.</pre>"
   },
@@ -1678,8 +1678,8 @@
     "id": "189",
     "name": "Kadonneet jäljet",
     "kinpoems": [
-      4,
-      5
+      134,
+      178
     ],
     "content": "<pre class=\"poemtext\">\n\nKadonneet jäljet\n\nElonkipinöiden\nmustiin puetut\nmurhamiehet\n\nPetttymysten pielissä,\nlohduttomuuden lammikoissa\nsaaliitaan\nodottamassa\n\njalkoja,\njotka eivät jaksa enää\nottaa seuraavia askeliaan,\n\nhuomisen huomaan suuntaavia.</pre>"
   },
@@ -1687,8 +1687,8 @@
     "id": "190",
     "name": "Tuulenpyytäjä",
     "kinpoems": [
-      4,
-      5
+      134,
+      128
     ],
     "content": "<pre class=\"poemtext\">\n\nTuulenpyytäjä\n\nSeuraan lävitseni\nvyöryviä päiviäni.\n\nHerkällä korvallani\nkurkoittelen,\nkuuntelen.\n\nTuulenpesien\nsisällään\nhautomia\ntaudinkantajia\nvaroen,\n\nnosteita\nansalankoihini\nhoukutellen.</pre>"
   },
@@ -1696,7 +1696,7 @@
     "id": "191",
     "name": "Takiaiset",
     "kinpoems": [
-      4,
+      128,
       5
     ],
     "content": "<pre class=\"poemtext\">\n\nTakiaiset\n\nTummiin pukeutuneet ajatukset\nväsymyksessä värjäytyneet\nmenetyksissä muovautuneet\n\nKapuavat jälleen esiin\nkuolleista kulmista,\n\njoita eletyt päivät jättävät\njälkiinsä\n\ntähän hetkeen\nasti\nyltäviin.</pre>"
@@ -1706,7 +1706,7 @@
     "name": "Roikkuja",
     "kinpoems": [
       4,
-      5
+      28
     ],
     "content": "<pre class=\"poemtext\">\n\nRoikkuja\n\nKuolemaan viettävällä\nvinolla viilenevällä pinnalla\n\netsivät sätkivät\nkädet ja jalat\nsijoja,\njoihin tarttua,\n\njoissa tuli jaksaa palaa\nilman jatkuvaa poskiensa pullistelua\nja\nilmaansa puhaltelua.</pre>"
   },
@@ -1714,8 +1714,8 @@
     "id": "193",
     "name": "Samuudenpoistaja",
     "kinpoems": [
-      4,
-      5
+      29,
+      6
     ],
     "content": "<pre class=\"poemtext\">\n\nSamuudenpoistaja\n\nAatteiden vaatteilla\nvieraiksi puetut\n\nEroteltuina itsestään\nomiin aitauksiin\n\nJotta maailmankuvat\njatkavat piirtymistään\nriittävän harvoilla,\nriittävän selkeillä sävyillään.</pre>"
   },
@@ -1723,8 +1723,8 @@
     "id": "194",
     "name": "Addiktit",
     "kinpoems": [
-      4,
-      5
+      7,
+      28
     ],
     "content": "<pre class=\"poemtext\">\n\nAddiktit\n\nAjan kulkua\nkarussa olevat\n\nkauniissa osoitetuissa\nlauseissa syntyneet\n\njanoisiin korviin\nkaadetut sanat.\n\nKorviin,\njoiden välien kantajat\novat maapallonsa\nkumisevan\nitselleen valloittaneet.</pre>"
   },
@@ -1732,8 +1732,8 @@
     "id": "195",
     "name": "Me vaeltajat",
     "kinpoems": [
-      4,
-      5
+      29,
+      9
     ],
     "content": "<pre class=\"poemtext\">\n\nMe vaeltajat\n\nihminen, joka kulkee ihmisen läpi.\n\nEsillepanojen väleissä,\nrakentamattomissa,\nvartioimattomissa hetkissä,\n\nvilunvärekarvoillaan.</pre>"
   },
@@ -1741,8 +1741,8 @@
     "id": "196",
     "name": "Aavalla",
     "kinpoems": [
-      4,
-      5
+      3,
+      19
     ],
     "content": "<pre class=\"poemtext\">\n\nAavalla\n\nSydämen reunoilla kiertevät\npelot\n\nVerta vedestä haistelevat\nkiertelevät\npedot\n\nHeti ensimmäisestä\npisarasta,\n\njonka haaveistaan\nhaavoittunut\nitsestään\nmerelleen luovuttaa.</pre>"
   },
@@ -1750,8 +1750,8 @@
     "id": "197",
     "name": "Me liimanhaistajat",
     "kinpoems": [
-      4,
-      5
+      29,
+      84
     ],
     "content": "<pre class=\"poemtext\">\n\nMe liimanhaistajat\n\nItselleen vahvistusta\ntoisista hakien\n\njaetttujen kertomusten\nitsellensä kirjoitettujen\n\nnarratiivia\nneliin kykenevää\nkylkiinsä sivellen.</pre>"
   },
@@ -1759,8 +1759,8 @@
     "id": "198",
     "name": "Tyhjyydestä",
     "kinpoems": [
-      4,
-      5
+      29,
+      63
     ],
     "content": "<pre class=\"poemtext\">\n\nTyhjyydestä\n\nYrittää juosta sanojen siltaa pitkin\ntoisten luokse\n\nvaikka rakennelma sitä nopeammin purkautuu\nmitä kiihkeämmin niiltä merkityksiä\nitselleen hakee.\n\nKun kieli ei enää kannattele,\nkun kokemus\nei enää kykene olemaan läsnä.\n\nKun ilmasta on hapen syrjäyttänyt jälleen\nnäennäisen yksinkertainen, silti vastaamaton kysymys,\n\nmiksi?</pre>"
   },
@@ -1768,8 +1768,8 @@
     "id": "199",
     "name": "Pimeydellä liekitetty",
     "kinpoems": [
-      4,
-      5
+      29,
+      16
     ],
     "content": "<pre class=\"poemtext\">\n\nPimeydellä liekitetty\n\nSilmäni palavat.\n\nJatkavat näkemistä,\nvaikka mieli on menettänyt kykynsä selittää.\n\nKulottavat silmäkuoppaa,\njonka pohja hiljalleen lähestyy kallon keskustaa\nVievät taivasta päivä päivältä kauemmaksi.</pre>"
   },
@@ -1777,8 +1777,8 @@
     "id": "200",
     "name": "Valoon kastettu",
     "kinpoems": [
-      4,
-      5
+      5,
+      7
     ],
     "content": "<pre class=\"poemtext\">\n\nValoon kastettu\n\nSilmäni palaavat,\nKykenevät jälleen poimimaan\npimeydestä nousevia kipinöitä,\n\njotka vievät takaisin ihmisessä\nikuisesti elävän\nruumuutensa syrjäyttävän kauneuden luokse.</pre>"
   },
@@ -1786,8 +1786,8 @@
     "id": "201",
     "name": "Nahkurilta karanneet",
     "kinpoems": [
-      4,
-      5
+      201,
+      245
     ],
     "content": "<pre class=\"poemtext\">\n\nNahkurilta karanneet\n\nRisteävien odotusten,\ntoiveiden täyttymistä vartovien,\ntuotantotiloissa\nihmistä\nluodaan.\n\nLiotetaan jakamisen tarpeessa,\nruokitaan yksinäisyyden pelolla\nja\nheitetään toisten parkojen sekaan\naina uudelleen itseään synnyttämään.</pre>"
   },
@@ -1795,8 +1795,8 @@
     "id": "202",
     "name": "Lyhyttä matematiikkaa",
     "kinpoems": [
-      4,
-      5
+      203,
+      157
     ],
     "content": "<pre class=\"poemtext\">\n\nLyhyttä matematiikkaa\n\nEpäusko polttaa\nmieleen luotisuoria,\njoiden läpi katsella\nsavuavia utopioitamme.\n\nSinusta,\nminusta,\nsiitä  kauneudesta,\njonka ihmismieli pystyy kuvittelemaan\nmutta\njota ihmisen kädet eivät osaa rakentaa.\n\nLaskea reikiä rintakehästään sormillaan\nmiettien, milloin ne loppuvat kesken.</pre>"
   },
@@ -1804,8 +1804,8 @@
     "id": "203",
     "name": "Maljapuhe",
     "kinpoems": [
-      4,
-      5
+      182,
+      200
     ],
     "content": "<pre class=\"poemtext\">\n\nMaljapuhe\n\nVuodan hetkiäni\njuoksuhiekaksi tiimalasiini\n\nEttevät päiväni pelkistyisi\nvain\nmatelevaksi halvaksi näytelmäksi\n\nVaan juopuisin,\nmaistaisin virtaavan vereni\n\nTuntisin lihani,\nvärisisin elämäni edessä,\n\nen kylmästä,\nvaan kiimasta.</pre>"
   },
@@ -1813,8 +1813,8 @@
     "id": "204",
     "name": "Puutetiloista",
     "kinpoems": [
-      4,
-      5
+      95,
+      84
     ],
     "content": "<pre class=\"poemtext\">\n\nPuutetiloista\n\nRakennamme toisistamme\nsiltoja,\njota pitkin kävellä\n\nkohti\nomia harhojamme,\nvaltakuntaamme ja vapautustamme.\n\nTarhojamme,\ntoiveidemme valtaamia.\n\nOllaksemme kiinni\ntoistemme todistusvoimassa\nsavijaloillamme,\n\njotka eivät itsestämme kovetu.</pre>"
   },
@@ -1822,8 +1822,8 @@
     "id": "205",
     "name": "Hyrrä",
     "kinpoems": [
-      4,
-      5
+      57,
+      38
     ],
     "content": "<pre class=\"poemtext\">\n\nHyrrä\n\nHakkaan päätäni,\nniin vaativaa,\nuskomatonta päätäni,\n\nhukutan suruani,\naina pintaan nousevaa\nsuruani,\n\nrevin alati uudelleen ympärilleni\nkietoutuvaa epäuskon harsoani\nalati ympäriltäni,\n\nnähdäkseni itseäni\nkoko ajan\nsilmieni edessä.</pre>"
   },
@@ -1831,8 +1831,8 @@
     "id": "206",
     "name": "Toisistamme",
     "kinpoems": [
-      4,
-      5
+      85,
+      93
     ],
     "content": "<pre class=\"poemtext\">\n\nToisistamme\n\nPalaamme\npohjaamme\nväkivalloin.\n\nLaihdumme\noletetun lihavuutemme\nkaipuun kautta.\n\nRipustautuen\nkatteettomien lupaustemme\nkaulaan.</pre>"
   },
@@ -1840,8 +1840,8 @@
     "id": "207",
     "name": "Kroonikko",
     "kinpoems": [
-      4,
-      5
+      75,
+      138
     ],
     "content": "<pre class=\"poemtext\">\n\nKroonikko\n\nJärki pitää kasassa\nluista linnoitusta,\n\njonka muureilta viima\non syönyt tunteet pois.\n\nEnää Iho koristeena\nkorostuneilla poskipäillä,\n\njotka vielä\nmuistavat\nsuuntautua ulospäin.</pre>"
   },
@@ -1849,17 +1849,17 @@
     "id": "208",
     "name": "Me poikkeamat",
     "kinpoems": [
-      4,
-      5
+      124,
+      129
     ],
-    "content": "<pre class=\"poemtext\">\n\nMe poikkeamat\n\nLähestyä yhteisöllisyyttä\njärkiperustein\n\nsillä välittömyys\non omien loogisten mahdollisuuksien tuolla puolen.\n\nYrittää työntää kättään\nsanahelinään\n\nsaadakseen kouraansa jotain\nmuutakin\nkuin valtimoita auki repiviä\nhelyjä,\n\ntoivoen, että järki\non yhtä ääretön kuin avaruus\n\nja selittävyys\nloputon luonnonvara,\n\npeläten jotain\naivan muuta....</pre>"
+    "content": "<pre class=\"poemtext\">\n\nMe poikkeamat\n\nLähestyä yhteisöllisyyttä\njärkiperustein\n\nsillä välittömyys\non omien loogisten mahdollisuuksien tuolla puolen.\n\nYrittää työntää kättään sanahelinään\n\nsaadakseen kouraansa jotain muutakin\nkuin valtimoita auki repiviä helyjä,\n\ntoivoen, että järki\non yhtä ääretön kuin avaruus\n\nja selittävyys\nloputon luonnonvara,\n\npeläten jotain\naivan muuta....</pre>"
   },
   {
     "id": "209",
     "name": "Kieli",
     "kinpoems": [
-      4,
-      5
+      174,
+      182
     ],
     "content": "<pre class=\"poemtext\">\n\nKieli\n\nulokkeena,\njolta kurkoitella\ntoisia kohti,\n\nulokkeena,\njolta karata\n\nhuomaamatta\n\naina\nvain toisista kauemmas.\n\nKieli,\ntoivona\npunomassaan\nlabyrintissa.</pre>"
   },
@@ -1867,8 +1867,8 @@
     "id": "210",
     "name": "Kollektiivi",
     "kinpoems": [
-      4,
-      5
+      149,
+      129
     ],
     "content": "<pre class=\"poemtext\">\n\nKollektiivi\n\nJaetut hetket,\njoita päälleni puen\n\ntoisiimme vedoten,\n\nKaratakseni\nperässäni juoksevalta\nyksinäisyydeltä.</pre>"
   },
@@ -1876,8 +1876,8 @@
     "id": "211",
     "name": "Kaunankuljettajat",
     "kinpoems": [
-      4,
-      5
+      182,
+      194
     ],
     "content": "<pre class=\"poemtext\">\n\nKaunankuljettajat\n\nKun  merkityksemme ovat väliltämme\nkuolleet\n\nkyvyttömyyteni kuljettaa enää riekaleita\nkainalossani\n\nmuuttaa ne ristiriidoiksi,\njotka vihamme ruokkivat.</pre>"
   },
@@ -1885,8 +1885,8 @@
     "id": "212",
     "name": "Kodittomat sanat",
     "kinpoems": [
-      4,
-      5
+      128,
+      136
     ],
     "content": "<pre class=\"poemtext\">\n\nKodittomat sanat\n\nEtsivät kovin\nkovaa maata,\njohon\njuurtua,\njäätyä.\n\nJäädä paikoilleen.\n\nOvat kyllästyneet\n\nkieppumaan ilmassa,\n\nhaistelemaan tuulia,\n\njärsimään\nnälkäänsä omia\npiikeiksi kiertyneitä\nhäntiään.</pre>"
   },
@@ -1894,8 +1894,8 @@
     "id": "213",
     "name": "Toimeenpanijat",
     "kinpoems": [
-      4,
-      5
+      137,
+      147
     ],
     "content": "<pre class=\"poemtext\">\n\nToimeenpanijat\n\nIhminen minussakin on se aasi,\njoka uhrataan yhteiseksi puettujen aatteidemme\nalttarille.\n\nKun yksilöiden vallanhimo ja ahneus\ntäytyy saada käärittyä yhteiseen häähuntuun,\nmoneen kertaan raiskatun yhteiskuntasopimuksen alla.\n\nSilti,\n\naina,\n\noma yhteinen kilpemme kiiltää,\naina vain vieraidemme verestä.</pre>"
   },
@@ -1903,8 +1903,8 @@
     "id": "214",
     "name": "Riippuvuuteen kirjoitetut",
     "kinpoems": [
-      4,
-      5
+      129,
+      122
     ],
     "content": "<pre class=\"poemtext\">\n\nRiippuvuuteen kirjoitetut\n\nKiinni toisissamme,\njos ei rakkaudessa,\nedes\nvihassamme.</pre>"
   },
@@ -1912,8 +1912,8 @@
     "id": "215",
     "name": "Riippusillallla",
     "kinpoems": [
-      4,
-      5
+      138,
+      191
     ],
     "content": "<pre class=\"poemtext\">\n\nRiippusillallla\n\nKumiseva tyhjyys\nsisälläni.\n\nTyhjyys,\njossa\n\nenää rationaalisuus\nasettelee lankkujaan\nilman askelmerkkejä\n\nilmassa\nlaahavien\naskeleideni alle.</pre>"
   },
@@ -1921,17 +1921,17 @@
     "id": "216",
     "name": "Päiväperho",
     "kinpoems": [
-      4,
-      5
+      197,
+      244
     ],
-    "content": "<pre class=\"poemtext\">\n\nPäiväperho\n\nEpätoivossani\nkuolevaisuuteni edessä\n\nyritän olla\nikuinen,\n\ntakerrun\njatkuvuuteen.\n\nTeeskentelen\nvälinpitämättömyyttä.\n\nYritän elää\nhetkessä,\nkaikista meistä huolimatta,\n\nriipustaudun\najattomuuteen\n\nja silti,\n\nolen\nvain yksi\n\nkaikista lainatuista\nBunuelin ja Schopenhauerin\n\nlukemattomista\nlapsista.</pre>"
+    "content": "<pre class=\"poemtext\">\n\nPäiväperho\n\nEpätoivossani kuolevaisuuteni edessä\n\nyritän olla ikuinen,\n\ntakerrun jatkuvuuteen.\n\nTeeskentelen välinpitämättömyyttä.\n\nYritän elää hetkessä,\nkaikista meistä huolimatta,\n\nriipustaudun ajattomuuteen\n\nja silti,\n\nolen vain yksi\n\nkaikista lainatuista\nBunuelin ja Schopenhauerin\n\nlukemattomista lapsista.</pre>"
   },
   {
     "id": "217",
     "name": "Boa",
     "kinpoems": [
-      4,
-      5
+      124,
+      225
     ],
     "content": "<pre class=\"poemtext\">\n\nBoa\n\nKuristan\nitseäni\nkieleeni,\n\njotta\ntuntuisin\nitselleni\njälleen,\n\netten näyttäytyisi\nenää\nitselleni\nvain itseäni karkuun juoksevana\njälleen uutena\najatusteni tuottamana\nhetken harhana.</pre>"
   },
@@ -1939,8 +1939,8 @@
     "id": "218",
     "name": "Kiinnikuroja",
     "kinpoems": [
-      4,
-      5
+      251,
+      245
     ],
     "content": "<pre class=\"poemtext\">\n\nKiinnikuroja\n\nKieleeni\nripustaudun,\n\nsanojeni\nylitse\nojennun\n\nedelläni väistyvään\npimeyteen.</pre>"
   },
@@ -1948,8 +1948,8 @@
     "id": "219",
     "name": "Kastettu",
     "kinpoems": [
-      4,
-      5
+      237,
+      217
     ],
     "content": "<pre class=\"poemtext\">\n\nKastettu\n\nMaailman välkehtivälle\npinnalle\nheijastuu kuvajaiseni,\nsinunkin kuvajaisesi,\n\nhoukuttelee\nupottamaan pääni\nuudelleen,\n\npuhdistamaan\nhaavojani\nsamoissa mustan ja valkean\nvuorovesissä,\njoista olen ne\nkerännyt.</pre>"
   },
@@ -1957,8 +1957,8 @@
     "id": "220",
     "name": "Ajansyöjä",
     "kinpoems": [
-      4,
-      5
+      223,
+      192
     ],
     "content": "<pre class=\"poemtext\">\n\nAjansyöjä\n\nAina\naamun koleassa sumussa\nsatamastani ulos ulapalle\najaudun\n\njärsittyäni niitä\nankkureita,\njotka\nkiinnittäisivät historiaan,\n\njoka ei ole kuin omin tai yhteisin käsin\npunottua narratiivia,\nkuolemansa edessä väistyvää.\n\nKykenemätöntä\nkantamaan kokemusta mukanaan,\n\nviimeisen kynnykseni yli.</pre>"
   },
@@ -1966,8 +1966,8 @@
     "id": "221",
     "name": "Peilityyni",
     "kinpoems": [
-      4,
-      5
+      178,
+      158
     ],
     "content": "<pre class=\"poemtext\">\n\nPeilityyni\n\nPäädyn katsomaan\njälleen\nsamaa\nrauhoittuneen veden\ntaakse taittuvaa pakopistettäni.\n\nPakopistettä,\njohon näkemäni maalaukset lopulta katoavat,\nkuulemani kertomukset päättyvät,\nitse aika unohtaa itseni.\n\nJoka antaa minun jälleen hetkeksi ottaa kiinni\nikuisuudestani,\nkunnes aikani  minut jälleen takaisin\nitselleen riistää.</pre>"
   },
@@ -1975,8 +1975,8 @@
     "id": "222",
     "name": "Laiturilla",
     "kinpoems": [
-      4,
-      5
+      182,
+      196
     ],
     "content": "<pre class=\"poemtext\">\n\nLaiturilla\n\nMittatilkujen\nja vertailukeppien\nkatoaminen.\n\nSanotuista sanoista vapaa\najatus,\njoka vaeltelee\ntoistensa perään toistuvien\naaltojen harjoilla.\n\nPalaa itseensä,\ntoistaa ajan\nläpäisevää kaavaa,\n\njohon kaikkien kohtaamieni olentojen\ntoimet on sisäänkirjoitettu.\n\nKahlittu ja samalla vapautettu.</pre>"
   },
@@ -1984,8 +1984,8 @@
     "id": "223",
     "name": "Kaavaankirjoitettu",
     "kinpoems": [
-      4,
-      5
+      94,
+      87
     ],
     "content": "<pre class=\"poemtext\">\n\nKaavaankirjoitettu\n\nEnnallta haettu\nvuosi vuodelta opittu\najatus,\nköynnöskasvi,\n\nennättää kokemuksen\nedellle,\nvuosien myötä.\n\nTaltuttaa,\nkouluttaa,\ntylsyttää,\ntyhjentää,\nkuluttaa pois,\n\nkohti yhteisiä askelia\nkävelevää kuolemaa</pre>"
   },
@@ -1993,8 +1993,8 @@
     "id": "224",
     "name": "Linnoitus",
     "kinpoems": [
-      4,
-      5
+      28,
+      52
     ],
     "content": "<pre class=\"poemtext\">\n\nLinnoitus\n\nVaiettujen sanojen väleihin\njakamattomat ajatukset hakeutuvat\n\nrakentamaan muureja,\njoilta näkee kauas\ntulematta itse nähdyksi.</pre>"
   },
@@ -2002,8 +2002,8 @@
     "id": "225",
     "name": "Lapsille",
     "kinpoems": [
-      4,
-      5
+      74,
+      85
     ],
     "content": "<pre class=\"poemtext\">\n\nLapsille\n\nPyrimme jatkumaan\nkauttanne,\nunohtamaan puuttemme taaksenne.\n\nToivomme ja\nlohtumme asuvat teissä,\n\nvielä kauan meidän jälkeemme.</pre>"
   },
@@ -2011,17 +2011,17 @@
     "id": "226",
     "name": "Riippuvissa puutarhoissa",
     "kinpoems": [
-      4,
-      5
+      93,
+      173
     ],
-    "content": "<pre class=\"poemtext\">\n\nRiippuvissa puutarhoissa\n\nVastaukset ovat valmiina,\nkun\nenää kysymykset puuttuvat,\n\nkun talvi on tullut .\n\nOmenat ovat  jäässä,\nkäärmeet taas sulina,\n\nKieli helvetin terävänä,\nmieli vain tylsänä,\n\njäisenä tasankona edessämme.</pre>"
+    "content": "<pre class=\"poemtext\">\n\nRiippuvissa puutarhoissa\n\nVastaukset ovat valmiina,\nkun\nenää kysymykset puuttuvat,\n\nkun talvi on tullut.\n\nOmenat ovat  jäässä,\nkäärmeet taas sulina,\n\nKieli helvetin terävänä,\nmieli vain tylsänä,\n\njäisenä tasankona edessämme.</pre>"
   },
   {
     "id": "227",
     "name": "?",
     "kinpoems": [
-      4,
-      5
+      198,
+      149
     ],
     "content": "<pre class=\"poemtext\">\n\n?\n\nVasta periltä\nyritän löytää toisemme\n\nPalamattomien siltojen\ntakaa,\n\nKaikkien kysyttyjen kysymysten\njäljiltä\n\nvielä jaloiltaan.</pre>"
   },
@@ -2029,8 +2029,8 @@
     "id": "228",
     "name": "Shokkikäytävä",
     "kinpoems": [
-      4,
-      5
+      49,
+      29
     ],
     "content": "<pre class=\"poemtext\">\n\nShokkikäytävä\n\nKuulen\ntuhoutuneita ääniä.\n\nHavaintojen\nraiskaamia\nmenneisyyden lupaaman\ntoteutumattoman tulevaisuuden huutoja\n\njotka harhailevat\npimeässä yössäni\ntarpeettomina\nlojuviilla korvakäytävilläni.</pre>"
   },
@@ -2038,8 +2038,8 @@
     "id": "229",
     "name": "Riippuliitäjä",
     "kinpoems": [
-      4,
-      5
+      14,
+      185
     ],
     "content": "<pre class=\"poemtext\">\n\nRiippuliitäjä\n\nKuljen\nriippuvuuksieni\nvarassa\n\nEtsien\nlaaksojani\n\nVäistellen\nvurorenseinämiäni.</pre>"
   },
@@ -2047,8 +2047,8 @@
     "id": "230",
     "name": "Shangri-la",
     "kinpoems": [
-      4,
-      5
+      194,
+      205
     ],
     "content": "<pre class=\"poemtext\">\n\nShangri-la\n\nYritän\nkuluttaa\nsanojani loppuun\n\nLoputtomia\nsanoja,\njotta tämä\npirunpolkkani loppuisi\n\njotta ajatukseni\nlakkaisivat kiusaamasta,\n\njotta voisin\nvain olla,\n\nilman sanoja,\nilman ääniä.</pre>"
   },
@@ -2056,8 +2056,8 @@
     "id": "231",
     "name": "Minusta",
     "kinpoems": [
-      4,
-      5
+      174,
+      165
     ],
     "content": "<pre class=\"poemtext\">\n\nMinusta\n\nHaluan kuulla toiveemme\nunohtaa puutteemme\nnähdä tarpeemme\n\naina uudelleen\n\ntoiveissani ja tahdossani.</pre>"
   },
@@ -2065,8 +2065,8 @@
     "id": "232",
     "name": "Meistä",
     "kinpoems": [
-      4,
-      5
+      144,
+      196
     ],
     "content": "<pre class=\"poemtext\">\n\nMeistä\n\nHaluan löytää toisemme\n\naina uudelleen\n\nilman erottavia\ntekijöitä\n\nilman riitasointuja\n\nkauniina sekasotkuna\nsiitä kasasta,\n\njohon kylmyydeltäni\nsuojaan käperryn.</pre>"
   },
@@ -2074,8 +2074,8 @@
     "id": "233",
     "name": "Outlet",
     "kinpoems": [
-      4,
-      5
+      200,
+      230
     ],
     "content": "<pre class=\"poemtext\">\n\nOutlet\n\nVuodatan sanojani paperille\n\netten vuotaisi kuiviin\nmaailman lausumattomalle lattialle.</pre>"
   },
@@ -2083,8 +2083,8 @@
     "id": "234",
     "name": "Prisma",
     "kinpoems": [
-      4,
-      5
+      240,
+      251
     ],
     "content": "<pre class=\"poemtext\">\n\nPrisma\n\nSilmät suunnattuna joka suuntaan,\nkatse taitettuna kaikkialle,\n\nettei valo sokaisisi,\nvaan paljastaisi\nkaikki sateenkaarin värit,\njolla se on ihmisensä sivellyt.</pre>"
   },
@@ -2092,8 +2092,8 @@
     "id": "235",
     "name": "Saastuneet sanat",
     "kinpoems": [
-      4,
-      5
+      234,
+      233
     ],
     "content": "<pre class=\"poemtext\">\n\nSaastuneet sanat\n\nSyntyvät valmiiksi vaatetettuina,\npunaisten lyhtyjen alle.\n\nItsetietoisuutesi tuolla puolen.\n\nKuitenkin\n\nkauneutesi elää ainoastaan tavoittamissani teoissasi,\nrumuutesi tavoittamattomissani sanoissasi.</pre>"
   },
@@ -2101,8 +2101,8 @@
     "id": "236",
     "name": "Ikuinen paluu II",
     "kinpoems": [
-      4,
-      5
+      214,
+      211
     ],
     "content": "<pre class=\"poemtext\">\n\nIkuinen paluu II\n\nKartoittakaamme toistemme\nloputtomat kolkat\n\npäätyäksemme lopulliselle\nloputtomalle taistelukentälle\n\njolla tuliset sielumme\nkohtaavat ikuiset toisensa,\nkadottamatta näköyhteyttään.</pre>"
   },
@@ -2110,8 +2110,8 @@
     "id": "237",
     "name": "Populisti I",
     "kinpoems": [
-      4,
-      5
+      107,
+      83
     ],
     "content": "<pre class=\"poemtext\">\n\nPopulisti I\n\nEilisen musta muuttuu\ntämän päivän valkoiseksi,\nennen huomisen mustaa.\n\nKysymysmerkit\nkorvautuvat\nhuutomerkeillä.\n\nRumuus on jäljellä enää vieraan silmässä,\nkauneus enää omassa peilikuvassa.</pre>"
   },
@@ -2119,8 +2119,8 @@
     "id": "238",
     "name": "Kuuluu",
     "kinpoems": [
-      4,
-      5
+      118,
+      208
     ],
     "content": "<pre class=\"poemtext\">\n\nKuuluu\n\nHiljaisuuden merestä\nnousevat kuolleet kalat\nkuivalle kolealle maalle\n\nkoleiden tähtien\nvalaisemalle,\navaruuden tyhjyyteen tomuavallle\nrantahiekalle\n\nPuhaltavat\nhengen täyteen\nseisovaa, hetkestä höyryävää ilmaa.</pre>"
   },
@@ -2128,8 +2128,8 @@
     "id": "239",
     "name": "Suunnistaja",
     "kinpoems": [
-      4,
-      5
+      205,
+      184
     ],
     "content": "<pre class=\"poemtext\">\n\nSuunnistaja\n\nKaiken rakennetun\nluottamuksen\n\nväleissä,\njoihin oma\nepäluottamus\npuhaltaa\n\nviimansa\nmuuraa\nseinät,\njonka varaan rakennun,\ntoivossamme kurkoittaen,\nroikkuen kohti toistemme\n\noletettuja sijainteja.</pre>"
   },
@@ -2137,8 +2137,8 @@
     "id": "240",
     "name": "Karuselli",
     "kinpoems": [
-      4,
-      5
+      177,
+      172
     ],
     "content": "<pre class=\"poemtext\">\n\nKaruselli\n\nKun aistit\nruokkivat\n\nenää\nhulluuden\nkokemusta,\n\nkyky selittää jää jäljelle,\nkuolleen miehen kahvana,\njossa elämänhalu roikkuu</pre>"
   },
@@ -2146,8 +2146,8 @@
     "id": "241",
     "name": "Liuotin",
     "kinpoems": [
-      4,
-      5
+      184,
+      209
     ],
     "content": "<pre class=\"poemtext\">\n\nLiuotin\n\nKun ajatustensa\nkosketuspintojen\nkarheus\nmuuttuu\nkaltevuudeksi,\n\njolta\ntipahtaa\nyhteisten näkyjen\nkeinuvaan kehtoon.</pre>"
   },
@@ -2155,8 +2155,8 @@
     "id": "242",
     "name": "Elämän puu",
     "kinpoems": [
-      4,
-      5
+      227,
+      236
     ],
     "content": "<pre class=\"poemtext\">\n\nElämän puu\n\nKohotettujen katseiden\nkiipeilevät kantajat\noksilla kurkoittavilla\n\ntaivaan allla\ntuulten kieppuvien\npäällä\nalas kiertyvinä kuiskauksina\n\njuurten suojiin\nkuivuvina käpertyvinä\nikääntyneinä lehtinä.</pre>"
   },
@@ -2164,8 +2164,8 @@
     "id": "243",
     "name": "Riuhtoutujat",
     "kinpoems": [
-      4,
-      5
+      241,
+      253
     ],
     "content": "<pre class=\"poemtext\">\n\nRiuhtoutujat\n\nKallojen metsässä\nkuulen huutosi\nhakkaavan mieltäni vasten.\n\nVaativan\ntulevan ymmärretyksi.\nVastaan otetuksi.\nKohdalle astutuksi.</pre>"
   },
@@ -2173,8 +2173,8 @@
     "id": "244",
     "name": "Toiveet",
     "kinpoems": [
-      4,
-      5
+      84,
+      95
     ],
     "content": "<pre class=\"poemtext\">\n\nToiveet\n\nSanotut sanat\nkaipaavien korvien pyydystämät\n\nAsettuvat pesiin\nhaudotuiksi poikasiksi\ntilkkeiiksi mielen\nKolottaviin koloihin.</pre>"
   },
@@ -2182,8 +2182,8 @@
     "id": "245",
     "name": "Populisti II",
     "kinpoems": [
-      4,
-      5
+      197,
+      183
     ],
     "content": "<pre class=\"poemtext\">\n\nPopulisti II\n\nKielenkantamme ovat yhteiset,\ntarkoitusperät omamme.\n\nVihollisemme aina toisaalla.</pre>"
   },
@@ -2191,8 +2191,8 @@
     "id": "246",
     "name": "Sattuja",
     "kinpoems": [
-      4,
-      5
+      193,
+      204
     ],
     "content": "<pre class=\"poemtext\">\n\nSattuja\n\nVuoden sanoissani,\nMurrun lauseissani,\n\nettä kulkisin kehossani,\nelämän kylmän halki\n\nilman,\nettä hymyni hyytyisi\nverettömälle naamalleni\n\ntai\n\nkatseeni hautautuisi\njaloissani kuljettamaani\nunihiekkaan.</pre>"
   },
@@ -2200,8 +2200,8 @@
     "id": "247",
     "name": "Tyylis Tyllerö",
     "kinpoems": [
-      4,
-      5
+      211,
+      190
     ],
     "content": "<pre class=\"poemtext\">\n\nTyylis Tyllerö\n\nAika juoksee kiinni\nmielikuvien aallonharjalla laukkaavaa\nsarjasynnyttäjää\n\nmenneisyyden\nkauniiksi meikatut muistikuvansa\nvalmiina\nketulta lainatussa kainalossaan.</pre>"
   },
@@ -2209,8 +2209,8 @@
     "id": "248",
     "name": "Poltetun maan taktiikkaa",
     "kinpoems": [
-      4,
-      5
+      232,
+      221
     ],
     "content": "<pre class=\"poemtext\">\n\nPoltetun maan taktiikkaa\n\nKaivattujen hahmojen\nkielenkannoissa asuvat\nkameleonttihuorat\n\nodottavat\ntulevansa singotuksi\nmassojen naamalle\n\njolla sankaritarinat herätellään henkiin,\nsamalla kun\ntäytetyn tyhjyyden illuusio ilmestyy maantielle.\n\nSillä kaikki tietävät,\nettä\nhuomenna hän tulee.</pre>"
   },
@@ -2218,8 +2218,8 @@
     "id": "249",
     "name": "Kaiku luotain",
     "kinpoems": [
-      4,
-      5
+      144,
+      186
     ],
     "content": "<pre class=\"poemtext\">\n\nKaiku luotain\n\nKuuntelen silmilläni  yötä,\njoka kutsuu omakseen\n\nlupaa kadottaa,\nlupaa murtaa\n\nne aallot,\nJotka ovat olleet liian kauan matkalla\nkohtaamatta vastarantaansa.</pre>"
   },
@@ -2227,8 +2227,8 @@
     "id": "250",
     "name": "Kielensäpuhkoja",
     "kinpoems": [
-      4,
-      5
+      128,
+      136
     ],
     "content": "<pre class=\"poemtext\">\n\nKielensäpuhkoja\n\nPalan sanojeni läpi\ntyhjyyden päälle\n\nkatse kuviteltua\nmaata kohden.</pre>"
   },
@@ -2236,8 +2236,8 @@
     "id": "251",
     "name": "Pakko meille",
     "kinpoems": [
-      4,
-      5
+      182,
+      207
     ],
     "content": "<pre class=\"poemtext\">\n\nPakko meille\n\nOlisipa tahtoni\n\njaettu yhteinen harha\ntai edes päälleni pakottautunut vaate,\n\njoka\nalastomaa kylmää kehoani koristaisi.</pre>"
   },
@@ -2245,8 +2245,8 @@
     "id": "252",
     "name": "Populistit",
     "kinpoems": [
-      4,
-      5
+      183,
+      192
     ],
     "content": "<pre class=\"poemtext\">\n\nPopulistit\n\nHistorian huorakolonnat\novat tehneet sudenkieppinsä\n\nja vallanneet  jälleen\nvaltatiet,\n\njotka luillamme aina uudelleen\nrakennetaan.</pre>"
   },
@@ -2254,8 +2254,8 @@
     "id": "253",
     "name": "Tasauspyörästö",
     "kinpoems": [
-      4,
-      5
+      228,
+      246
     ],
     "content": "<pre class=\"poemtext\">\n\nTasauspyörästö\n\nAika syö\nKulumani pois\n\nJättää toisteisen\nPelkistetyn rytmin,\n\njoka ei tunnista,\nEi erottele,\n\nvain  toistaa,\nvahvistaa.\n\nOpettaa\nvihaamaan itseään.</pre>"
   },
@@ -2263,8 +2263,8 @@
     "id": "254",
     "name": "Kuollutta kudosta/nahkalla",
     "kinpoems": [
-      4,
-      5
+      199,
+      201
     ],
     "content": "<pre class=\"poemtext\">\n\nKuollutta kudosta/nahkalla\n\nHankaan ajatuksiani\ntoista ihmistä vasten\n\nEn kadu mitään,\nsatun jos niiñ käy,\n\nkelloni kehoani vasten,\nsarveni puhtaana,\nvalmiina tippumaan.</pre>"
   },
@@ -2272,8 +2272,8 @@
     "id": "255",
     "name": "Nämä yksinäiset hetket",
     "kinpoems": [
-      4,
-      5
+      246,
+      175
     ],
     "content": "<pre class=\"poemtext\">\n\nNämä yksinäiset hetket\n\nYritän kirjoittaa\nvieraantuneisuuttani pois\n\nnäihin kirjaimiin,\njoiden suon karkaavan luotani\npois mahdollisimman kauas\n\nlöytääkseni mahdollisimman\nlähelle luoksenne.</pre>"
   },
@@ -2281,8 +2281,8 @@
     "id": "256",
     "name": "Kohdattu",
     "kinpoems": [
-      4,
-      5
+      182,
+      189
     ],
     "content": "<pre class=\"poemtext\">\n\nKohdattu\n\nOlen kurkoitettu, nähty.\n\nSilmäni ovat löytäneet luoksesi.\n\nKatseeni on kirjoitttautunut mieleesi,\nkatseesi kierähtänyt kielesi päälle.\n\nOlen läsnä,\nen vain rakentamissani ajatuksissani,\nvaan myös suustasi vuotavissa sanoissasi.</pre>"
   },
@@ -2290,8 +2290,8 @@
     "id": "257",
     "name": "Paineaalto",
     "kinpoems": [
-      4,
-      5
+      166,
+      177
     ],
     "content": "<pre class=\"poemtext\">\n\nPaineaalto\n\nSanani huutavat\nvereni vuotavat\n\njärki kantaa\nvielä haavoittuneita\nsilmiensidontapaikalle.\n\nEtsin itseni osia sirpaleista,\nedessäni hajonneiden ihmisten keskeltä.</pre>"
   },
@@ -2299,8 +2299,8 @@
     "id": "258",
     "name": "Noitarumpu",
     "kinpoems": [
-      4,
-      5
+      144,
+      173
     ],
     "content": "<pre class=\"poemtext\">\n\nNoitarumpu\n\nKainaloon kuollutta usvaa,\niholle palanutta virtsaa\n\nSattuneita sattumia,\najatuksen kokemuksen edelle ehtineen.\n\nPaljaalle kalvolle\ntanssiin\ntranssiin piirtyneet.</pre>"
   },
@@ -2308,8 +2308,8 @@
     "id": "259",
     "name": "Lego",
     "kinpoems": [
-      4,
-      5
+      111,
+      222
     ],
     "content": "<pre class=\"poemtext\">\n\nLego\n\nKasaan\nhiekkalinnaani\n\nhuorilta\nlainatuihin\nkorviin,\n\njotka\nhelppoa\nlohtua rakentavat.</pre>"
   },
@@ -2317,8 +2317,8 @@
     "id": "260",
     "name": "Kuhesnjargâ",
     "kinpoems": [
-      4,
-      5
+      214,
+      255
     ],
     "content": "<pre class=\"poemtext\">\n\nKuhesnjargâ\n\nKokemukset lipuvat\nlävitseni\n\nIkuisuuteen tarraavien\nsormieni ympäri.\n\nHoukuttelevat\njuoksemaan peräänsä\n\nlupaavat tappaa\nkuolemanpelkoni\n\nymmärryksellä,\njoka ei lopu\nennen itseäni.</pre>"
   },
@@ -2326,17 +2326,17 @@
     "id": "261",
     "name": "Ilusionisti",
     "kinpoems": [
-      4,
-      5
+      257,
+      262
     ],
-    "content": "<pre class=\"poemtext\">\n\nIlusionisti\n\nKun kysymykset\neivät enää\ntavoittele olemattomia vastauksiasi.\n\nKun oma olemassaolo\nmuuttuu tavoittelemisesta läsnäoloksi.\n\nKun riittämättömyys\npaljastaa itsensä.\n\nKun paljas\nitsensä\nkääriytyy itseensä\n\nja\n\nriittää.\n\nHetkeksi.\n\nIlman muita.</pre>"
+    "content": "<pre class=\"poemtext\">\n\nIlusionisti\n\nKun kysymykset\neivät enää\ntavoittele olemattomia vastauksiasi.\n\nKun oma olemassaolo\nmuuttuu tavoittelemisesta läsnäoloksi.\n\nKun riittämättömyys\npaljastaa itsensä.\n\nKun paljas\nitsensä\nkääriytyy itseensä ja riittää.\n\nHetkeksi.\n\nIlman muita.</pre>"
   },
   {
     "id": "262",
     "name": "Etäisyyksistä",
     "kinpoems": [
-      4,
-      5
+      176,
+      169
     ],
     "content": "<pre class=\"poemtext\">\n\nEtäisyyksistä\n\nKun käsitteet\nkurkoittavat\n\nkauemmaksi\nkuin oma läsnäolo riittää.\n\nKun\nkylmä seuraa sille äärelle,\njolle vielä jaksaa juosta.\n\nKun sanat tarjoavat enää\nselityksen,\neivät lämpöä.</pre>"
   },
@@ -2344,8 +2344,8 @@
     "id": "263",
     "name": "Älyllisyyden ja juonikkuuden eroista",
     "kinpoems": [
-      4,
-      5
+      114,
+      115
     ],
     "content": "<pre class=\"poemtext\">\n\nÄlyllisyyden ja juonikkuuden eroista\n\nJuonikkuus on oivaltamista ja hyödyntämistä.\n\nÄlykkyys havaitsemista ja\nymmärtämistä.\n\nKanssaolemista,\nei ylikäymistä.</pre>"
   },
@@ -2353,8 +2353,8 @@
     "id": "264",
     "name": "Halpuudestani I",
     "kinpoems": [
-      4,
-      5
+      214,
+      215
     ],
     "content": "<pre class=\"poemtext\">\n\nHalpuudestani I\n\nJanoan\nkohtaamisia\n\nOmilla\nehdoillani\n\nOdottaen\nheittäytymisiä\n\nvasta sitten\nheittäytyen\n\nkyeten olemaan läsnä\nyhdessä\nennen kaikkea Itsessäni.</pre>"
   },
@@ -2362,8 +2362,8 @@
     "id": "265",
     "name": "Olemme toisillemme pintoja",
     "kinpoems": [
-      4,
-      5
+      224,
+      225
     ],
     "content": "<pre class=\"poemtext\">\n\nOlemme toisillemme pintoja\n\n... joihin takerrumme\n\njoihin haluamme\ntoisemme takerruttaa\n\nJotka rauhoittavat\npyristellyjämme,\n\nsisäämme\nsyntymässä rakennettuja.</pre>"
   },
@@ -2371,8 +2371,8 @@
     "id": "266",
     "name": "Paleltumia",
     "kinpoems": [
-      4,
-      5
+      234,
+      235
     ],
     "content": "<pre class=\"poemtext\">\n\nPaleltumia\n\nTunnistan\ntoiveita,\nodotuksia,\n\nihastumisia,\npitkittyneitä\nkatseita,\n\njotka toiveeni\nohittavat,\n\nvieraus\nvierelläni.</pre>"
   },
@@ -2380,8 +2380,8 @@
     "id": "267",
     "name": "Merkitysten kerääjä",
     "kinpoems": [
-      4,
-      5
+      244,
+      245
     ],
     "content": "<pre class=\"poemtext\">\n\nMerkitysten kerääjä\n\nJoskus tapahtunut\nkohtaamisemme.\n\nMieleeni\npalanut.\n\nPalaa\nhuulillesi,\n\njoilta sen\nyhteiseksemme\nvyötän.</pre>"
   },
@@ -2389,8 +2389,8 @@
     "id": "268",
     "name": "Halpuudestani II",
     "kinpoems": [
-      4,
-      5
+      254,
+      2555
     ],
     "content": "<pre class=\"poemtext\">\n\nHalpuudestani II\n\nHeijastan ihanteeni\ntaivaallle, jonne kurkoitan,\n\nettei katseeni kompastuisi\ntarpeissani kulkeviin jalkoihini.</pre>"
   },
@@ -2398,8 +2398,8 @@
     "id": "269",
     "name": "Kittyhawk",
     "kinpoems": [
-      4,
-      5
+      264,
+      265
     ],
     "content": "<pre class=\"poemtext\">\n\nKittyhawk\n\nJaan tarinani\ntoisille\n\nvahvistuakseni\ntoistemme kautta,\n\nsillä en jaksa\npuhaltaa kaikkea\ntarvitsemaani ilmaa\nomien siipieni alle.</pre>"
   },
@@ -2407,8 +2407,8 @@
     "id": "270",
     "name": "Illusionistit",
     "kinpoems": [
-      4,
-      5
+      114,
+      115
     ],
     "content": "<pre class=\"poemtext\">\n\nIllusionistit\n\nRatsastavat\noman tahdon alle\npannuilla sanoilla\n\nkohti rakentamaansa\nauringonlaskua,\n\njonka alle\ntoisinajattelijat\nhaudataan,\n\nvastaamattomien\nkysymysten sekaan.</pre>"
   },
@@ -2416,8 +2416,8 @@
     "id": "271",
     "name": "Baabelin torni",
     "kinpoems": [
-      4,
-      5
+      124,
+      125
     ],
     "content": "<pre class=\"poemtext\">\n\nBaabelin torni\n\nMuuraan itseäni\nkieliemme koloihin,\n\nettä yltäisin\najatustemme taivaaseen asti.</pre>"
   },
@@ -2425,8 +2425,8 @@
     "id": "272",
     "name": "Klovninsilmä",
     "kinpoems": [
-      4,
-      5
+      134,
+      145
     ],
     "content": "<pre class=\"poemtext\">\n\nKlovninsilmä\n\nIronian\npuutarhassa kasvaa hedelmäpuu,\n\njonka kukat avautuvat\nihmismielen pimeyteen.\n\nHoukuttelevat tuoksullaan\nvieraikseen lentävät koirat,\n\njotka eivät ymmärrä väistyä\npäivänvalon tieltä.</pre>"
   },
@@ -2434,8 +2434,8 @@
     "id": "273",
     "name": "Surullisin, Julmin, Irvokkain asia maailmassa",
     "kinpoems": [
-      4,
-      5
+      144,
+      145
     ],
     "content": "<pre class=\"poemtext\">\n\nSurullisin, Julmin, Irvokkain asia maailmassa\n\nVäkivallalla pelottelullla\nja\nkieltäytyjien panetteluilla\n\nkurkuista alas\ntungettu palvonta.\n\nIhmisen kauneuden riistäjä.</pre>"
   },
@@ -2443,8 +2443,8 @@
     "id": "274",
     "name": "Palapeli",
     "kinpoems": [
-      4,
-      5
+      164,
+      165
     ],
     "content": "<pre class=\"poemtext\">\n\nPalapeli\n\nHakkaan päätäni\nMaailmaa vasten\nRikkoudun toistoon.\n\nHapuilen palani\nlaajenevaan syliini\njuostessani pakoon pikaliimaa.</pre>"
   },
@@ -2452,8 +2452,8 @@
     "id": "275",
     "name": "Naulatut arkut",
     "kinpoems": [
-      4,
-      5
+      174,
+      175
     ],
     "content": "<pre class=\"poemtext\">\n\nNaulatut arkut\n\nJoihin sulkeutua\n\nValkoisen ja mustan\nväliseen pehmeyteen\n\nVihollistensa\nMätänevien ruumiiden\nviereen.</pre>"
   },
@@ -2461,17 +2461,17 @@
     "id": "276",
     "name": "Lävistetty hetki",
     "kinpoems": [
-      4,
-      5
+      174,
+      195
     ],
-    "content": "<pre class=\"poemtext\">\n\nLävistetty hetki\n\nMieleni ja\nmaailmani\n\nKiinn toisissaan\nVain aistien kautta\n\nAjatusten kompurovat\nNarrit uskaltanatta astua\nsisään hoviimme,\n\njoka täyttyy\nläsnäolosta .</pre>"
+    "content": "<pre class=\"poemtext\">\n\nLävistetty hetki\n\nMieleni ja\nmaailmani\n\nKiinn toisissaan\nVain aistien kautta\n\nAjatusten kompurovat\nNarrit uskaltanatta astua\nsisään hoviimme,\n\njoka täyttyy\nläsnäolosta.</pre>"
   },
   {
     "id": "277",
     "name": "Tähdet taivaalla",
     "kinpoems": [
-      4,
-      5
+      124,
+      115
     ],
     "content": "<pre class=\"poemtext\">\n\nTähdet taivaalla\n\nRiipumme toisissamme\nrakentaen yhteisiä merkityksiämme\n\nKurkoitamme toisiamme kohti\nVaroen kadottamatta itseämme\n\nPyrkien rakentamaan\nhaurasta yhteistämme.</pre>"
   },
@@ -2479,8 +2479,8 @@
     "id": "278",
     "name": "Irvikuva",
     "kinpoems": [
-      4,
-      5
+      114,
+      165
     ],
     "content": "<pre class=\"poemtext\">\n\nIrvikuva\n\nIhminen kuihtuu\nomaan jatkuvuuden tarpeeseensa\nlopun pelkoonsa.\n\nPatologiseen nälkäänsä\nolla jotain enemmän kuin voi olla.\n\nHaluunsa palvoa.\n\nPalvottuun haluunsa\npeloteltujen lahjottujen\nkumartajiensa edessä.</pre>"
   },
@@ -2488,8 +2488,8 @@
     "id": "279",
     "name": "Pahan merkki",
     "kinpoems": [
-      4,
-      5
+      194,
+      154
     ],
     "content": "<pre class=\"poemtext\">\n\nPahan merkki\n\nIhminen,\njoka tartuttaa toiset aseisiin\n\nuskaltanatta\ntarttua niihin itse.</pre>"
   },
@@ -2497,8 +2497,8 @@
     "id": "280",
     "name": "Supernova",
     "kinpoems": [
-      4,
-      5
+      148,
+      157
     ],
     "content": "<pre class=\"poemtext\">\n\nSupernova\n\nHetki, jolloin maailmat\nlakkaavat törmäämästä\n\nJa katoavat\nihmiseen,\n\njoka ottaa vastaan\nloputonta sulkutulta.</pre>"
   },
@@ -2506,8 +2506,8 @@
     "id": "281",
     "name": "Kaiken jälkeen",
     "kinpoems": [
-      4,
-      5
+      124,
+      195
     ],
     "content": "<pre class=\"poemtext\">\n\nKaiken jälkeen\n\nEtsin itseäni\nihmisestä,\n\njonka tunnistan\naina vain huonommin,</pre>"
   },
@@ -2515,8 +2515,8 @@
     "id": "282",
     "name": "Kilpuri",
     "kinpoems": [
-      4,
-      5
+      124,
+      115
     ],
     "content": "<pre class=\"poemtext\">\n\nKilpuri\n\nYritän selittää\nkokemukseni\n\nennenkuin\npyydystän sen\n\nsanani\novat aina edelläni.</pre>"
   },
@@ -2524,8 +2524,8 @@
     "id": "283",
     "name": "Raamit",
     "kinpoems": [
-      4,
-      5
+      194,
+      145
     ],
     "content": "<pre class=\"poemtext\">\n\nRaamit\n\nRimpuilen\nMerkityksissäni\n\njotta jatkuisin\naikani yli,\n\njotta\nolisin jotain,\naikani yli.</pre>"
   },
@@ -2533,8 +2533,8 @@
     "id": "284",
     "name": "Kuihtuneet sanat",
     "kinpoems": [
-      4,
-      5
+      124,
+      8
     ],
     "content": "<pre class=\"poemtext\">\n\nKuihtuneet sanat\n\nKadonneet merkitykset\nLakastuneet lauseet\n\nkielen ja korvan väli,\njoka on kasvanut liian suureksi,\n\njättäen jäljelle enää\nhiljaisuuden meren,\n\njohon hukkua\nsuu ääneti auki.</pre>"
   },
@@ -2542,8 +2542,8 @@
     "id": "285",
     "name": "Kohdistan katseeni tuntemattomaan",
     "kinpoems": [
-      4,
-      5
+      194,
+      9
     ],
     "content": "<pre class=\"poemtext\">\n\nKohdistan katseeni tuntemattomaan\n\nSiivet pimeäni yllä\nKajo öisen taivaani rannassa\n\nMerkitys\nkäpetyneenä sikiönä\nkysymyksissä\n\nJotka vielä\nlöydän ennen\nKiitoradalle vuotaneita\nvastauksiaan.</pre>"
   },
@@ -2551,8 +2551,8 @@
     "id": "286",
     "name": "Läsnäolosta II",
     "kinpoems": [
-      4,
-      5
+      194,
+      3
     ],
     "content": "<pre class=\"poemtext\">\n\nLäsnäolosta II\n\nVoin olla sinussa ,\nvoit\nollla minussa\n\nIlman\nmäärityksiä\ntai sopimuksia\n\nvain\njaetussa liikkuvan\nriisutun kelemme\nkautta,\n\nkun happemme\nkulkee\ntoistemme kautta</pre>"
   }
