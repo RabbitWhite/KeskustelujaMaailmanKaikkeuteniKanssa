@@ -13,7 +13,7 @@ const KolmikarkiPoemPage = ({ isRerun = false }) => {
   const poemsData = usePoemsData();
 
   const nextPoemPath = "/nextpoem/";
-  const readingDelay = 3000; // Delay before navigating to next poem (in ms)
+  const readingDelay = 15000; // Delay before navigating to next poem (in ms)
 
   // Select which poem to display based on mode
   const currentPoem = isRerun ? location.state?.from : location.state?.new;
