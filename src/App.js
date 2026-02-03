@@ -5,7 +5,7 @@ import Kolmikarki_next_poem_page from './components/kolmikarki_next_poem_page.js
 
 import { HashRouter as Router, Route, Routes } from "react-router-dom";
 
-import data from './data/Poems.json'
+import data from './data/PoemsKins.json'
 import PoemsContext from './context/PoemsContext';
 
 const poemsJSON = data.poemsData
