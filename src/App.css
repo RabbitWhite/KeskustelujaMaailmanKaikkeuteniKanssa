@@ -175,7 +175,7 @@ img{
 }
 
 .nextpoem-background {
-  background-image: url('./images/Kolmikarki_Background.png'); /* adjust path if needed */
+  background-image: url('./images/Kolmikarki_Background.webp'); /* adjust path if needed */
   background-size: cover;
   top: 0%;
   left: 0%;

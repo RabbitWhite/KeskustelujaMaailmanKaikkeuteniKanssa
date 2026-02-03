@@ -2,7 +2,7 @@ import { Fragment, useEffect } from "react";
 import { useLocation, useNavigate } from "react-router-dom";
 
 import Poems from "./poems.js";
-import BGImage from "./../images/Kolmikarki_Background.png";
+import BGImage from "./../images/Kolmikarki_Background.webp";
 import { usePoemsData } from "../context/PoemsContext";
 
 // Unified component to display a poem and redirect after a delay
