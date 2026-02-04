@@ -1,11 +1,12 @@
 function createMarkup(currentPoemName, poemsData) {
   const currentPoemCell = poemsData.findIndex(item => item.name === currentPoemName);
+  console.log(poemsData[currentPoemCell].content);
   if (currentPoemCell !== -1) {
     return {
       __html: `
         <div class="poem-wrapper">
           <div class="poem-number">
-            <pre class="poemtext">${currentPoemCell + 1}</pre>
+            <pre class="poemnumber">${currentPoemCell + 1}</pre>
           </div>
           <div class="poem-content">
             ${poemsData[currentPoemCell].content}
