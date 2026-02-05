@@ -72,6 +72,15 @@ img{
 @media screen and (max-width: 12000px) {
 
   .poemtext {
+    /* layout */
+    margin: clamp(1rem, 4vh, 3rem) auto;
+    padding: clamp(1rem, 3vw, 2rem);
+    max-width: min(42rem, 92vw);
+
+    white-space: pre-wrap;
+    overflow-wrap: anywhere;
+
+    /* Typography */
     font-family: Garamond, Georgia, 'Times New Roman', Times, serif;
     font-style: italic;
     font-size: clamp(1rem, 3vw, 1.5rem);
@@ -102,6 +111,15 @@ img{
 @media screen and (max-width: 1300px) {
 
   .poemtext {
+    /* layout */
+    margin: clamp(1rem, 4vh, 3rem) auto;
+    padding: clamp(1rem, 3vw, 2rem);
+    max-width: min(42rem, 92vw);
+
+    white-space: pre-wrap;
+    overflow-wrap: anywhere;
+
+    /* Typography */
     font-family: Garamond, Georgia, 'Times New Roman', Times, serif;
     font-style:normal;
     font-size: clamp(1rem, 4vw, 1.8rem);
@@ -132,6 +150,15 @@ img{
 @media screen and (max-width: 800px) {
 
   .poemtext {
+    /* layout */
+    margin: clamp(1rem, 4vh, 3rem) auto;
+    padding: clamp(1rem, 3vw, 2rem);
+    max-width: min(42rem, 92vw);
+
+    white-space: pre-wrap;
+    overflow-wrap: anywhere;
+
+    /* Typography */
     font-family: Garamond, Georgia, 'Times New Roman', Times, serif;
     font-style: italic;
     font-size: clamp(1rem, 5vw, 1.8rem);
