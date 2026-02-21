@@ -27,21 +27,17 @@ const KolmikarkiPoemPage = ({ isRerun = false }) => {
   const location = useLocation();
   const navigate = useNavigate();
   const poemsData = usePoemsData();
+  const hasLocationState = Boolean(location.state);
 
   // Select which poem to display based on mode
   const currentPoem = isRerun ? location.state?.from : location.state?.new;
 
   // Redirect to home if accessed directly without state
   useEffect(() => {
-    if (!location.state) {
+    if (!hasLocationState) {
       navigate("/", { replace: true });
     }
-  }, [navigate, location.state]);
-
-  // Don't render if no state (redirect will happen in useEffect)
-  if (!location.state) {
-    return null;
-  }
+  }, [navigate, hasLocationState]);
 
   const currentPoemId = fetchThePoem(currentPoem, poemsData);
   const currentPoemIdNum = parseInt(currentPoemId, 10);
@@ -65,6 +61,11 @@ const KolmikarkiPoemPage = ({ isRerun = false }) => {
     const randomIndex = getRandom(0, validKinPoems.length - 1);
     return validKinPoems[randomIndex];
   }, [currentPoem, poemsData]);
+
+  // Don't render if no state (redirect will happen in useEffect)
+  if (!hasLocationState) {
+    return null;
+  }
 
   return (
     <Fragment>
