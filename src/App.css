@@ -235,24 +235,6 @@ img{
   position: fixed;
 }
 
-.nextpoem-background {
-  background-image: url('./images/Kolmikarki_Background.webp'); /* adjust path if needed */
-  background-size: cover;
-  top: 0%;
-  left: 0%;
-  width: 100%;
-  height: 100%;
-  position: fixed;
-}
-
-.reread-link {
-  top: 15%;
-  left: 30%;
-  width: 40%;
-  height: 10%;
-  position: fixed;
-}
-
 .kinpoem-link {
   top: 60%;
   left: 30%;

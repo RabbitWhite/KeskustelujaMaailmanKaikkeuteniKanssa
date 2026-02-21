@@ -1,44 +1,62 @@
 import { Fragment, useEffect } from "react";
-import { useLocation, useNavigate } from "react-router-dom";
+import { Link, useLocation, useNavigate } from "react-router-dom";
 
 import Poems from "./poems.js";
 import BGImage from "./../images/Kolmikarki_Background.webp";
 import { usePoemsData } from "../context/PoemsContext";
 
-// Unified component to display a poem and redirect after a delay
+function getRandom(min, max) {
+  return Math.floor(Math.random() * (max - min + 1)) + min;
+}
+
+function fetchKinPoems(currentPoemName, poemsdata) {
+  if (!poemsdata || poemsdata.length === 0) return [];
+  const index = poemsdata.findIndex(item => item.name === currentPoemName);
+  return index !== -1 ? poemsdata[index].kinpoems.map(Number) : [];
+}
+
+function fetchThePoem(currentPoemName, poemsdata) {
+  if (!poemsdata || poemsdata.length === 0) return 0;
+  const index = poemsdata.findIndex(item => item.name === currentPoemName);
+  return index !== -1 ? poemsdata[index].id : 0;
+}
+
+// Unified component to display a poem
 // isRerun: if true, displays the "from" poem (re-reading), otherwise displays the "new" poem
 const KolmikarkiPoemPage = ({ isRerun = false }) => {
   const location = useLocation();
   const navigate = useNavigate();
   const poemsData = usePoemsData();
 
-  const nextPoemPath = "/nextpoem/";
-  const readingDelay = 15000; // Delay before navigating to next poem (in ms)
-
   // Select which poem to display based on mode
   const currentPoem = isRerun ? location.state?.from : location.state?.new;
 
-  // Redirect to home if accessed directly without state, or navigate after delay
+  // Redirect to home if accessed directly without state
   useEffect(() => {
     if (!location.state) {
       navigate("/", { replace: true });
-      return;
     }
-
-    const timer = setTimeout(() => {
-      navigate(nextPoemPath, {
-        state: { currentPoem }
-      });
-    }, readingDelay);
-
-    // Clean up timer on unmount
-    return () => clearTimeout(timer);
-  }, [navigate, location.state, currentPoem]);
+  }, [navigate, location.state]);
 
   // Don't render if no state (redirect will happen in useEffect)
   if (!location.state) {
     return null;
   }
+
+  const currentPoemId = fetchThePoem(currentPoem, poemsData);
+  const currentPoemIdNum = parseInt(currentPoemId, 10);
+  const prevPoemNum = currentPoemIdNum - 1;
+  const nextPoemNum = currentPoemIdNum + 1;
+
+  const currentPoemItem = poemsData.filter(item => item.id === String(currentPoemId));
+  const prevPoem = poemsData.filter(item => item.id === String(prevPoemNum));
+  const nextPoem = poemsData.filter(item => item.id === String(nextPoemNum));
+
+  const kinPoems = fetchKinPoems(currentPoem, poemsData);
+  const randomKinPoem =
+    kinPoems.length > 0
+      ? poemsData.find(item => item.id === String(kinPoems[getRandom(0, kinPoems.length - 1)]))
+      : null;
 
   return (
     <Fragment>
@@ -47,6 +65,36 @@ const KolmikarkiPoemPage = ({ isRerun = false }) => {
         style={{ backgroundImage: `url(${BGImage})` }}
       >
         <Poems currentPoem={currentPoem} poemsdata={poemsData} />
+
+        {randomKinPoem && currentPoemItem.length > 0 && (
+          <Link
+            to="/poem/"
+            className="fixed poemlink kinpoem-link"
+            state={{ from: currentPoemItem[0].name, new: randomKinPoem.name }}
+          >
+            <div className="poemlink">Sattuman saattelema sisarruno: {randomKinPoem.name}</div>
+          </Link>
+        )}
+
+        {prevPoem.length > 0 && currentPoemItem.length > 0 && (
+          <Link
+            to="/poem/"
+            className="fixed poemlink prevpoem-link"
+            state={{ from: currentPoemItem[0].name, new: prevPoem[0].name }}
+          >
+            <div className="poemlink">Edellinen</div>
+          </Link>
+        )}
+
+        {nextPoem.length > 0 && currentPoemItem.length > 0 && (
+          <Link
+            to="/poem/"
+            className="fixed poemlink nextpoem-link"
+            state={{ from: currentPoemItem[0].name, new: nextPoem[0].name }}
+          >
+            <div className="poemlink">Seuraava</div>
+          </Link>
+        )}
       </div>
     </Fragment>
   );
