@@ -236,27 +236,29 @@ img{
 }
 
 .kinpoem-link {
-  top: 60%;
-  left: 30%;
-  width: 40%;
-  height: 10%;
+  top: 3%;
+  right: 3%;
+  width: min(40vw, 32rem);
+  height: auto;
   position: fixed;
+  text-align: right;
 }
 
 .prevpoem-link {
-  top: 80%;
-  left: 20%;
-  width: 30%;
-  height: 10%;
+  bottom: 3%;
+  left: 3%;
+  width: auto;
+  height: auto;
   position: fixed;
 }
 
 .nextpoem-link {
-  top: 80%;
-  left: 50%;
-  width: 30%;
-  height: 10%;
+  bottom: 3%;
+  right: 3%;
+  width: auto;
+  height: auto;
   position: fixed;
+  text-align: right;
 }
 
 .poem-page-background {
