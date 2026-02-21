@@ -1,4 +1,4 @@
-import { Fragment, useEffect } from "react";
+import { Fragment, useEffect, useMemo } from "react";
 import { Link, useLocation, useNavigate } from "react-router-dom";
 
 import Poems from "./poems.js";
@@ -52,11 +52,19 @@ const KolmikarkiPoemPage = ({ isRerun = false }) => {
   const prevPoem = poemsData.filter(item => item.id === String(prevPoemNum));
   const nextPoem = poemsData.filter(item => item.id === String(nextPoemNum));
 
-  const kinPoems = fetchKinPoems(currentPoem, poemsData);
-  const randomKinPoem =
-    kinPoems.length > 0
-      ? poemsData.find(item => item.id === String(kinPoems[getRandom(0, kinPoems.length - 1)]))
-      : null;
+  const randomKinPoem = useMemo(() => {
+    const kinPoems = fetchKinPoems(currentPoem, poemsData);
+    const validKinPoems = kinPoems
+      .map(id => poemsData.find(item => item.id === String(id)))
+      .filter(Boolean);
+
+    if (validKinPoems.length === 0) {
+      return null;
+    }
+
+    const randomIndex = getRandom(0, validKinPoems.length - 1);
+    return validKinPoems[randomIndex];
+  }, [currentPoem, poemsData]);
 
   return (
     <Fragment>

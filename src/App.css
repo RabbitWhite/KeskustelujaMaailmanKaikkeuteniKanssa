@@ -238,9 +238,14 @@ img{
 .kinpoem-link {
   top: 1.5rem;
   right: 1.5rem;
-  width: min(40vw, 32rem);
+  max-width: min(40vw, 32rem);
+  width: auto;
   height: auto;
   position: fixed;
+  text-align: right;
+}
+
+.kinpoem-link .poemlink {
   text-align: right;
 }
 
