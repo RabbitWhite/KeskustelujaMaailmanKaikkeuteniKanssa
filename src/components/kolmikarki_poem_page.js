@@ -73,6 +73,16 @@ const KolmikarkiPoemPage = ({ isRerun = false }) => {
         className="box poem-page-background"
         style={{ backgroundImage: `url(${BGImage})` }}
       >
+        {currentPoemItem.length > 0 && (
+          <Link
+            to="/contents/"
+            className="fixed poemlink contents-link-top-left"
+            state={{ currentPoem: currentPoemItem[0].name }}
+          >
+            Sisällysluettelo
+          </Link>
+        )}
+
         <Poems currentPoem={currentPoem} poemsdata={poemsData} />
 
         {randomKinPoem && currentPoemItem.length > 0 && (
