@@ -1,16 +1,16 @@
 {
   "files": {
-    "main.css": "/KeskustelujaMaailmanKaikkeuteniKanssa/static/css/main.7c4f2523.css",
-    "main.js": "/KeskustelujaMaailmanKaikkeuteniKanssa/static/js/main.3a309288.js",
+    "main.css": "/KeskustelujaMaailmanKaikkeuteniKanssa/static/css/main.f1e27184.css",
+    "main.js": "/KeskustelujaMaailmanKaikkeuteniKanssa/static/js/main.d8a4bed3.js",
     "static/js/453.7e89f65c.chunk.js": "/KeskustelujaMaailmanKaikkeuteniKanssa/static/js/453.7e89f65c.chunk.js",
     "static/media/Kolmikarki_Background.webp": "/KeskustelujaMaailmanKaikkeuteniKanssa/static/media/Kolmikarki_Background.68d8a958b8942e6cdcf5.webp",
     "index.html": "/KeskustelujaMaailmanKaikkeuteniKanssa/index.html",
-    "main.7c4f2523.css.map": "/KeskustelujaMaailmanKaikkeuteniKanssa/static/css/main.7c4f2523.css.map",
-    "main.3a309288.js.map": "/KeskustelujaMaailmanKaikkeuteniKanssa/static/js/main.3a309288.js.map",
+    "main.f1e27184.css.map": "/KeskustelujaMaailmanKaikkeuteniKanssa/static/css/main.f1e27184.css.map",
+    "main.d8a4bed3.js.map": "/KeskustelujaMaailmanKaikkeuteniKanssa/static/js/main.d8a4bed3.js.map",
     "453.7e89f65c.chunk.js.map": "/KeskustelujaMaailmanKaikkeuteniKanssa/static/js/453.7e89f65c.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.7c4f2523.css",
-    "static/js/main.3a309288.js"
+    "static/css/main.f1e27184.css",
+    "static/js/main.d8a4bed3.js"
   ]
 }
