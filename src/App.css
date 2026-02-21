@@ -236,8 +236,8 @@ img{
 }
 
 .kinpoem-link {
-  top: 3%;
-  right: 3%;
+  top: 1.5rem;
+  right: 1.5rem;
   width: min(40vw, 32rem);
   height: auto;
   position: fixed;
@@ -245,16 +245,16 @@ img{
 }
 
 .prevpoem-link {
-  bottom: 3%;
-  left: 3%;
+  bottom: 1.5rem;
+  left: 1.5rem;
   width: auto;
   height: auto;
   position: fixed;
 }
 
 .nextpoem-link {
-  bottom: 3%;
-  right: 3%;
+  bottom: 1.5rem;
+  right: 1.5rem;
   width: auto;
   height: auto;
   position: fixed;
