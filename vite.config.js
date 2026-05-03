@@ -18,8 +18,10 @@ export default defineConfig({
   environment: 'jsdom',
   setupFiles: './src/setupTests.js',
   globals: true,
-  transformMode: {
-    web: [/\.[jt]sx?$/],
+  server: {
+    deps: {
+      inline: [/@testing-library/],
+    },
   },
 },
 })
