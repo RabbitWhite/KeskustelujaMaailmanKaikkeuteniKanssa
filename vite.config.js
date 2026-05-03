@@ -21,14 +21,5 @@ export default defineConfig({
   environment: 'jsdom',
   setupFiles: './src/setupTests.js',
   globals: true,
-  environmentOptions: {
-    jsdom: {},
-  },
-  pool: 'forks',
-  poolOptions: {
-    forks: {
-      execArgv: [],
-    },
-  },
 },
 })
