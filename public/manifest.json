@@ -1,6 +1,7 @@
 {
-  "short_name": "React App",
-  "name": "Create React App Sample",
+  "name": "Keskusteluja Maailmani Kaikkeuden Kanssa",
+  "short_name": "Kolmikarki",
+  "description": "Kolmikarki — suomalainen runoelmakokoelma",
   "start_url": ".",
   "display": "standalone",
   "theme_color": "#000000",

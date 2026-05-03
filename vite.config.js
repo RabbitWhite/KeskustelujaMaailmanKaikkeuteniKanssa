@@ -14,4 +14,9 @@ export default defineConfig({
       loader: { '.js': 'jsx' },
     },
   },
+  test: {
+    environment: 'jsdom',
+    setupFiles: './src/setupTests.js',
+    globals: true,
+  },
 })
