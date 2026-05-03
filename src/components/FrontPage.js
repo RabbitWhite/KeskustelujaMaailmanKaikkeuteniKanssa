@@ -5,7 +5,7 @@ import 'react-tooltip/dist/react-tooltip.css';
 import BGImage from "./../images/Kolmikarki_Background.webp";
 
 // Front page component for the Kolmikarki poetry app
-export default function KolmikarkiFrontPage(props) {
+export default function FrontPage(props) {
     return (
         <Fragment>
             {/* Full-page container with background image */}

@@ -1,7 +1,7 @@
 import './App.css';
-import Kolmikarki_front_page from './components/kolmikarki_front_page.js';
-import Kolmikarki_poem_page from './components/kolmikarki_poem_page';
-import Kolmikarki_contents_page from './components/kolmikarki_contents_page';
+import FrontPage from './components/FrontPage';
+import PoemPage from './components/PoemPage';
+import ContentsPage from './components/ContentsPage';
 
 import { HashRouter as Router, Route, Routes } from "react-router-dom";
 
@@ -16,10 +16,10 @@ function App() {
       <PoemsContext.Provider value={poemsJSON}>
         <Router>
           <Routes>
-            <Route path="/" element={<Kolmikarki_front_page />} />
-            <Route path="/poem/" element={<Kolmikarki_poem_page />} />
-            <Route path="/poemrerun/" element={<Kolmikarki_poem_page isRerun />} />
-            <Route path="/contents/" element={<Kolmikarki_contents_page />} />
+            <Route path="/" element={<FrontPage />} />
+            <Route path="/poem/" element={<PoemPage />} />
+            <Route path="/poemrerun/" element={<PoemPage isRerun />} />
+            <Route path="/contents/" element={<ContentsPage />} />
           </Routes>
         </Router>
       </PoemsContext.Provider>
