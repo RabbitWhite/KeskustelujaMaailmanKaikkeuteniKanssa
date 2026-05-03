@@ -4,6 +4,9 @@ import react from '@vitejs/plugin-react'
 export default defineConfig({
   plugins: [react()],
   base: '/KeskustelujaMaailmanKaikkeuteniKanssa/',
+  resolve: {
+  extensions: ['.js', '.jsx'],
+},
   esbuild: {
     loader: 'jsx',
     include: /src\/.*\.js$/,
@@ -18,9 +21,13 @@ export default defineConfig({
   environment: 'jsdom',
   setupFiles: './src/setupTests.js',
   globals: true,
-  server: {
-    deps: {
-      inline: [/@testing-library/],
+  environmentOptions: {
+    jsdom: {},
+  },
+  pool: 'forks',
+  poolOptions: {
+    forks: {
+      execArgv: [],
     },
   },
 },
