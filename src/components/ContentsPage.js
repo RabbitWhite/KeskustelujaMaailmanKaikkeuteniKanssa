@@ -3,7 +3,7 @@ import { Link } from "react-router-dom";
 
 import { usePoemsData } from "../context/PoemsContext";
 
-export default function KolmikarkiContentsPage() {
+export default function ContentsPage() {
   const poemsData = usePoemsData();
 
   return (

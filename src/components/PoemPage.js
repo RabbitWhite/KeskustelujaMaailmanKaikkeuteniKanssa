@@ -23,7 +23,7 @@ function fetchThePoem(currentPoemName, poemsdata) {
 
 // Unified component to display a poem
 // isRerun: if true, displays the "from" poem (re-reading), otherwise displays the "new" poem
-const KolmikarkiPoemPage = ({ isRerun = false }) => {
+const PoemPage = ({ isRerun = false }) => {
   const location = useLocation();
   const navigate = useNavigate();
   const poemsData = usePoemsData();
@@ -119,4 +119,4 @@ const KolmikarkiPoemPage = ({ isRerun = false }) => {
   );
 };
 
-export default KolmikarkiPoemPage;
+export default PoemPage;
