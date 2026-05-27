@@ -1,5 +1,9 @@
 # AGENTS.md — KeskustelujaMaailmanKaikkeuteniKanssa (Poem Book)
 
+**Local path:** ~/Workspace/KeskustelujaMaailmanKaikkeuteniKanssa
+**GitHub repo:** github.com/RabbitWhite/KeskustelujaMaailmanKaikkeuteniKanssa
+**Deployed at:** https://rabbitwhite.github.io/KeskustelujaMaailmanKaikkeuteniKanssa
+
 ## Project Overview
 React web app (Create React App, JavaScript).
 A poem book / literary web experience.
