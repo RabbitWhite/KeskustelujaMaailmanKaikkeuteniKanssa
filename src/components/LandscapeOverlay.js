@@ -6,7 +6,7 @@ function LandscapeOverlay() {
 
   useEffect(() => {
     const orientationQuery = window.matchMedia('(orientation: landscape)');
-    const widthQuery = window.matchMedia('(max-width: 1024px)');
+    const widthQuery = window.matchMedia('(max-width: 1366px)');
 
     const checkOrientation = () => {
       setIsLandscapeMobile(orientationQuery.matches && widthQuery.matches);

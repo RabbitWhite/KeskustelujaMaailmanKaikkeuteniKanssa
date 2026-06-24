@@ -3,6 +3,10 @@
   --safe-left: env(safe-area-inset-left, 0px);
   --safe-right: env(safe-area-inset-right, 0px);
   --safe-bottom: env(safe-area-inset-bottom, 0px);
+  /* Offsets to keep poem container clear of fixed corner UI elements.
+     Adjust if corner element heights change. */
+  --poem-corner-top: 4rem;
+  --poem-corner-bottom: 4rem;
 }
 
 * {
@@ -59,13 +63,21 @@ img{
 
 
 .poemcontainer {
-  margin: auto;
-  /*width: 50%;*/
-  text-align: center;
+  position: fixed;
+  top: var(--poem-corner-top);
+  bottom: var(--poem-corner-bottom);
+  left: 0;
+  right: 0;
+  overflow-y: auto;
+  -webkit-overflow-scrolling: touch;
   display: flex;
   justify-content: center;
-  align-items: center;
-  height: 100vh; /* full screen height */
+  align-items: flex-start;
+  text-align: center;
+  /* horizontal padding prevents poem text from underlapping corner links */
+  padding-left: max(1.5rem, env(safe-area-inset-left));
+  padding-right: max(1.5rem, env(safe-area-inset-right));
+  box-sizing: border-box;
 }
 
 .poemnumber{
