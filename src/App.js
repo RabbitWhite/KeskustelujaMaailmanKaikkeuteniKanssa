@@ -2,6 +2,7 @@ import './App.css';
 import FrontPage from './components/FrontPage';
 import PoemPage from './components/PoemPage';
 import ContentsPage from './components/ContentsPage';
+import LandscapeOverlay from './components/LandscapeOverlay';
 
 import { HashRouter as Router, Route, Routes } from "react-router-dom";
 
@@ -13,6 +14,7 @@ const poemsJSON = data.poemsData
 function App() {
   return (
     <div className="App">
+      <LandscapeOverlay />
       <PoemsContext.Provider value={poemsJSON}>
         <Router>
           <Routes>

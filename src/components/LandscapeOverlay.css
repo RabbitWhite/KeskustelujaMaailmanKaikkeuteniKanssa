@@ -1,0 +1,37 @@
+.landscape-overlay {
+  position: fixed;
+  top: 0;
+  left: 0;
+  right: 0;
+  bottom: 0;
+  z-index: 9999;
+  background-color: rgb(68, 67, 67);
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+
+.landscape-overlay-content {
+  text-align: center;
+  color: rgb(185, 185, 185);
+  font-family: Garamond, Georgia, 'Times New Roman', Times, serif;
+  font-style: italic;
+}
+
+.landscape-overlay-icon {
+  display: block;
+  font-size: 4rem;
+  margin-bottom: 1.5rem;
+  animation: landscape-spin 3s linear infinite;
+}
+
+.landscape-overlay-text {
+  font-size: clamp(1.2rem, 4vw, 1.8rem);
+  font-weight: lighter;
+  margin: 0;
+}
+
+@keyframes landscape-spin {
+  from { transform: rotate(0deg); }
+  to { transform: rotate(360deg); }
+}
