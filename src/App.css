@@ -5,8 +5,8 @@
   --safe-bottom: env(safe-area-inset-bottom, 0px);
   /* Offsets to keep poem container clear of fixed corner UI elements.
      Adjust if corner element heights change. */
-  --poem-corner-top: 4rem;
-  --poem-corner-bottom: 4rem;
+  --poem-corner-top: 5.5rem;
+  --poem-corner-bottom: 5.5rem;
 }
 
 * {

@@ -91,7 +91,7 @@ const PoemPage = ({ isRerun = false }) => {
             className="fixed poemlink kinpoem-link"
             state={{ from: currentPoemItem[0].name, new: randomKinPoem.name }}
           >
-            <div className="poemlink">Sattuman saattelema sisarruno: {randomKinPoem.name}</div>
+            <div className="poemlink">Sisarruno</div>
           </Link>
         )}
 
