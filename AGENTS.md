@@ -5,22 +5,24 @@
 **Deployed at:** https://rabbitwhite.github.io/KeskustelujaMaailmanKaikkeuteniKanssa
 
 ## Project Overview
-React web app (Create React App, JavaScript).
+React web app (Vite, JavaScript).
 A poem book / literary web experience.
 Hosted on GitHub Pages via gh-pages npm package.
 Live URL: https://rabbitwhite.github.io/KeskustelujaMaailmanKaikkeuteniKanssa
 
 ## Stack
-- React (CRA, react-scripts v5.0.1) — do NOT eject
+- React, built with Vite
 - JavaScript (no TypeScript)
 - React Context for poem state (src/context/PoemsContext.js)
 - Poem data in JSON files (src/data/) — three large files, ~355 KB total
+- Vitest for tests
 
 ## Commands
 | Action     | Command                  |
 |------------|--------------------------|
 | Dev server | npm start                |
 | Build      | npm run build            |
+| Test       | npm test -- --run        |
 | Deploy     | npm run deploy           |
 
 Deploy runs predeploy (build) automatically before pushing to gh-pages branch.
