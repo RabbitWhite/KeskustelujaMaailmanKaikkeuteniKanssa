@@ -46,9 +46,13 @@ Two derived files, generated in order:
 2. `PoemsKinsStyled.json` — adds title-span HTML styling from
    `PoemsKins.json` via `restyle_poems_json.py`. This is what
    `PoemsContext`/the app actually renders.
-When `Poems.json` content is fixed, propagate the change into
-`PoemsKins.json` (content/name fields only, never `kinpoems`) and
-regenerate `PoemsKinsStyled.json` via `restyle_poems_json.py`.
+When `Poems.json` content is fixed, run `npm run sync-poems`
+(wraps `src/data/sync_poems.py`) to propagate `content`/`name` into
+`PoemsKins.json` and regenerate `PoemsKinsStyled.json` in one step —
+`kinpoems` and `id` are never touched. The script refuses to run
+(nonzero exit, no writes) if the id sets of `Poems.json`,
+`PoemsKins.json`, and `PoemsKinsStyled.json` ever disagree, since that
+means a poem was added or removed, which it does not handle.
 
 ## Naming Conventions
 New components use PascalCase (e.g. PoemCard.js, NavigationBar.js).

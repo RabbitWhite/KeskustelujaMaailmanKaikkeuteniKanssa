@@ -20,7 +20,8 @@
     "build": "vite build",
     "test": "vitest",
     "test:ui": "vitest --ui",
-    "preview": "vite preview"
+    "preview": "vite preview",
+    "sync-poems": "python3 src/data/sync_poems.py"
   },
   "browserslist": {
     "production": [
