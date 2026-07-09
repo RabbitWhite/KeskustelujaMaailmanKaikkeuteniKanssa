@@ -34,7 +34,7 @@
         175,
         96
       ],
-      "content": "<pre class=\"poemtext\">\n\n<span class=\"poemtitle\">Miekannielijä</span>\n\nKasvatan myrskyä viha-rakkaus-suhteessani päiviin\n\nJoista kiihkon ja halun liekki on lainannut itsensä ristiriitojen jättömaalle ilmoittamatta palautuspäivämääräänsä.\n\nTeen uhostani puolipätevän aseenkantajani,\nvarsinaisen Sancho Panzan.\n\nSekoitan kalkista ja äkäisestä hunajasta yömyssyn, jonka juon sirkusteräni kärjeltä.</pre>"
+      "content": "<pre class=\"poemtext\">\n\n<span class=\"poemtitle\">Miekannielijä</span>\n\nKasvatan myrskyä viha-rakkaus-suhteessani päiviin,\n\njoista kiihkon ja halun liekki on lainannut itsensä ristiriitojen jättömaalle, \n\nilmoittamatta palautuspäivämääräänsä.\n\nTeen uhostani puolipätevän aseenkantajani,\nvarsinaisen Sancho Panzan.\n\nSekoitan kalkista ja äkäisestä hunajasta yömyssyn, jonka juon sirkusteräni kärjeltä.</pre>"
     },
     {
       "id": "7",
@@ -43,7 +43,7 @@
         57,
         121
       ],
-      "content": "<pre class=\"poemtext\">\n\n<span class=\"poemtitle\">Tyhjennysharjoitus</span>\n\nKipuni valaa itsestään hopealuoteja ja käy karkoittamaan kellariin pesiytynyttä salamatkustajaa.\n\nkohdistaa höyryävin sieraimin itseensä poltetun maan taktiikkaa\n\nkunnes mikään ei enää liiku.\n\nKäärii itsensä tulevan usvaan ja jää vartioimaan satokauden kaskinauriita.</pre>"
+      "content": "<pre class=\"poemtext\">\n\n<span class=\"poemtitle\">Tyhjennysharjoitus</span>\n\nKipuni valaa itsestään hopealuoteja ja käy karkoittamaan kellariin pesiytynyttä salamatkustajaa.\n\nKohdistaa höyryävin sieraimin itseensä poltetun maan taktiikkaa\n\nkunnes mikään ei enää liiku.\n\nKäärii itsensä tulevan usvaan ja jää vartioimaan satokauden kaskinauriita.</pre>"
     },
     {
       "id": "8",
@@ -52,7 +52,7 @@
         129,
         84
       ],
-      "content": "<pre class=\"poemtext\">\n\n<span class=\"poemtitle\">Sivuääni</span>\n\nEtäisyyteen juoksija kaivelee ullakoidensa laatikoita\nlöytääkseen kartan, johon on rastinsa joskus piirtänyt.\n\nEttä hänen askeleensa lopettaisivat piirtämästä lattialleen yhä uudelleen kaatunutta kahdeksikkoa,\n joka kuluttaa hiljalleen pois ihmisensä pintaa.</pre>"
+      "content": "<pre class=\"poemtext\">\n\n<span class=\"poemtitle\">Sivuääni</span>\n\nEtäisyyteen juoksija kaivelee ullakoidensa laatikoita\nlöytääkseen kartan,\n\n johon on rastinsa joskus piirtänyt.\n\nEttä hänen askeleensa lopettaisivat piirtämästä lattialleen yhä uudelleen kaatunutta kahdeksikkoa,\n joka kuluttaa hiljalleen pois ihmisensä pintaa.</pre>"
     },
     {
       "id": "9",
@@ -70,7 +70,7 @@
         133,
         96
       ],
-      "content": "<pre class=\"poemtext\">\n\n<span class=\"poemtitle\">Yöretket</span>\n\nVielä sanoiksi puettamattomat ajatukset leiriytyvät unen hämärtyvälle pintakalvolle.\n\nPolttavat leiritulensa, joiden hiilloksesta nousevat savukiehkurat muodostavat hiekkasilmäisen pimeän saattoväen.\n\nKuljettavat minua kolikot silmilläni jälleen tällä kertaa virran yli tai takaisin.</pre>"
+      "content": "<pre class=\"poemtext\">\n\n<span class=\"poemtitle\">Yöretket</span>\n\nVielä sanoiksi puettamattomat ajatukset leiriytyvät unen hämärtyvälle pintakalvolle.\n\nPolttavat leiritulensa, joiden hiilloksesta nousevat savukiehkurat muodostavat hiekkasilmäisen pimeän saattoväen.\n\nKuljettavat minua kolikot silmilläni jälleen virran yli tai takaisin.</pre>"
     },
     {
       "id": "11",
@@ -79,7 +79,7 @@
         154,
         220
       ],
-      "content": "<pre class=\"poemtext\">\n\n<span class=\"poemtitle\">Hetki</span>\n\nKatson kaikkea sitä, mikä myrskyää läpi päivien\n\npysähtyneenä, välimatkansa kauniiseen jäädyttäneenä.\n\nAjan paino on tasannut lyhyeksi aikaa itsensä eteeni\n\nJa historiani on käyttänyt itsensä päivän kääntäjällä.</pre>"
+      "content": "<pre class=\"poemtext\">\n\n<span class=\"poemtitle\">Hetki</span>\n\nKatson kaikkea sitä, mikä myrskyää läpi päivien\n\npysähtyneenä,\n\n välimatkansa kauniiseen jäädyttäneenä.\n\nAjan paino on tasannut lyhyeksi aikaa itsensä eteeni\n\nJa historiani on käyttänyt itsensä päivän kääntäjällä.</pre>"
     },
     {
       "id": "12",
@@ -106,7 +106,7 @@
         240,
         73
       ],
-      "content": "<pre class=\"poemtext\">\n\n<span class=\"poemtitle\">Katoaminen</span>\n\nAjatukset ja ruumis katkaisevat välinsä\nEtäisyydet typistyvät.\nÄånet tekevät itsestään kohinan,\njoka hukuttaa.\n\nOdotan,\ntietämättä ketä tai koska.\n\nKadotan, tietämättä mitä.\n\nOlen, tietämättä missä.</pre>"
+      "content": "<pre class=\"poemtext\">\n\n<span class=\"poemtitle\">Katoaminen</span>\n\nAjatukset ja ruumis katkaisevat välinsä\nEtäisyydet typistyvät.\n\nÄänet tekevät itsestään kohinan,\njoka hukuttaa.\n\nOdotan,\ntietämättä ketä tai koska.\n\nKadotan, tietämättä mitä.\n\nOlen, tietämättä missä.</pre>"
     },
     {
       "id": "15",
@@ -133,7 +133,7 @@
         285,
         268
       ],
-      "content": "<pre class=\"poemtext\">\n\n<span class=\"poemtitle\">Pidot</span>\n\nPuolikuu asettuu kyljelleen kahden auringon alapuolelle.\n\nEikä horisontti piirrä enää erottelevaa viivaansa.\n\nKaikki opiskellut jumalat ja perkeleet kömpivät sisään ensimmäisistä löytämistään ruumiini aukoista\n\nJa alkavat tutustua toisiinsa paremmin.</pre>"
+      "content": "<pre class=\"poemtext\">\n\n<span class=\"poemtitle\">Pidot</span>\n\nPuolikuu asettuu kyljelleen kahden auringon alapuolelle.\n\nEikä horisontti piirrä enää erottelevaa viivaansa.\n\nKaikki opiskellut jumalat ja perkeleet kömpivät sisään ensimmäisistä löytämistään ruumiini aukoista.\n\nJa alkavat tutustua toisiinsa paremmin.</pre>"
     },
     {
       "id": "18",
@@ -142,7 +142,7 @@
         156,
         174
       ],
-      "content": "<pre class=\"poemtext\">\n\n<span class=\"poemtitle\">Ideologia</span>\n\nOdotuksen ja toteutuksen lapset\nkulkevat parijonoissa toistensa ohitse.\n\nViiltäen samalla auki\ntarpeensa ihon.\n\nSiemenkodat tipahtelevat taivaalta\navautuneeseen kyntövakoon.\n\nVuodet kasvattavat vinot puut,\nJotka kantavat outoja hedelmiä.\n\nKnalli odottaa käännetty herra kourassa.</pre>"
+      "content": "<pre class=\"poemtext\">\n\n<span class=\"poemtitle\">Ideologia</span>\n\nOdotuksen ja toteutuksen lapset\nkulkevat parijonoissa toistensa ohitse,\n\nviiltäen samalla auki\ntarpeensa ihon.\n\nSiemenkodat tipahtelevat taivaalta\navautuneeseen kyntövakoon.\n\nVuodet kasvattavat vinot puut,\nJotka kantavat outoja hedelmiä.\n\nKnalli odottaa käännetty herra kourassa.</pre>"
     },
     {
       "id": "19",
@@ -151,7 +151,7 @@
         191,
         81
       ],
-      "content": "<pre class=\"poemtext\">\n\n<span class=\"poemtitle\">Kulakki</span>\n\nKasvoveri maalaa taustansa maaväreillä\n\nJotka kulkevat kaikkien vuosien läpi.\n\nKukka koristaa napin pieltä ja nappi otsaa.\n\nIstutettu ajatus hengittää kuoleman läpi.</pre>"
+      "content": "<pre class=\"poemtext\">\n\n<span class=\"poemtitle\">Kulakki</span>\n\nKasvoveri maalaa taustansa maaväreillä,\n\njotka kulkevat kaikkien vuosien läpi.\n\nKukka koristaa napin pieltä ja nappi otsaa.\n\nIstutettu ajatus hengittää kuoleman läpi.</pre>"
     },
     {
       "id": "20",
@@ -169,7 +169,7 @@
         72,
         15
       ],
-      "content": "<pre class=\"poemtext\">\n\n<span class=\"poemtitle\">Kylmä</span>\n\nVoimattomuus ajelehtii kohti pohjoista ja toivoo, että kääntöpiiri sinkauttaa kipinäni liikkeelle\n\nEnnen kuin arktiset vedet rikkovat jäätyviä kannatinrakenteita.\n\nSamaan aikaan kun kapteeni kolja etsii pelastusveneistään jäniksiä, \njoiden käpälät liimata herra Cul-de-Sacin luokse matkaavien hiljalleen halvaantuvien raajojeni tilalle.</pre>"
+      "content": "<pre class=\"poemtext\">\n\n<span class=\"poemtitle\">Kylmä</span>\n\nVoimattomuus ajelehtii kohti pohjoista ja toivoo,\n\n että kääntöpiiri sinkauttaa kipinäni liikkeelle,\n\nennen kuin arktiset vedet rikkovat jäätyviä kannatinrakenteita.\n\nSamaan aikaan kun kapteeni kolja etsii pelastusveneistään jäniksiä, \n\njoiden käpälät liimata herra Cul-de-Sacin luokse matkaavien hiljalleen halvaantuvien raajojeni tilalle.</pre>"
     },
     {
       "id": "22",
@@ -178,7 +178,7 @@
         30,
         24
       ],
-      "content": "<pre class=\"poemtext\">\n\n<span class=\"poemtitle\">Kisälli</span>\n\nIhmissiltani ovat rikkoutuneet rytmihäiriöihin.\n\nJa koen olevani pakotettu paastoamaan hetken kysymysmerkeillä.\n\nKunnes kävelen hankiaiselle, jonka kevään kylmä kirkkaus on laskenut alleni.\n\nMietin perustuksiani uudelleen\n\nJa piirrän itselleni uusia siltoja sulavien vesien ylitse, koristellun kaulani korkeudelle.</pre>"
+      "content": "<pre class=\"poemtext\">\n\n<span class=\"poemtitle\">Kisälli</span>\n\nIhmissiltani ovat rikkoutuneet rytmihäiriöihin.\n\nKoen olevani pakotettu paastoamaan hetken kysymysmerkeillä.\n\nKävelen hankiaiselle, jonka kevään kylmä kirkkaus on laskenut alleni.\n\nMietin perustuksiani uudelleen\n\nja piirrän itselleni uusia siltoja sulavien vesien ylitse, koristellun kaulani korkeudelle.</pre>"
     },
     {
       "id": "23",
@@ -187,7 +187,7 @@
         190,
         254
       ],
-      "content": "<pre class=\"poemtext\">\n\n<span class=\"poemtitle\">Pakkopaita</span>\n\nKuuntelen koneeni hurinaa\nkuuntelen vastaanottimeni sirinää\nKuuntelen mehiläisteni pörinää\nLöytämättä äänistäni hunajaa.\n\nKun ajatukset pyörivät loputonta ympyrää umpeen muuratun pääni sisällä.\n\nKun ajatukset iskevät käpälänsä tyngiksi ympäröivään ihmisrautaan.</pre>"
+      "content": "<pre class=\"poemtext\">\n\n<span class=\"poemtitle\">Pakkopaita</span>\n\nKuuntelen koneeni hurinaa,\nkuuntelen vastaanottimeni sirinää,\nkuuntelen mehiläisteni pörinää,\nLöytämättä äänistäni hunajaa.\n\nKun ajatukset pyörivät loputonta ympyrää umpeen muuratun pääni sisällä.\n\nKun ajatukset iskevät käpälänsä tyngiksi ympäröivään ihmisrautaan.</pre>"
     },
     {
       "id": "24",
@@ -196,7 +196,7 @@
         22,
         172
       ],
-      "content": "<pre class=\"poemtext\">\n\n<span class=\"poemtitle\">Kiertokulku</span>\n\nAjan vuoksi kiertää jälleen ympäri\n\ntäyttääkseen valkean, jonka aika on jättänyt luoteeseen.\n\npienet kuihtumaiset seppeleet kiertävät  juurensa otsaltani rinnalleni.\n\nJonka alla sydämeni etsii uudelleen\nsykettään liikkeeni rytmistä.</pre>"
+      "content": "<pre class=\"poemtext\">\n\n<span class=\"poemtitle\">Kiertokulku</span>\n\nAjan vuoksi kiertää jälleen ympäri,\n\ntäyttääkseen valkean, \n\njonka aika on jättänyt luoteeseen.\n\nPienet kuihtumaiset seppeleet kiertävät  juurensa otsaltani rinnalleni.\n\nJonka alla sydämeni etsii uudelleen\nsykettään liikkeeni rytmistä.</pre>"
     },
     {
       "id": "25",
@@ -205,7 +205,7 @@
         38,
         33
       ],
-      "content": "<pre class=\"poemtext\">\n\n<span class=\"poemtitle\">Paalu</span>\n\nVeistän itsestäni kauniimpaa\n Akhilleelta varastetulla kantapäällä.\n\nLastu kerrallaan.</pre>"
+      "content": "<pre class=\"poemtext\">\n\n<span class=\"poemtitle\">Paalu</span>\n\nVeistän itsestäni kauniimpaa\n Akhilleelta lainatulla kantapäällä.\n\nLastu kerrallaan.</pre>"
     },
     {
       "id": "26",
@@ -214,7 +214,7 @@
         185,
         108
       ],
-      "content": "<pre class=\"poemtext\">\n\n<span class=\"poemtitle\">Kuola</span>\n\nAskel uppoaa talvisen narisevaan lumeen.\nJa toinen, kolmas, vielä neljäskin.\n\nToisiaan seuraavat pidentyvät yöt katkaisevat väliset aistit.\n\nKunnes enää vahvimmat ajatuksemme jaksavat kulkea ajan kylmäksi käyneen selän yli toistemme luo.</pre>"
+      "content": "<pre class=\"poemtext\">\n\n<span class=\"poemtitle\">Kuola</span>\n\nAskel uppoaa talviseen narisevaan lumeen.\nJa toinen, kolmas, vielä neljäskin.\n\nToisiaan seuraavat pidentyvät yöt katkaisevat väliset aistit.\n\nKunnes enää vahvimmat ajatuksemme jaksavat kulkea ajan kylmäksi käyneen selän yli toistemme luo.</pre>"
     },
     {
       "id": "27",
@@ -223,7 +223,7 @@
         91,
         77
       ],
-      "content": "<pre class=\"poemtext\">\n\n<span class=\"poemtitle\">Hämähäkki</span>\n\nSanat tavoittelevat vastinkappaleitaan, kunnes väsyvät yksi toisensa jättämiin heikkeneviin jälkiin\n\njoihin särömme ilmestyvät.\n\nHapuilen luottamuksen vielä valaisevassa hämärässä\n\nlaskeutuen varovaisesti vielä rakentuneiden seittiemme varaan.\n\nNiiden, joita yhteen liitetyt kätemme joskus kutoivat.</pre>"
+      "content": "<pre class=\"poemtext\">\n\n<span class=\"poemtitle\">Hämähäkki</span>\n\nSanat tavoittelevat vastinkappaleitaan, kunnes väsyvät yksi toisensa jättämiin heikkeneviin jälkiin,\n\njoihin särömme ilmestyvät.\n\nHapuilen luottamuksen vielä valaisevassa hämärässä\n\nlaskeutuen varovaisesti vielä rakentuneiden seittiemme varaan.\n\nNiiden, joita yhteen liitetyt kätemme joskus kutoivat.</pre>"
     },
     {
       "id": "28",
@@ -241,7 +241,7 @@
         283,
         182
       ],
-      "content": "<pre class=\"poemtext\">\n\n<span class=\"poemtitle\">Rodeo</span>\n\nYritän ottaa kiinni ajasta\netten karkaisi itseltäni.\n\nLuikahdan silti käsistäni\nja annan\najatukseni ennättää askeleen itsensä edelle.\n\nPitämään kultaisen vasikkani jalkojeni välissä ja lasittuneen fallokseni ajautuneena taivaan rantaan.</pre>"
+      "content": "<pre class=\"poemtext\">\n\n<span class=\"poemtitle\">Rodeo</span>\n\nYritän ottaa kiinni ajasta\netten karkaisi itseltäni.\n\nLuikahdan silti käsistäni\nja annan\najatukseni ennättää askeleen itsensä edelle.\n\nPitämään kultaisen vasikkani jalkojeni välissä\n\n ja\n\n lasittuneen fallokseni ajautuneena taivaan rantaan.</pre>"
     },
     {
       "id": "30",
@@ -277,7 +277,7 @@
         44,
         85
       ],
-      "content": "<pre class=\"poemtext\">\n\n<span class=\"poemtitle\">Kalastaja</span>\n\nKierrän kieleni koukuksi korvasi reunalle.\n\nAsetan syötiksi palan sydäntä.\n\nRipustan itseni laiturin nokkaan,\nnostelen vapaani.\n\nHärnään,\nilkamoin.\n\nKuuntelen,\nkatselen syvyyteen,\nvarron.</pre>"
+      "content": "<pre class=\"poemtext\">\n\n<span class=\"poemtitle\">Kalastaja</span>\n\nKierrän kieleni koukuksi korvasi reunalle.\n\nAsetan syötiksi palan sydäntäni.\n\nRipustan itseni laiturin nokkaan,\nnostelen vapaani.\n\nHärnään,\nilkamoin.\n\nKuuntelen,\nkatselen syvyyteen,\nvarron.</pre>"
     },
     {
       "id": "34",
@@ -286,7 +286,7 @@
         97,
         238
       ],
-      "content": "<pre class=\"poemtext\">\n\n<span class=\"poemtitle\">Kuohu</span>\n\nUpotettuihin kiviin iskeytyvä\nvirtaava vesi nostaa ilmaan\n\nAaveet ja haaveet,\njotka tekeytyvät päivänkorennoiksi.\n\nNiiksi, jotka riehakoivat, liehakoivat, käyvät soitimelleen.\n\nNiiksi, jotka yhtyvät sekoittuneiksi ilmalennoiksi.\n\nNiiksi,\njotka eivät halua palata vetensä pinnalle.</pre>"
+      "content": "<pre class=\"poemtext\">\n\n<span class=\"poemtitle\">Kuohu</span>\n\nUpotettuihin kiviin iskeytyvä\nvirtaava vesi nostaa ilmaan\n\naaveet ja haaveet,\njotka tekeytyvät päivänkorennoiksi.\n\nNiiksi, jotka riehakoivat, liehakoivat, käyvät soitimelleen.\n\nNiiksi, jotka yhtyvät sekoittuneiksi ilmalennoiksi.\n\nNiiksi,\njotka eivät halua palata vetensä pinnalle.</pre>"
     },
     {
       "id": "35",
@@ -304,7 +304,7 @@
         65,
         175
       ],
-      "content": "<pre class=\"poemtext\">\n\n<span class=\"poemtitle\">Puute</span>\n\nVain viisi pientä katkennutta sormea.\n\nEi höyryävää sydäntä\ntai punaista lihaa.</pre>"
+      "content": "<pre class=\"poemtext\">\n\n<span class=\"poemtitle\">Puute</span>\n\nVain viisi pientä katkennutta sormea.\n\nEi enää höyryävää sydäntä\ntai punaista lihaa.</pre>"
     },
     {
       "id": "37",
@@ -322,7 +322,7 @@
         33,
         44
       ],
-      "content": "<pre class=\"poemtext\">\n\n<span class=\"poemtitle\">Palaaja</span>\n\nIstun kivellä,\nvirran reunalla.\n\nTeen kädestäni kupin,\njonka upotan pintajännitteen alle.\n\nHetkeksi, kunnes\n\nnostan sen huulilleni\n\njuodakseni alkukotini.</pre>"
+      "content": "<pre class=\"poemtext\">\n\n<span class=\"poemtitle\">Palaaja</span>\n\nIstun kivellä,\nvirran reunalla.\n\nTeen kädestäni kupin,\njonka upotan pintajännitteen alle.\n\nHetkeksi,\n kunnes\n\nnostan sen huulilleni\n\njuodakseni alkukotini.</pre>"
     },
     {
       "id": "39",
@@ -331,7 +331,7 @@
         28,
         108
       ],
-      "content": "<pre class=\"poemtext\">\n\n<span class=\"poemtitle\">Varpushaukka</span>\n\nKiihdytän,\nkunnes vauhti karistaa viimeiset lumet risukon oksien päältä.\n\nTarraan\nkarkulaiseeni kiinni kiihkon ja kiintymyksen kaksoiskynsillä.\n\nKatkon\nsaaliilta siiveet kauniilla sanoilla\n\nja\n\nPudotan\nomani luottamuksen jalkojen juureen.</pre>"
+      "content": "<pre class=\"poemtext\">\n\n<span class=\"poemtitle\">Varpushaukka</span>\n\nKiihdytän,\nkunnes vauhti karistaa viimeiset lumet risukon oksien päältä.\n\nTarraan\nkarkulaiseeni kiinni kiihkon ja kiintymyksen kaksoiskynsillä.\n\nKatkon\nsaaliilta siiveet kauniilla sanoilla\n\nja\n\npudotan\nomani luottamuksen jalkojen juureen.</pre>"
     },
     {
       "id": "40",
@@ -340,7 +340,7 @@
         212,
         65
       ],
-      "content": "<pre class=\"poemtext\">\n\n<span class=\"poemtitle\">Mökki</span>\n\nHukatut avaimet ottavat  hengitysilmansa pihajäätikkönsä railoista.\n\nPuhaltavat  kylmemmäksi käyneen uloshengityksensä puikoiksi roikkumaan räystäänsä reunaan.\n\nTippumaan\n\nPahaa aavistamattomien\n\nOmien ja vieraiden\n\nYstävien ja vihollisten\n\nKaikkien\n\nPaljastettuihin niskoihin.</pre>"
+      "content": "<pre class=\"poemtext\">\n\n<span class=\"poemtitle\">Mökki</span>\n\nHukatut avaimet ottavat  hengitysilmansa pihajäätikkönsä railoista.\n\nPuhaltavat  kylmemmäksi käyneen uloshengityksensä puikoiksi roikkumaan räystäänsä reunaan.\n\nTippumaan\n\npahaa aavistamattomien\n\nomien ja vieraiden\n\nystävien ja vihollisten\n\nkaikkien\n\npaljastettuihin niskoihin.</pre>"
     },
     {
       "id": "41",
@@ -349,7 +349,7 @@
         219,
         96
       ],
-      "content": "<pre class=\"poemtext\">\n\n<span class=\"poemtitle\">Bakkanaali</span>\n\nKurottaudun Bacchuksen\nhuulien väliin.\n\nVieritän ympärilleni\nhellän narkoottisen harson\n\nja\n\npiehtaroin vilun väreet olkapäiltäni\nKäpälänjäljiksi purppuralumeen.</pre>"
+      "content": "<pre class=\"poemtext\">\n\n<span class=\"poemtitle\">Bakkanaali</span>\n\nKurottaudun Bacchuksen\nhuulien väliin.\n\nVieritän ympärilleni\nhellän narkoottisen harson\n\nja\n\npiehtaroin vilun väreet olkapäiltäni\nkäpälänjäljiksi purppuralumeen.</pre>"
     },
     {
       "id": "42",
@@ -358,7 +358,7 @@
         99,
         70
       ],
-      "content": "<pre class=\"poemtext\">\n\n<span class=\"poemtitle\">Siili</span>\n\nMitta kiertyy itseensä\nja\nkääntää ulospäin piikkinsä\n\nJotka vuodattavat verensä\npuhkomansa ihmisen sisään.\n\nSamalla kun\n\nLuotilanka huutaa sumuiselle talviselle ulapalle\nkuullakseen oman äänensä toisen suulla.</pre>"
+      "content": "<pre class=\"poemtext\">\n\n<span class=\"poemtitle\">Siili</span>\n\nMitta kiertyy itseensä\nja\nkääntää ulospäin piikkinsä\n\nJotka vuodattavat verensä\npuhkomansa ihmisen sisään.\n\nSamalla,\n kun\n\nluotilanka huutaa sumuiselle talviselle ulapalle\nkuullakseen oman äänensä toisen suulla.</pre>"
     },
     {
       "id": "43",
@@ -367,7 +367,7 @@
         156,
         95
       ],
-      "content": "<pre class=\"poemtext\">\n\n<span class=\"poemtitle\">Salpietari</span>\n\nHäränpylly heittelehtii peilin pinnalla\n\nSanahaarukat hakevat lihan pyörivälle lautaselle\n\nAsetetulle\n\nAlhaalta maalattujen pahojen ja ylhäältä puunattujen pyhien väliin viritetylle\n\nkauhun tasapainolle.</pre>"
+      "content": "<pre class=\"poemtext\">\n\n<span class=\"poemtitle\">Salpietari</span>\n\nHäränpylly heittelehtii peilin pinnalla.\n\nSanahaarukat hakevat lihan pyörivälle lautaselle.\n\nAsetetulle.\n\nAlhaalta maalattujen pahojen ja ylhäältä puunattujen pyhien väliin viritetylle\n\nkauhun tasapainolle.</pre>"
     },
     {
       "id": "44",
@@ -376,7 +376,7 @@
         33,
         119
       ],
-      "content": "<pre class=\"poemtext\">\n\n<span class=\"poemtitle\">Lievepyydystäjä</span>\n\nLiikun kantapää suussa.\n\nTartun kiinni merkityksestä,\nhuomaan pikku pirun muuttaneen.\n\nPuristan korvieni käsiini luovuttamat uudet sanat nyrkkini sisään\n\nja\n\nPidättelen puhaltamaan tullutta taikuria pysymään loitolla,\n\nkunnes ehdin\n\nKiivetä\ntakaisin palttooni sisään.</pre>"
+      "content": "<pre class=\"poemtext\">\n\n<span class=\"poemtitle\">Lievepyydystäjä</span>\n\nLiikun kantapää suussa.\n\nTartun kiinni merkityksestä,\nhuomaan pikku pirun muuttaneen.\n\nPuristan korvieni käsiini luovuttamat uudet sanat nyrkkini sisään\n\nja\n\npidättelen puhaltamaan tullutta taikuria pysymään loitolla,\n\nkunnes ehdin\n\nKiivetä\ntakaisin palttooni sisään.</pre>"
     },
     {
       "id": "45",
@@ -421,7 +421,7 @@
         247,
         19
       ],
-      "content": "<pre class=\"poemtext\">\n\n<span class=\"poemtitle\">Haaveittuneet</span>\n\nTulevan menneeseensä kohdistama kaunis katse\n\nTavoittelee nykyisyydessään riutuvaa vastakappaleettaan\n\nOdotus muodostaa alkovin, jonne väliin jäänyt aika kiertyy\n\nHaistelemaan ilmaa kielellään ja harjoittelemaan kuristusotettaan.</pre>"
+      "content": "<pre class=\"poemtext\">\n\n<span class=\"poemtitle\">Haaveittuneet</span>\n\nTulevan menneeseensä kohdistama kaunis katse\n\ntavoittelee nykyisyydessään riutuvaa vastakappaleettaan.\n\nOdotus muodostaa alkovin, jonne väliin jäänyt aika kiertyy\n\nhaistelemaan ilmaa kielellään ja harjoittelemaan kuristusotettaan.</pre>"
     },
     {
       "id": "50",
@@ -439,7 +439,7 @@
         59,
         63
       ],
-      "content": "<pre class=\"poemtext\">\n\n<span class=\"poemtitle\">Lumisadepallo</span>\n\nAse suussa\nkieli kädessä\n\nPiirtää pelokas eksyklopedisti\nkokemisen yhtenäistettävää rajaa.\n\nRatsastaen oksymoronillaan\npitkin saumoistaan repeilevää ihmisen ihoa\n\nRakentaa suvaitsevaisuutta\nsisällyttämisen ja poissulkemisen\nkaksoispiikillään,\n\njota pelollaan öljyää.</pre>"
+      "content": "<pre class=\"poemtext\">\n\n<span class=\"poemtitle\">Lumisadepallo</span>\n\nAse suussa,\nkieli kädessä\n\npiirtää pelokas eksyklopedisti\nkokemisen yhtenäistettävää rajaa.\n\nRatsastaen oksymoronillaan\npitkin saumoistaan repeilevää ihmisen ihoa.\n\nRakentaa suvaitsevaisuutta\nsisällyttämisen ja poissulkemisen\nkaksoispiikillään,\n\njota pelollaan öljyää.</pre>"
     },
     {
       "id": "52",
@@ -448,7 +448,7 @@
         106,
         199
       ],
-      "content": "<pre class=\"poemtext\">\n\n<span class=\"poemtitle\">Kaleidoskopia</span>\n\nUtelias\nkierittelee edestakaisin\nkohtaamansa katsetta\n\nEtsii silmien syvyyksistä kiteitä\n\njotka liikahtaessaan\ntuovat esiin uskalikkoja\n\njoita vasten iskeytyvät\netsijän omat vastinparit\nuudelleen järjestyvät.</pre>"
+      "content": "<pre class=\"poemtext\">\n\n<span class=\"poemtitle\">Kaleidoskopia</span>\n\nUtelias\nkierittelee edestakaisin\nkohtaamansa katsetta.\n\nEtsii silmien syvyyksistä kiteitä,\n\njotka liikahtaessaan\ntuovat esiin uskalikkoja,\n\njoita vasten iskeytyvät\netsijän omat vastinparit\nuudelleen järjestyvät.</pre>"
     },
     {
       "id": "53",
@@ -457,7 +457,7 @@
         39,
         182
       ],
-      "content": "<pre class=\"poemtext\">\n\n<span class=\"poemtitle\">Usvavankkurit</span>\n\nAsetan lumeentuneen\njalkani aistinlaudalle\n\nNousen kuskinpenkille,\notan käsiini ohjakset, joilla\n\nvaatetan alastomuuttani edessäsi\nsamalla kun\nviitoitan haavoittuvaisuuttani\nvarovaisella hymylläni\n\nNostan matkallemme\nmaljan ajurilasistani\n\nusuttaessani  sanoitetun ratsukkoni\nniihin kolkkiin,\n\njoihin olen vienyt jo kuolleeni.\nja\njoista tuon vielä eläväni.</pre>"
+      "content": "<pre class=\"poemtext\">\n\n<span class=\"poemtitle\">Usvavankkurit</span>\n\nAsetan lumeentuneen\njalkani aistinlaudalle.\n\nNousen kuskinpenkille,\notan käsiini ohjakset\n, joilla\n\nvaatetan alastomuuttani edessäsi,\nsamalla,\n kun\nviitoitan haavoittuvaisuuttani\nvarovaisella hymylläni.\n\nNostan matkallemme\nmaljan ajurilasistani\n\nusuttaessani  sanoitetun ratsukkoni\nniihin kolkkiin,\n\njoihin olen vienyt jo kuolleeni\nja\njoista tuon vielä eläväni.</pre>"
     },
     {
       "id": "54",
@@ -466,7 +466,7 @@
         218,
         154
       ],
-      "content": "<pre class=\"poemtext\">\n\n<span class=\"poemtitle\">Rajankäyntiä</span>\n\nKeihästät uneni reunan\nnälkäisellä aikaisella kielelläsi\n\njoka kiertelee\npiirtelemässä puumerkkejään\n\nunesta takaisin maailmaan syntyvälle\nvielä koristelemattomalle iholleni\n\nMuodostaen kärkensä lämmöllä sulia, joihin muuttolintuni merkki kerrallaan palaavat.</pre>"
+      "content": "<pre class=\"poemtext\">\n\n<span class=\"poemtitle\">Rajankäyntiä</span>\n\nKeihästät uneni reunan\nnälkäisellä aikaisella kielelläsi,\n\njoka kiertelee\npiirtelemässä puumerkkejään\n\nunesta takaisin maailmaan syntyvälle\nvielä koristelemattomalle iholleni.\n\nMuodostaen kärkensä lämmöllä sulia, joihin muuttolintuni merkki kerrallaan palaavat.</pre>"
     },
     {
       "id": "55",
@@ -475,7 +475,7 @@
         191,
         173
       ],
-      "content": "<pre class=\"poemtext\">\n\n<span class=\"poemtitle\">Irtolainen</span>\n\nKadottaneiden kulmahampaiden\nhitaasti mukaansa\nnakertamat ankkuripoijut\n\nVaihtaneet lähtiessään\nmaisemaikkunan tilalle\nmuukalaisen asuttaman peilin.\n\nPeilin nurkkiin piiloutuneet piirteet aseistuneina\nväijymään hetkeä,\n\njolloin tulevat\nilmestymään jälleen kokemieni hetkien kirkkaaseen pintaan.</pre>"
+      "content": "<pre class=\"poemtext\">\n\n<span class=\"poemtitle\">Irtolainen</span>\n\nKadottaneiden kulmahampaiden\nhitaasti mukaansa\nnakertamat ankkuripoijut.\n\nVaihtaneet lähtiessään\nmaisemaikkunan tilalle\nmuukalaisen asuttaman peilin.\n\nPeilin nurkkiin piiloutuneet piirteet aseistuneina\nväijymään hetkeä,\n\njolloin tulevat\nilmestymään jälleen kokemieni hetkien kirkkaaseen pintaan.</pre>"
     },
     {
       "id": "56",
@@ -484,7 +484,7 @@
         153,
         100
       ],
-      "content": "<pre class=\"poemtext\">\n\n<span class=\"poemtitle\">Odotuksen varas</span>\n\nLevollisuuden oras kurkistaa\npienellä sievällä päällään\n\nPitkittyneen yön kainalosta,\njonne ketunhäntä on sen piilottanut\n\nPuhaltaa lämpimän pienen vieraan hetken\ntutun rintalastan alle\n\nJa\n\nLupaa olla siellä,\nminne en vielä kunnolla näe.</pre>"
+      "content": "<pre class=\"poemtext\">\n\n<span class=\"poemtitle\">Odotuksen varas</span>\n\nLevollisuuden oras kurkistaa\npienellä sievällä päällään\n\npitkittyneen yön kainalosta,\njonne ketunhäntä on sen piilottanut.\n\nPuhaltaa lämpimän pienen vieraan hetken\ntutun rintalastan alle\n\nja\n\nlupaa olla siellä,\nminne en vielä kunnolla näe.</pre>"
     },
     {
       "id": "57",
@@ -493,7 +493,7 @@
         7,
         72
       ],
-      "content": "<pre class=\"poemtext\">\n\n<span class=\"poemtitle\">Lyhtykrotti</span>\n\nKipukala ui\nmyrkyttyneiden kohtaamisten välistä\n\nSyvänteisiin,\njonka seinämät sairastuneiden sanojen haulit\novat suolanneet.\n\nNäyttää lampullaan valoa enää  itselleen ja uskottelee pystyvänsä silti hankkimaan saaliinsa.\n\nHakee rauhaansa leikkien\nvenäläistä rulettia\nunohduksellaan.</pre>"
+      "content": "<pre class=\"poemtext\">\n\n<span class=\"poemtitle\">Lyhtykrotti</span>\n\nKipukala ui\nmyrkyttyneiden kohtaamisten välistä\n\nsyvänteisiin,\njonka seinämät sairastuneiden sanojen haulit\novat suolanneet.\n\nNäyttää lampullaan valoa enää  itselleen ja uskottelee pystyvänsä silti hankkimaan saaliinsa.\n\nHakee rauhaansa leikkien\nvenäläistä rulettia\nunohduksellaan.</pre>"
     },
     {
       "id": "58",
@@ -502,7 +502,7 @@
         65,
         60
       ],
-      "content": "<pre class=\"poemtext\">\n\n<span class=\"poemtitle\">Kiertolaiset</span>\n\nEros-toukat kaivautuvat ylös\nkohmettuvan rakkauden pinnalle\n\nJohon kiinnittyvät ja koteloituvat\nkeräämään kylmentyneisiin kehoihinsa uuden ilman nostattamaa lämpöä.\n\nKuoriutuakseen ja lentääkseen vielä kerran syntyneillä neljällä siivellään uutena suudelmana takaisin\nlöytäneensä ihmisen suuhun.</pre>"
+      "content": "<pre class=\"poemtext\">\n\n<span class=\"poemtitle\">Kiertolaiset</span>\n\nEros-toukat kaivautuvat ylös\nkohmettuvan rakkauden pinnalle,\n\njohon kiinnittyvät ja koteloituvat\nkeräämään kylmentyneisiin kehoihinsa uuden ilman nostattamaa lämpöä.\n\nKuoriutuakseen ja lentääkseen vielä kerran syntyneillä neljällä siivellään uutena suudelmana takaisin\nlöytäneensä ihmisen suuhun.</pre>"
     },
     {
       "id": "59",
@@ -520,7 +520,7 @@
         65,
         12
       ],
-      "content": "<pre class=\"poemtext\">\n\n<span class=\"poemtitle\">Ruttolapset</span>\n\nRumien hetkien\nilmoille laskema\näpärälauma\n\nleikkimässä\nkirjailluilla tikareilla\n\nPyörimässä tulevaisuuden\nkaatuvissa jaloissa\nriehakoimassa\nViiltämässä sen\nennen niin viehkeitä jalkojen mukana kaatuvia kasvoja\nisku kerrallaan\ntunnistamattomaksi\ntulevaksi\nkolariuhriksi.</pre>"
+      "content": "<pre class=\"poemtext\">\n\n<span class=\"poemtitle\">Ruttolapset</span>\n\nRumien hetkien\nilmoille laskema\näpärälauma\n\nleikkimässä\nkirjailluilla tikareilla.\n\nPyörimässä tulevaisuuden\nkaatuvissa jaloissa\nriehakoimassa\nViiltämässä sen\nennen niin viehkeitä jalkojen mukana kaatuvia kasvoja\nisku kerrallaan\ntunnistamattomaksi\ntulevaksi\nkolariuhriksi.</pre>"
     },
     {
       "id": "61",
@@ -529,7 +529,7 @@
         70,
         4
       ],
-      "content": "<pre class=\"poemtext\">\n\n<span class=\"poemtitle\">Palokärki</span>\n\nRunkoansa rei'ittävä tuli\nyrittää\nlaajentua, supistua\nyhtä aikaa\n\nLävistää katseen\nkaratessaan\nPuhkaisee sydämen\npalatessaan\n\nHapuilee happea yrittäessään\n\nolla polttamatta\nelävää\nkantajaansa\n\nHaluamatta\njättää\nsisälle\nvain hitaasti tummuvaa heikkenevää kytöä.</pre>"
+      "content": "<pre class=\"poemtext\">\n\n<span class=\"poemtitle\">Palokärki</span>\n\nRunkoansa rei'ittävä tuli\nyrittää\nlaajentua, supistua\nyhtä aikaa.\n\nLävistää katseen\nkaratessaan,\npuhkaisee sydämen\npalatessaan.\n\nHapuilee happea yrittäessään\n\nolla polttamatta\nelävää\nkantajaansa.\n\nHaluamatta\njättää\nsisälle\nvain hitaasti tummuvaa heikkenevää kytöä.</pre>"
     },
     {
       "id": "62",
@@ -538,7 +538,7 @@
         240,
         175
       ],
-      "content": "<pre class=\"poemtext\">\n\n<span class=\"poemtitle\">Dervissi</span>\n\nKorkeuttaan menettäneet\najatukset\n\nVäistävät lähestyvää kosketuspintaa\nkuolemansa kanssa\n\nSukeltavat ukkospilveen.\n\nAntautuvat kiihkeyteensä eksyneeseen rukoukseen, joka päättää\n\nToiveikkuuteni kohti jotain, jonka pulssin voin mitata suoraan\n\nKatseeni salamoiden vielä teroittamalta terältä.</pre>"
+      "content": "<pre class=\"poemtext\">\n\n<span class=\"poemtitle\">Dervissi</span>\n\nKorkeuttaan menettäneet\najatukset\n\nväistävät lähestyvää kosketuspintaa\nkuolemansa kanssa.\n\nSukeltavat ukkospilveen.\n\nAntautuvat kiihkeyteensä eksyneeseen rukoukseen, joka ohjaa\n\ntoiveikkuuteni kohti jotain, jonka pulssin voin mitata suoraan\n\nkatseeni salamoiden vielä teroittamalta terältä.</pre>"
     },
     {
       "id": "63",
@@ -547,7 +547,7 @@
         112,
         114
       ],
-      "content": "<pre class=\"poemtext\">\n\n<span class=\"poemtitle\">Osuma</span>\n\nOrastava kylmyys väreilee\nhaavoittuneen ihmisen eksyneellä pinnalla.\n\nOttaa ajatuksia tiukasti kädestä\nja taluttaa ne perustarpeiden äärelle.\n\nNostaa itsesuojeluvaiston\nmielen uumalta sen päälle.\n\nTäyttää tyhjentyneen pöydän\nmuistista kaivetuista kohtaamisista\nkauneimmilla\n\nJa ihon sisään varastoituneista\nkosketuksen jyvistä  vielä\npolttavimmilla.</pre>"
+      "content": "<pre class=\"poemtext\">\n\n<span class=\"poemtitle\">Osuma</span>\n\nOrastava kylmyys väreilee\nhaavoittuneen ihmisen eksyneellä pinnalla.\n\nOttaa ajatuksia tiukasti kädestä\nja taluttaa ne perustarpeiden äärelle.\n\nNostaa itsesuojeluvaiston\nmielen uumalta sen päälle.\n\nTäyttää tyhjentyneen pöydän\nmuistista kaivetuista kohtaamisista\nkauneimmilla\n\nja ihon sisään varastoituneista\nkosketuksen jyvistä  vielä\npolttavimmilla.</pre>"
     },
     {
       "id": "64",
@@ -565,7 +565,7 @@
         192,
         60
       ],
-      "content": "<pre class=\"poemtext\">\n\n<span class=\"poemtitle\">Kuolio</span>\n\nMahdottomuuden syli\nkuristaa kylkiä kasaan tyhjyydeltä lainatuilla\nleveillä käsillään.\n\nIlman annettua suuntaa\njuoksuunsa karanneet jalat\nkykenevät vain polkemaan paikallaan\n\nPotkimaan sydäntä kasaan.\n\nKasvattavat sisään\nkääntyneet piikit\nitseensä väsyneen hymyn molempiin päihin\n\nVaihtavat silmämunien veden\narsenikkiin.</pre>"
+      "content": "<pre class=\"poemtext\">\n\n<span class=\"poemtitle\">Kuolio</span>\n\nMahdottomuuden syli\nkuristaa kylkiä kasaan tyhjyydeltä lainatuilla\nleveillä käsillään.\n\nIlman annettua suuntaa\njuoksuunsa karanneet jalat\nkykenevät vain polkemaan paikallaan,\n\npotkimaan sydäntä kasaan.\n\nKasvattavat sisään\nkääntyneet piikit\nitseensä väsyneen hymyn molempiin päihin\n\nja\n\nvaihtavat silmämunien veden\narsenikkiin.</pre>"
     },
     {
       "id": "66",
@@ -574,7 +574,7 @@
         128,
         248
       ],
-      "content": "<pre class=\"poemtext\">\n\n<span class=\"poemtitle\">Syntymämerkki</span>\n\nLauhojen tuulten\nedellään ajamat etiäiset\n\nHoukuttelevat esiin\nmaailman salataskuihin\nkadonneet kameleontit\n\nJotka eivät\nenää vaihda muotoa\nOsaavat\nedelleen vaihtaa väriä\n\nTulevat\nja\nIskevät kristallikielensä\nuudeksi osaksi vanhaa otsaluuta.</pre>"
+      "content": "<pre class=\"poemtext\">\n\n<span class=\"poemtitle\">Syntymämerkki</span>\n\nLauhojen tuulten\nedellään ajamat etiäiset\n\nhoukuttelevat esiin\nmaailman salataskuihin\nkadonneet kameleontit,\n\njotka eivät\nenää vaihda muotoa.\n\nOsaavat\nedelleen vaihtaa väriä.\n\nTulevat\nja\niskevät kristallikielensä\nuudeksi osaksi vanhaa otsaluuta.</pre>"
     },
     {
       "id": "67",
@@ -583,7 +583,7 @@
         124,
         118
       ],
-      "content": "<pre class=\"poemtext\">\n\n<span class=\"poemtitle\">Sisarukset</span>\n\nPerille päässeet sanat\neivät yllä enää kotiinsa asti.\n\nEtäisyys tuiskuttaa\nmatkaa tehneet virkkeet umpeen.\n\nKaukana\n\njossain ajattelu lämmittelee hankeen\nkylmettyvää tunnetta,\n\nkun ei voi kylkeänsä irti leikata tai\nsydäntänsä ulos kaivaa\n\nkaksoisveljensä rinnasta\n\nitseänsä pelastamaan.</pre>"
+      "content": "<pre class=\"poemtext\">\n\n<span class=\"poemtitle\">Sisarukset</span>\n\nPerille päässeet sanat\neivät yllä enää kotiinsa asti.\n\nEtäisyys tuiskuttaa\nmatkaa tehneet virkkeet umpeen.\n\nKaukana jossain\n\n ajattelu lämmittelee hankeen\nkylmettyvää tunnetta,\n\nkun ei voi kylkeänsä irti leikata tai\nsydäntänsä ulos kaivaa\nkaksoisveljensä rinnasta\n\nitseänsä pelastamaan.</pre>"
     },
     {
       "id": "68",
@@ -610,7 +610,7 @@
         192,
         81
       ],
-      "content": "<pre class=\"poemtext\">\n\n<span class=\"poemtitle\">Nielukko</span>\n\nAataminomenansa ympärille kiertynyt taivaanranta\n\nTyngiksi järsityt kädet\n\nSisään vedetty jäätynyt hengitys.\n\nPidättyneenä painona kurkunpään päällä,\npoistumistietä etsimässä.</pre>"
+      "content": "<pre class=\"poemtext\">\n\n<span class=\"poemtitle\">Nielukko</span>\n\nAataminomenansa ympärille kiertynyt taivaanranta.\n\nTyngiksi järsityt kädet.\n\nSisään vedetty jäätynyt hengitys.\n\nPidättyneenä painona kurkunpään päällä,\npoistumistietä etsimässä.</pre>"
     },
     {
       "id": "71",
@@ -619,7 +619,7 @@
         99,
         157
       ],
-      "content": "<pre class=\"poemtext\">\n\n<span class=\"poemtitle\">Chaplin</span>\n\nPelko kuorii itsestään todistajan,\njoka\n\nlainaa kenkänsä karkoitetulta kulkurilta\nkuminauhoittaa järkensä.\nMaalaa hymyn kasvoilleen\ntähden silmänsä ympärille\n\nHakee kauneuden komiikasta, repii hellyyden huumorista\n\nPilkkoo purevuutta pilkkakirveellä, jonka lainaa kertomatta siltä suurimmalta ilveilijältä kaikista.\n\nLaulaa lihavan naisen kanssa itsensä ulos\nkujalta, jonka lamput on kivitetty onnen sirpaleista.</pre>"
+      "content": "<pre class=\"poemtext\">\n\n<span class=\"poemtitle\">Chaplin</span>\n\nPelko kuorii itsestään todistajan,\njoka\n\nlainaa kenkänsä karkoitetulta kulkurilta,\nkuminauhoittaa järkensä.\n\nMaalaa hymyn kasvoilleen,\ntähden silmänsä ympärille.\n\nHakee kauneuden komiikasta, repii hellyyden huumorista.\n\nPilkkoo purevuutta pilkkakirveellä, jonka lainaa kertomatta siltä suurimmalta ilveilijältä kaikista.\n\nLaulaa lihavan naisen kanssa itsensä ulos\nkujalta, jonka lamput on kivitetty onnen sirpaleista.</pre>"
     },
     {
       "id": "72",
@@ -628,7 +628,7 @@
         108,
         21
       ],
-      "content": "<pre class=\"poemtext\">\n\n<span class=\"poemtitle\">Kieppi</span>\n\nSees laskee itsensä\nkevyeksi painoksi talvettuneen mielen päälle\n\nPainaa piilottaa pois pohjoisten tuulten\npieksennältä\n\nKuljettaa sinne,\nminne aistikkaat ovat itsensä ennakoineet\n\nMuuttaneet sula mennessään.</pre>"
+      "content": "<pre class=\"poemtext\">\n\n<span class=\"poemtitle\">Kieppi</span>\n\nSees laskee itsensä\nkevyeksi painoksi talvettuneen mielen päälle.\n\nPainaa piilottaa pois pohjoisten tuulten\npieksennältä.\n\nKuljettaa sinne,\nminne aistikkaat ovat itsensä ennakoineet.\n\nMuuttaneet sula mennessään.</pre>"
     },
     {
       "id": "73",
@@ -637,7 +637,7 @@
         14,
         77
       ],
-      "content": "<pre class=\"poemtext\">\n\n<span class=\"poemtitle\">Puolimieli</span>\n\nKameleonttisilmäni eivät löydä yhteistä katseen säveltään\nHajoavat toisistaan irti\nrepivät maailmaani kahtia.\n\nPudottavat rikkoutuneiden ajatusrakennelmien väliin jäävään tyhjään veteen\n\nJonka aika on pedannut eksyneille mielipuolille.</pre>"
+      "content": "<pre class=\"poemtext\">\n\n<span class=\"poemtitle\">Puolimieli</span>\n\nKameleonttisilmäni eivät löydä yhteistä katseen säveltään. \n\nHajoavat toisistaan irti,\nrepivät maailmaani kahtia.\n\nPudottavat rikkoutuneiden ajatusrakennelmien väliin jäävään kylmään tyhjään veteen,\n\njonka aika on pedannut eksyneille.</pre>"
     },
     {
       "id": "74",
@@ -646,7 +646,7 @@
         80,
         166
       ],
-      "content": "<pre class=\"poemtext\">\n\n<span class=\"poemtitle\">Raskasvesivaunu</span>\n\nTähyilen väärin ajoitettua risteystä,\njoka pysäyttää\njo\nennen raidepuskinta.\n\nTuhoaa\njo\nvioittuneen horisontin\n\nVääntää\njo\nkoetun eri asentoon.\n\nTekee parantavaa väkivaltaa\njo\nharmaakaihiin\nsairastuneille raiteille.</pre>"
+      "content": "<pre class=\"poemtext\">\n\n<span class=\"poemtitle\">Raskasvesivaunu</span>\n\nTähyilen väärin ajoitettua risteystä,\njoka pysäyttää\njo\nennen raidepuskinta.\n\nTuhoaa\njo\nvioittuneen horisontin.\n\nVääntää\njo\nkoetun eri asentoon.\n\nTekee parantavaa väkivaltaa\njo\nharmaakaihiin\nsairastuneille raiteille.</pre>"
     },
     {
       "id": "75",
@@ -655,7 +655,7 @@
         77,
         65
       ],
-      "content": "<pre class=\"poemtext\">\n\n<span class=\"poemtitle\">Mafia</span>\n\nKuorin kovettuneita kirjaimia irti iholtani\n\nSementtijaloiksi painumaan alas läpi orvaskeden veden\n\nVerinahalle,\njonka pinnalle älykäs apina ei osaa hengittää itsehallintaa.</pre>"
+      "content": "<pre class=\"poemtext\">\n\n<span class=\"poemtitle\">Mafia</span>\n\nKuorin kovettuneita kirjaimia irti iholtani\n\nsementtijaloiksi painumaan alas läpi orvaskeden veden,\n\nverinahalle,\njonka pinnalle älykäs apina ei osaa hengittää itsehallintaa.</pre>"
     },
     {
       "id": "76",
@@ -664,7 +664,7 @@
         255,
         177
       ],
-      "content": "<pre class=\"poemtext\">\n\n<span class=\"poemtitle\">Hotelli</span>\n\nKirjoitan kipupisteeni paperille heti pyöröovista\nkadulle poistuneiden lauseiden perään.\n\nHaen rivien väliin karannutta kohdistinta, jonka unohdan aina itselleni valjastaa.\n\nRavitsen vieraskirjan allekirjoituksellani, kummastelijani.\n\nValaisen itseni uloskirjoittautuneiden lauseiden muistijäljistä kudotulla lampulla.</pre>"
+      "content": "<pre class=\"poemtext\">\n\n<span class=\"poemtitle\">Hotelli</span>\n\nKirjoitan kipupisteeni paperille heti pyöröovista\nkadulle poistuneiden lauseideni perään.\n\nHaen rivien väliin karannutta kohdistinta, jonka unohdan aina itselleni valjastaa.\n\nRavitsen vieraskirjan allekirjoituksellani, kummastelijani.\n\nValaisen itseni uloskirjoittautuneiden lauseiden muistijäljistä kudotulla lampulla.</pre>"
     },
     {
       "id": "77",
@@ -673,7 +673,7 @@
         240,
         222
       ],
-      "content": "<pre class=\"poemtext\">\n\n<span class=\"poemtitle\">Vinttikoirat</span>\n\nHajaantuneiden haaveiden poljettu aro\nRukoushuoneeksi restauroitu kokoomo.\n\nVetojen kannat heiluvissa käsissä.\n\nSähköjäniksiin sullotut ajatukset, joita\nrationaalisuuteen roikottunut jahtaa.\n\nJauhavat odotuksista kokemuksia,\nheittelevät ilmestyksistä kadotuksiin\nja takaisin, kaiteista kaiteisiin, köysistä köysiin.</pre>"
+      "content": "<pre class=\"poemtext\">\n\n<span class=\"poemtitle\">Vinttikoirat</span>\n\nHajaantuneiden haaveiden poljettu aro,\nrukoushuoneeksi restauroitu kokoomo.\n\nVetojen kannat heiluvissa käsissä.\n\nSähköjäniksiin sullotut ajatukset, joita\nrationaalisuuteen roikottunut jahtaa.\n\nJauhavat odotuksista kokemuksia,\nheittelevät ilmestyksistä kadotuksiin\nja takaisin, kaiteista kaiteisiin, köysistä köysiin.</pre>"
     },
     {
       "id": "78",
@@ -682,7 +682,7 @@
         240,
         124
       ],
-      "content": "<pre class=\"poemtext\">\n\n<span class=\"poemtitle\">Luottamuksesta</span>\n\nValoon takertuja,\ntummien juonteiden\nalta kiertelijä,\narkuuttaan kurkistelija,\ntaitteiden varoja,\nihonsa pesijä,\nylös katsoja,\n\nElämän puhkomien reikien\nrintaan aina uudelleen kirjailema sydän\nhengittää sisään ilman,\njonka lämpötilanvaihteluja\nkauniita sanoja kaipaava korva huolella kuuntelee,\nkädet hakevat kehoa, jonka ympärille kiertyä,\ntoisen, jonka puristukseen itsensä uskaltaa antaa.</pre>"
+      "content": "<pre class=\"poemtext\">\n\n<span class=\"poemtitle\">Luottamuksesta</span>\n\nValoon takertuja,\ntummien juonteiden\nalta kiertelijä,\narkuuttaan kurkistelija,\ntaitteiden varoja,\nihonsa pesijä,\nylös katsoja.\n\nElämän puhkomien reikien\nrintaan aina uudelleen kirjailema sydän\nhengittää sisään ilman,\njonka lämpötilanvaihteluja\nkauniita sanoja kaipaava korva huolella kuuntelee,\nkädet hakevat kehoa, jonka ympärille kiertyä,\ntoisen, jonka puristukseen itsensä uskaltaa antaa.</pre>"
     },
     {
       "id": "79",
@@ -691,7 +691,7 @@
         65,
         102
       ],
-      "content": "<pre class=\"poemtext\">\n\n<span class=\"poemtitle\">Kalantakoja</span>\n\nTarpeidensa verkot,\njoiden pauloihin toisen yrittää pyydystää\nkohtaamisille kuvittamallaan kauneudella.\n\nUskolla olevansa toisen\nravitseva saalis,\nkaikki tarvitsemansa kalat ja leivät.\n\nIskee kirkkaana kuumuudesta hohkavan kapulan ajan kylmiin rattaisiin,\nristii sormensa toisen sormien väliin.\n\nToivoo kauneuden muuttumattomuutta\nja hetken levittymistä yli viisareiden kulun.</pre>"
+      "content": "<pre class=\"poemtext\">\n\n<span class=\"poemtitle\">Kalantakoja</span>\n\nTarpeidensa verkot,\njoiden pauloihin toisen yrittää pyydystää\nkohtaamisilleen kuvittamallaan kauneudella.\n\nUskolla olevansa toisen\nravitseva saalis,\nkaikki tarvitsemansa kalat ja leivät.\n\nIskee kirkkaana kuumuudesta hohkavan kapulan ajan kylmiin rattaisiin,\nristii sormensa toisen sormien väliin.\n\nToivoo kauneuden muuttumattomuutta\nja hetken levittymistä yli viisareiden kulun.</pre>"
     },
     {
       "id": "80",
@@ -700,7 +700,7 @@
         166,
         143
       ],
-      "content": "<pre class=\"poemtext\">\n\n<span class=\"poemtitle\">Koettujen maailmojen trapetsi</span>\n\nPelon ja halun,\nArkuuden ja tarpeen,\nHaavoittuvaisuuden ja hoivan\nvälille viritetty vaijeri.\n\nTuulinen, viileä kanjoni,\njota kävellä kaksoistornilta toiselle,\nvielä kun molemmat seisovat omilla jaloillaan.</pre>"
+      "content": "<pre class=\"poemtext\">\n\n<span class=\"poemtitle\">Koettujen maailmojen trapetsi</span>\n\nPelon ja halun,\narkuuden ja tarpeen,\nhaavoittuvaisuuden ja hoivan\nvälille viritetty vaijeri.\n\nTuulinen, viileä kanjoni,\njota kävellä kaksoistornilta toiselle,\nvielä kun molemmat seisovat omilla jaloillaan.</pre>"
     },
     {
       "id": "81",
@@ -718,7 +718,7 @@
         56,
         83
       ],
-      "content": "<pre class=\"poemtext\">\n\n<span class=\"poemtitle\">Teatteri</span>\n\nJo taakse jääneet taustakankaat\nkaatuvat  uudelleen\n\nLavalla askelten edessä,\nKuoppaansa kaatuneen kuiskaajan yllä.\n\nLäpi pitkittyneen poltteen,\npimeän reunojen kytätessä viimeistä kipinää.</pre>"
+      "content": "<pre class=\"poemtext\">\n\n<span class=\"poemtitle\">Teatteri</span>\n\nJo taakse jääneet taustakankaat\nkaatuvat  uudelleen\n\nlavalla askelten edessä,\nkuoppaansa kaatuneen kuiskaajan yllä.\n\nLäpi pitkittyneen poltteen,\npimeän reunojen kytätessä viimeistä kipinää.</pre>"
     },
     {
       "id": "83",
@@ -745,7 +745,7 @@
         33,
         181
       ],
-      "content": "<pre class=\"poemtext\">\n\n<span class=\"poemtitle\">Pyyntö</span>\n\nVäritä minut kirkkaaksi hiotulla kielelläsi\nKaiverra minut karkaistun katseesi kärjellä\nYmpäröi minut käsiesi kiertyvällä kehällä\n\nkunnes kylmäni väistyy.</pre>"
+      "content": "<pre class=\"poemtext\">\n\n<span class=\"poemtitle\">Pyyntö</span>\n\nVäritä minut kirkkaaksi hiotulla kielelläsi.\nKaiverra minut karkaistun katseesi kärjellä.\nYmpäröi minut käsiesi kiertyvällä kehällä,\n\nkunnes kylmäni väistyy.</pre>"
     },
     {
       "id": "86",
@@ -754,7 +754,7 @@
         148,
         265
       ],
-      "content": "<pre class=\"poemtext\">\n\n<span class=\"poemtitle\">Mosaiikkiseinä</span>\n\nPaperinohut kalvo välissämme\n\nyhteisillä sanoilla merkitty,\nomilla merkityksillä täytetty.\n\nKaikki se, mikä\nyhdistää\nerottaa\nhämmentää\nkirkastaa\npolttaa\nkylmää\n\nkietoo yhteen,\nsynnyttää arpemme ja lapsemme,\njoita toisillemme jaamme.</pre>"
+      "content": "<pre class=\"poemtext\">\n\n<span class=\"poemtitle\">Mosaiikkiseinä</span>\n\nPaperinohut kalvo välissämme,\n\nyhteisillä sanoilla merkitty,\nomilla merkityksillä täytetty.\n\nKaikki se, mikä\nyhdistää,\nerottaa,\nhämmentää,\nkirkastaa,\npolttaa,\nkylmää,\n\nkietoo yhteen.\n\nSynnyttää arpemme ja lapsemme,\njoita toisillemme jaamme.</pre>"
     },
     {
       "id": "87",
@@ -763,7 +763,7 @@
         20,
         81
       ],
-      "content": "<pre class=\"poemtext\">\n\n<span class=\"poemtitle\">Vaskooli</span>\n\nYhä terävämmäksi  ajan kynällä piirtyvä kartta\nSilti aina sameampaa vettä.\n\nNiin kirkkaana pinnalle kerran vedetty elämän viiva ohenee ohenemistaan.\n\nKäsissä pohjamutaa.\n\nPainoa.\n\nLyijyä tai kultaa,\nMene tai tiedä.</pre>"
+      "content": "<pre class=\"poemtext\">\n\n<span class=\"poemtitle\">Vaskooli</span>\n\nYhä terävämmäksi  ajan kynällä piirtyvä kartta,\nsilti aina sameampaa vettä.\n\nNiin kirkkaana pinnalle kerran vedetty elämän viiva ohenee ohenemistaan.\n\nKäsissä pohjamutaa.\n\nPainoa.\n\nLyijyä tai kultaa,\nMene tai tiedä.</pre>"
     },
     {
       "id": "88",
@@ -772,7 +772,7 @@
         202,
         77
       ],
-      "content": "<pre class=\"poemtext\">\n\n<span class=\"poemtitle\">Kaappari</span>\n\nLäpi ajatusrakennelmien raivoisasti singotut kiinnityshaat\nFilosofiaa,\nTeologiaa,\nJärjen oletettua valoa,\nPimeässä tapahtuvaa luonnonvalintaa.\n\nPalaavia peilinpalasia, joista näkyy ainoastaan\nihmisen savuisia kylkiä ja pakaran palasia.\n\nKaiken jälkeen suussa kurittomasti kaikkialle kurkoitteleva koditon kieli.</pre>"
+      "content": "<pre class=\"poemtext\">\n\n<span class=\"poemtitle\">Kaappari</span>\n\nLäpi ajatusrakennelmien raivoisasti singotut kiinnityshaat.\n\nFilosofiaa,\nteologiaa,\njärjen oletettua valoa,\npimeässä tapahtuvaa luonnonvalintaa.\n\nPalaavia peilinpalasia, joista näkyy ainoastaan\nihmisen savuisia kylkiä ja pakaran palasia.\n\nKaiken jälkeen suussa kurittomasti kaikkialle kurkoitteleva koditon kieli.</pre>"
     },
     {
       "id": "89",
@@ -781,7 +781,7 @@
         277,
         194
       ],
-      "content": "<pre class=\"poemtext\">\n\n<span class=\"poemtitle\">Kokoontuminen</span>\n\nToistemme sinkoilevien pyrstötähtien pyydystäjiä\n\nPimenevissä illoissamme\nöittemme edessä\n\nkuvajaisiimme tarrautujia\nuskomme rakentajia\n\ntorniemme kasaajia,\nkäsissänsä jälleen yksi\njaettujen jalkojen etsijä.</pre>"
+      "content": "<pre class=\"poemtext\">\n\n<span class=\"poemtitle\">Kokoontuminen</span>\n\nToistemme sinkoilevien pyrstötähtien pyydystäjiä.\n\nPimenevissä illoissamme,\nöittemme edessä.\n\nKuvajaisiimme tarrautujia,\nuskomme rakentajia.\n\nTorniemme kasaajia.\nkäsissänsä jälleen yksi\njaettujen jalkojen etsijä.</pre>"
     },
     {
       "id": "90",
@@ -808,7 +808,7 @@
         63,
         70
       ],
-      "content": "<pre class=\"poemtext\">\n\n<span class=\"poemtitle\">Jääkonehuone</span>\n\nKuvajaiseksi haalistunut lapiomies\nAjastaan ulos harhautunut\n\nlapiossaan koksin sijaan selkäytimen nielemiä käyttäytymismalleja.\n\nHeitettäväksi lämmityskattilaan, jolla\nyrittää loppuun asti pitää numeroitujen ovien takana olevat elintoiminnot ominaan.</pre>"
+      "content": "<pre class=\"poemtext\">\n\n<span class=\"poemtitle\">Jääkonehuone</span>\n\nKuvajaiseksi haalistunut lapiomies,\najastaan ulos harhautunut.\n\nLapiossaan koksin sijaan selkäytimen nielemiä käyttäytymismalleja.\n\nHeitettäväksi lämmityskattilaan, jolla\nyrittää loppuun asti pitää numeroitujen ovien takana olevat elintoiminnot ominaan.</pre>"
     },
     {
       "id": "93",
@@ -817,7 +817,7 @@
         256,
         181
       ],
-      "content": "<pre class=\"poemtext\">\n\n<span class=\"poemtitle\">Taivaskatu</span>\n\nSinä sanot\nminä huudan\n\nSinä palat\nminä näen\n\nme koemme\nminä elän\n\nme olimme.\n\nminä olen.</pre>"
+      "content": "<pre class=\"poemtext\">\n\n<span class=\"poemtitle\">Taivaskatu</span>\n\nSinä sanot,\nminä huudan\n\nSinä palat,\nminä näen\n\nme koemme,\nminä elän\n\nme olimme.\n\nminä olen.</pre>"
     },
     {
       "id": "94",
@@ -835,7 +835,7 @@
         112,
         247
       ],
-      "content": "<pre class=\"poemtext\">\n\n<span class=\"poemtitle\">Luukappeli</span>\n\nTunnustelevien sormien mentävät\neletyn rintaan kaivertamat kolot\n\nJoissa muistot pesivät\n\nTörmässä, jota aika\nsyö pala palalta\n\nKohti   korkeammalle\nkurkottelevaa ilmaa.</pre>"
+      "content": "<pre class=\"poemtext\">\n\n<span class=\"poemtitle\">Luukappeli</span>\n\nTunnustelevien sormien mentävät,\neletyn rintaan kaivertamat kolot,\n\njoissa muistot pesivät.\n\nTörmässä, jota aika\nsyö pala palalta\n\nkohti korkeammalle\nkurkottelevaa ilmaa.</pre>"
     },
     {
       "id": "96",
@@ -853,7 +853,7 @@
         34,
         196
       ],
-      "content": "<pre class=\"poemtext\">\n\n<span class=\"poemtitle\">Iilimadot</span>\n\nVäljähtäneessä vedessä kiertelevät\nmieleltä karanneet\npäämääräänsä löytämättömät tunteet.\n\nLikaisen sateenkaaren värjäämät\nnilkkatahrat paljastetussa kastetussa jalassa\nkuolemaan laskevassa joessa.</pre>"
+      "content": "<pre class=\"poemtext\">\n\n<span class=\"poemtitle\">Iilimadot</span>\n\nVäljähtäneessä vedessä kiertelevät,\nmieleltä karanneet,\npäämääräänsä löytämättömät tunteet.\n\nLikaisen sateenkaaren värjäämät\nnilkkatahrat paljastetussa kastetussa jalassa\nkuolemaan laskevassa joessa.</pre>"
     },
     {
       "id": "98",
@@ -862,7 +862,7 @@
         163,
         192
       ],
-      "content": "<pre class=\"poemtext\">\n\n<span class=\"poemtitle\">Perhoskaari</span>\n\nRunsain jaloin,\npaksuin nahoin,\nPiikki koholla\n\nKirkkaan hahmottoman\nnesteen läpi\n\nkohti itselle\nkoristeltuja siipiä,\njotka jo naulakossa nimettynä odottavat.</pre>"
+      "content": "<pre class=\"poemtext\">\n\n<span class=\"poemtitle\">Perhoskaari</span>\n\nRunsain jaloin,\npaksuin nahoin,\npiikki koholla.\n\nKirkkaan hahmottoman\nnesteen läpi,\n\nkohti itselle\nkoristeltuja siipiä,\njotka jo naulakossa nimettynä odottavat.</pre>"
     },
     {
       "id": "99",
@@ -871,7 +871,7 @@
         62,
         161
       ],
-      "content": "<pre class=\"poemtext\">\n\n<span class=\"poemtitle\">Katarsis</span>\n\nRusikoitu murhe\nKatseen kirkastava ajatusten vuotama\n\nhurme,\njonka vihaksi vaatetettu\ntuulelle uhrattu\n\njuova\nkirjoittaa ilmaan\n\nparantolan huutavaksi portiksi,\npieneksi pusertuneen mustuneen mielen käydä\n\nja unohtaa.</pre>"
+      "content": "<pre class=\"poemtext\">\n\n<span class=\"poemtitle\">Katarsis</span>\n\nRusikoitu murhe,\nkatseen kirkastava ajatusten vuotama\n\nhurme,\njonka vihaksi vaatetettu,\ntuulelle uhrattu\n\njuova\nkirjoittaa ilmaan.\n\nParantolan huutavaksi portiksi,\npieneksi pusertuneen mustuneen mielen käydä\n\nja unohtaa.</pre>"
     },
     {
       "id": "100",
@@ -880,7 +880,7 @@
         90,
         56
       ],
-      "content": "<pre class=\"poemtext\">\n\n<span class=\"poemtitle\">Aral</span>\n\nKuivettuneet kanavat,\nsuolaantuneet silmät.\n\nKöli dyynin harjan päällä\nkeikkumassa\nkeulakuva\naurinkoa kohti\n\nPolte huulilla\nSen\ntippuvat rohteet.</pre>"
+      "content": "<pre class=\"poemtext\">\n\n<span class=\"poemtitle\">Aral</span>\n\nKuivettuneet kanavat,\nsuolaantuneet silmät.\n\nKöli dyynin harjan päällä\nkeikkumassa,\nkeulakuva\naurinkoa kohti.\n\nPolte huulilla,\nsen\ntippuvat rohteet.</pre>"
     },
     {
       "id": "101",
@@ -889,7 +889,7 @@
         234,
         200
       ],
-      "content": "<pre class=\"poemtext\">\n\n<span class=\"poemtitle\">Valokaivo</span>\n\nTyhjyydessä eivät aallot käy\nLampussa, jonka sisään siivekkäät kuolevat\nliialliseen kirkkauteen.</pre>"
+      "content": "<pre class=\"poemtext\">\n\n<span class=\"poemtitle\">Valokaivo</span>\n\nTyhjyydessä eivät aallot käy,\nlampussa, jonka sisään siivekkäät kuolevat\nliialliseen kirkkauteen.</pre>"
     },
     {
       "id": "102",
@@ -898,7 +898,7 @@
         174,
         65
       ],
-      "content": "<pre class=\"poemtext\">\n\n<span class=\"poemtitle\">Routasorkkaeläin</span>\n\nRaivostuneet tuulikynnet\nrepivät\nmielen saranoita sijoiltaan.\n\nKasvettuaan kuvitelmien\nkasvattamina\nkasvattajaansa suuremmiksi.\n\nKarkaavat\naukkopihoille\netsimään hetkensä kokoisia kohteita.\n\nLohtuverkkoja,\njoihin tapulin lepakot\nennättävät tarttua\n\nennenkuin kello lyö keskiyötään.</pre>"
+      "content": "<pre class=\"poemtext\">\n\n<span class=\"poemtitle\">Routasorkkaeläin</span>\n\nRaivostuneet tuulikynnet\nrepivät\nmielen saranoita sijoiltaan.\n\nKasvettuaan kuvitelmien\nkasvattamina\nkasvattajaansa suuremmiksi.\n\nKarkaavat\naukkopihoille\netsimään hetkensä kokoisia kohteita.\n\nLohtuverkkoja,\njoihin tapulin lepakot\nennättävät tarttua\n\nennen kuin kello lyö keskiyötään.</pre>"
     },
     {
       "id": "103",
@@ -907,7 +907,7 @@
         191,
         133
       ],
-      "content": "<pre class=\"poemtext\">\n\n<span class=\"poemtitle\">Viipyjä</span>\n\nMuistot kuljettavat oman tarkoituksensa\ntyhjien hetkiensä yli.\n\nJättävät pimeät laaksonsa\nkauas siipiensä alle.\n\nPitävät itsensä elossa\ntakaraivollaan\nja kääntyvillä korvillaan,\n\njotka poimivat elävien aaveidensa\nviitteet\nitselleen kuolleiden elävien joukosta.</pre>"
+      "content": "<pre class=\"poemtext\">\n\n<span class=\"poemtitle\">Viipyjä</span>\n\nMuistot kuljettavat oman tarkoituksensa\ntyhjien hetkiensä yli.\n\nJättävät pimeät laaksonsa\nkauas siipiensä alle.\n\nPitävät itsensä elossa\ntakaraivollaan\nja kääntyvillä korvillaan,\n\njotka poimivat elävien aaveidensa\nviitteet\nkuolleiden elävien joukosta.</pre>"
     },
     {
       "id": "104",
@@ -952,7 +952,7 @@
         72,
         39
       ],
-      "content": "<pre class=\"poemtext\">\n\n<span class=\"poemtitle\">Irroittautuminen</span>\n\nHarkinnan\nkatveesta\npäivän valoon\n\nkarkaavat tunteen\nilmaukset\nheiluttelevat\nherransa ja hidalgonsa\nirti\nhyhmästä\n\ntempoilevat,\nrepivät liekojaan,\npyrkiessään kaula pitkällä\nmerkityksellisen\nkohteensa luo\n\nyli niiden mielen miinakenttien,\njoille talvehtineet sananjalat katkeilevat.</pre>"
+      "content": "<pre class=\"poemtext\">\n\n<span class=\"poemtitle\">Irroittautuminen</span>\n\nHarkinnan\nkatveesta\npäivän valoon\n\nkarkaavat tunteen\nilmaukset\nheiluttelevat\nherransa ja hidalgonsa\nirti\nhyhmästä.\n\nTempoilevat,\nrepivät liekojaan,\npyrkiessään kaula pitkällä\nmerkityksellisen\nkohteensa luo\n\nyli niiden mielen miinakenttien,\njoille talvehtineet sananjalat katkeilevat.</pre>"
     },
     {
       "id": "109",
@@ -961,7 +961,7 @@
         179,
         62
       ],
-      "content": "<pre class=\"poemtext\">\n\n<span class=\"poemtitle\">Elohopeasurffari</span>\n\nSuhteellisuudentaju nostaa\nraskaaksi käyneen isäntänsä\njalati hetkeksi ilmaan.\n\nPuhaltaakseen keveyden\nkorvakäytäviä pitkin\nmielen poimujen väleihin.\n\nJotta  ilma pääsee\njälleen kiertämään\n\nilman niitä henkisiä happiviiksiä,\njotka oli lainattu vaivalla pystytetyiltä\najatusrakennelmilta.</pre>"
+      "content": "<pre class=\"poemtext\">\n\n<span class=\"poemtitle\">Elohopeasurffari</span>\n\nSuhteellisuudentaju nostaa\nraskaaksi käyneen isäntänsä\njalat hetkeksi ilmaan.\n\nPuhaltaakseen keveyden\nkorvakäytäviä pitkin\nmielen poimujen väleihin.\n\nJotta  ilma pääsee\njälleen kiertämään\n\nilman niitä henkisiä happiviiksiä,\njotka oli lainattu vaivalla pystytetyiltä\najatusrakennelmilta.</pre>"
     },
     {
       "id": "110",
@@ -997,7 +997,7 @@
         240,
         78
       ],
-      "content": "<pre class=\"poemtext\">\n\n<span class=\"poemtitle\">Käpälälauta</span>\n\nUteliaisuus malttamaton  juoksee\nhätäiset jalkansa\naltaan väsymyksen\nsyliin,\n\nuuttaa tyydyttämättömän nälkänsä\nsynnyttämästä kiireestä\nepähuomiossa kyllästysaineen,\njolla\n\nVälinpitämättömyydeksi itsensä\nmuuttanut uskoteltu ymmärrys\ntahattomasti itsensä pinnoittaa\n\nsinisen hetken sisälle,\nviileään rauhaan,\nlämpökameran\nlinssin taakse.</pre>"
+      "content": "<pre class=\"poemtext\">\n\n<span class=\"poemtitle\">Käpälälauta</span>\n\nUteliaisuus malttamaton  juoksee\nhätäiset jalkansa\naltaan väsymyksen\nsyliin,\n\nuuttaa tyydyttämättömän nälkänsä\nsynnyttämästä kiireestä\nepähuomiossa kyllästysaineen,\njolla\n\nvälinpitämättömyydeksi itsensä\nmuuttanut uskoteltu ymmärrys\ntahattomasti itsensä pinnoittaa\n\nsinisen hetken sisälle,\nviileään rauhaan,\nlämpökameran\nlinssin taakse.</pre>"
     },
     {
       "id": "114",
@@ -1024,7 +1024,7 @@
         201,
         278
       ],
-      "content": "<pre class=\"poemtext\">\n\n<span class=\"poemtitle\">Uskosta</span>\n\nMerkitys löytää\naina uudelleen\ntämän ihmisensä luo\ntämän niin halutessaan,\n\naina\n\nkärsivällisyyden halki,\n\naina\n\nluottamuksen varassa.</pre>"
+      "content": "<pre class=\"poemtext\">\n\n<span class=\"poemtitle\">Uskosta</span>\n\nMerkitys löytää\naina uudelleen\ntämän ihmisensä luo\ntämän niin halutessaan,\n\naina\nkärsivällisyyden halki,\n\naina\nluottamuksen varassa.</pre>"
     },
     {
       "id": "117",
@@ -1033,7 +1033,7 @@
         147,
         120
       ],
-      "content": "<pre class=\"poemtext\">\n\n<span class=\"poemtitle\">Sekasikiö</span>\n\nLokeroimattomuuden perkele\nvarustaa kauniit pakanalapsensa\n\nKaiikilla mahdollisilla aromaattisilla aseilla,\njotka sotkuisesta keittokomerostaan löytää.\n\nKompensoi synnyttämiään vatsaoireita\nmiljoonilla makunystyröillä\nja\nkatseen loppumattomuudella.</pre>"
+      "content": "<pre class=\"poemtext\">\n\n<span class=\"poemtitle\">Sekasikiö</span>\n\nLokeroimattomuuden perkele\nvarustaa kauniit pakanalapsensa\n\nkaikilla mahdollisilla aromaattisilla aseilla,\njotka sotkuisesta keittokomerostaan löytää.\n\nKompensoi synnyttämiään vatsaoireita\nmiljoonilla makunystyröillä\nja\nkatseen loppumattomuudella.</pre>"
     },
     {
       "id": "118",
@@ -1060,7 +1060,7 @@
         9,
         201
       ],
-      "content": "<pre class=\"poemtext\">\n\n<span class=\"poemtitle\">Kyltymättömät kurimukset</span>\n\nKokemusten kulottaessa\nhavaintojen voimakenttää\n\nliekillään,\njonka mielivät antaa\nmielellään roihuta.\n\nAmmentavat elämyksiään\nnälkäänsä ja janoonsa,\njotka\najokoirikseen ovat kouluttaneet\n\nPakonomaisessa pyörteessään,\n\njosta elämänpesänsä\nkasaavat aina avonaisille\nkurkotteleville suilleen.</pre>"
+      "content": "<pre class=\"poemtext\">\n\n<span class=\"poemtitle\">Kyltymättömät kurimukset</span>\n\nKokemusten kulottaessa\nhavaintojen voimakenttää\n\nliekillään,\njonka mielivät antaa\nmielellään roihuta.\n\nAmmentavat elämyksiään\nnälkäänsä ja janoonsa,\njotka\najokoirikseen ovat kouluttaneet.\n\nPakonomaisessa pyörteessään,\n\njosta elämänpesänsä\nkasaavat aina avonaisille\nkurkotteleville suilleen.</pre>"
     },
     {
       "id": "121",
@@ -1096,7 +1096,7 @@
         78,
         240
       ],
-      "content": "<pre class=\"poemtext\">\n\n<span class=\"poemtitle\">Kotiinpaluu</span>\n\nEnää\nvain ajatuksien jaloista roikkuvat tunteet\n\nTipahtelevat yksitellen,\nväsyvät,\notteensa kirvottua\nvähitellen unohdetulle iholle,\n\njosta kaunis kosketus\nne vielä virvoittelee\n\nomille jaloilleen\nkävelemään takaisin sijoilleen\n\noman pään kautta\nalas\ntyhjäksi hetkeksi\nennättäneen\nsydämen sisään.</pre>"
+      "content": "<pre class=\"poemtext\">\n\n<span class=\"poemtitle\">Kotiinpaluu</span>\n\nEnää\nvain ajatuksien jaloista roikkuvat tunteet\n\ntipahtelevat yksitellen,\nväsyvät,\notteensa kirvottua\nvähitellen unohdetulle iholle,\n\njosta kaunis kosketus\nne vielä virvoittelee\n\nomille jaloilleen\nkävelemään takaisin sijoilleen\n\noman pään kautta\nalas\ntyhjäksi hetkeksi\nennättäneen\nsydämen sisään.</pre>"
     },
     {
       "id": "125",
@@ -1114,7 +1114,7 @@
         244,
         224
       ],
-      "content": "<pre class=\"poemtext\">\n\n<span class=\"poemtitle\">Harhahetki</span>\n\nRakenteissa resonoiva kyimä\nsana sanalta\nkovettuva puheensorina\n\nViereisistä pöydistä,\njoissa keskustelu asuu\n\nomien erakoituneiden ajatusteni tuolla puolen\n\npuhkoen reikiä kärpäspaperiin,\njohon itseänsä joutilaisuuttaan kirjoittaa.</pre>"
+      "content": "<pre class=\"poemtext\">\n\n<span class=\"poemtitle\">Harhahetki</span>\n\nRakenteissa resonoiva kyimä\nsana sanalta\nkovettuva puheensorina.\n\nViereisistä pöydistä,\njoissa keskustelu asuu\n\nomien erakoituneiden ajatusteni tuolla puolen\n\npuhkoen reikiä kärpäspaperiin,\njohon itseänsä joutilaisuuttaan kirjoittaa.</pre>"
     },
     {
       "id": "127",
@@ -1132,7 +1132,7 @@
         16,
         106
       ],
-      "content": "<pre class=\"poemtext\">\n\n<span class=\"poemtitle\">Petrolikynnet</span>\n\nPimeydessä\nselkäänsä\nkiipeävät kädet\n\nJoiden kymmenpään kärjessä\nauringossa kastetut\nskorpioninhännät\n\nValmiina piirtämään\nkarmiininpunaiset siivet\nselkäpiin ympärille.</pre>"
+      "content": "<pre class=\"poemtext\">\n\n<span class=\"poemtitle\">Petrolikynnet</span>\n\nPimeydessä\nselkäänsä\nkiipeävät kädet\n\nJoiden kymmenpään kärjessä\nauringossa kastetut\nskorpioninhännät\n\nvalmiina piirtämään\nkarmiininpunaiset siivet\nselkäpiin ympärille.</pre>"
     },
     {
       "id": "129",
@@ -1141,7 +1141,7 @@
         77,
         178
       ],
-      "content": "<pre class=\"poemtext\">\n\n<span class=\"poemtitle\">Oudoksuja</span>\n\nYmmälleen mennyt\nymmärrys.\n\nKatkennut jo niin monesta kohtaa,\nettä on menettänyt pintajännitteensä\non kiertynyt tiukalle kerälle itsensä ympärille\n\nOn\nmuuttunut vieraaksi\nomassa maailmassaan.\n\nOn\nvaihtanut\ntanssikenkänsä\nvahingossa\nlautassilmiin\njotka\non on\nsyönyt tyhjiksi.</pre>"
+      "content": "<pre class=\"poemtext\">\n\n<span class=\"poemtitle\">Oudoksuja</span>\n\nYmmälleen mennyt\nymmärrys.\n\nKatkennut jo niin monesta kohtaa,\nettä on menettänyt pintajännitteensä\non kiertynyt tiukalle kerälle itsensä ympärille.\n\nOn\nmuuttunut vieraaksi\nomassa maailmassaan.\n\nOn\nvaihtanut\ntanssikenkänsä\nvahingossa\nlautassilmiin\njotka\non on\nsyönyt tyhjiksi.</pre>"
     },
     {
       "id": "130",
@@ -1177,7 +1177,7 @@
         10,
         103
       ],
-      "content": "<pre class=\"poemtext\">\n\n<span class=\"poemtitle\">Amok komA</span>\n\nHaaveensa päältään riisuneet aaveet\n\nKuulluissa lauseissa kulkevat, kolisevat.\n\nAjan sisään piiloutuneet,\najan alta esiin paljastuvat.\n\nJalkapohjia pois polttelevat.</pre>"
+      "content": "<pre class=\"poemtext\">\n\n<span class=\"poemtitle\">Amok komA</span>\n\nHaaveensa päältään riisuneet aaveet\n\nkuulluissa lauseissa kulkevat, kolisevat.\n\nAjan sisään piiloutuneet,\najan alta esiin paljastuvat.\n\nJalkapohjia pois polttelevat.</pre>"
     },
     {
       "id": "134",
@@ -1186,7 +1186,7 @@
         45,
         56
       ],
-      "content": "<pre class=\"poemtext\">\n\n<span class=\"poemtitle\">Pässi</span>\n\nMysteereistään kuihtunut matkalainen\n\nUnettoman metsänsä\nvaloisassa yössä.\n\nKerää\nmaahan pudonneet lorunsa\nliimakseen,\n\njolla kiinnittää talven edeltä tippuneet runsaudensarvensa\ntakaisin keväisille ohimoilleen.</pre>"
+      "content": "<pre class=\"poemtext\">\n\n<span class=\"poemtitle\">Pässi</span>\n\nMysteereistään kuihtunut matkalainen\n\nunettoman metsänsä\nvaloisassa yössä.\n\nKerää\nmaahan pudonneet lorunsa\nliimakseen,\n\njolla kiinnittää talven edeltä tippuneet runsaudensarvensa\ntakaisin keväisille ohimoilleen.</pre>"
     },
     {
       "id": "135",
@@ -1222,7 +1222,7 @@
         148,
         27
       ],
-      "content": "<pre class=\"poemtext\">\n\n<span class=\"poemtitle\">Vampyyrit</span>\n\nKuljetamme sormiamme\nlasisilla kauloillamme\n\npaljastetuilla suonillamme\n\nkun olemme hauraita\nja herkkiä\n\ntoistemme suihin vuotavia\navohaavoja,\n\njotka toisemme ruokkivat.</pre>"
+      "content": "<pre class=\"poemtext\">\n\n<span class=\"poemtitle\">Vampyyrit</span>\n\nKuljetamme sormiamme\nlasisilla kauloillamme\n\npaljastetuilla suonillamme,\n\nkun olemme hauraita\nja herkkiä\n\ntoistemme suihin vuotavia\navohaavoja,\n\njotka toisemme ruokkivat.</pre>"
     },
     {
       "id": "139",
@@ -1276,7 +1276,7 @@
         244,
         284
       ],
-      "content": "<pre class=\"poemtext\">\n\n<span class=\"poemtitle\">Kalahari</span>\n\nYritän pyydystää kurkkuusi juuttunutta puhettasi laajentuneilla pupilleillani\n\nÄäneti,\nlaajentuneiden pupilliesi edessä\n\nkantokykynsä kadottaneiden sanojen hautausmaalla, jollle vanhaksi käyneet elefantit käyvät\nsyöksyhampaansa salametsästäjille menettäneinä,\n\nvenyneet kielensä hirttyneinä\naurinkoon liiaksi kurkoittautuneiden puiden kuivuneisiin lehdettömiin oksiin.</pre>"
+      "content": "<pre class=\"poemtext\">\n\n<span class=\"poemtitle\">Kalahari</span>\n\nYritän pyydystää kurkkuusi juuttunutta puhettasi laajentuneilla pupilleillani\n\nÄäneti,\nlaajentuneiden pupilliesi edessä.\n\nKantokykynsä kadottaneiden sanojen hautausmaalla, jollle vanhaksi käyneet elefantit käyvät\nsyöksyhampaansa salametsästäjille menettäneinä,\n\nvenyneet kielensä hirttyneinä\naurinkoon liiaksi kurkoittautuneiden puiden kuivuneisiin lehdettömiin oksiin.</pre>"
     },
     {
       "id": "145",
@@ -1285,7 +1285,7 @@
         77,
         88
       ],
-      "content": "<pre class=\"poemtext\">\n\n<span class=\"poemtitle\">Loppukielipeli</span>\n\nLogiikasta  irti väännellyt ja käännellyt virkkeet\nkuskattuina kirkasotsaisuuden romuttamolle,\n\njossa puheen purkupojat puuhailevat\npovitaskut pulloillaan\n\nItseään historian kuvastimesta ihailevien\nhuorakuninkaiden hovinarreina.</pre>"
+      "content": "<pre class=\"poemtext\">\n\n<span class=\"poemtitle\">Loppukielipeli</span>\n\nLogiikasta  irti väännellyt ja käännellyt virkkeet\nkuskattuina kirkasotsaisuuden romuttamolle,\n\njossa puheen purkupojat puuhailevat\npovitaskut pulloillaan\n\nitseään historian kuvastimesta ihailevien\nhuorakuninkaiden hovinarreina.</pre>"
     },
     {
       "id": "146",
@@ -1348,7 +1348,7 @@
         20,
         249
       ],
-      "content": "<pre class=\"poemtext\">\n\n<span class=\"poemtitle\">Luoto</span>\n\nOlet paljas,\npuhurien päältä kulkema.\n\nOlet avoin,\nsyvien vesien ympäröimä.\n\nSinua vasten aallot\nmurtuvat.\n\nSinulle ihmiset\nmajakkamme rakentavat.</pre>"
+      "content": "<pre class=\"poemtext\">\n\n<span class=\"poemtitle\">Luoto</span>\n\nOlet paljas,\npuhurien päältä kulkema.\n\nOlet avoin,\nsyvien vesien ympäröimä.\n\nSinua vasten aallot\nmurtuvat.\n\nSinulle ihmiset\nmajakkansa rakentavat.</pre>"
     },
     {
       "id": "153",
@@ -1420,7 +1420,7 @@
         72,
         50
       ],
-      "content": "<pre class=\"poemtext\">\n\n<span class=\"poemtitle\">Naali</span>\n\nKasvot\nahavan uurteilla koristamat\n\nKatse\nkylmien hetkien kirkastama\n\nLämmin veri\nvirtana kielen päällä\n\nHampaat\nhaudattuina\nsyvälle\nharvojen\nsaaliseläinten\nluihin ja ytimiin.</pre>"
+      "content": "<pre class=\"poemtext\">\n\n<span class=\"poemtitle\">Naali</span>\n\nKasvot\nahavan uurteilla koristamat.\n\nKatse\nkylmien hetkien kirkastama.\n\nLämmin veri\nvirtana kielen päällä.\n\nHampaat\nhaudattuina\nsyvälle\nharvojen\nsaaliseläinten\nluihin ja ytimiin.</pre>"
     },
     {
       "id": "161",
@@ -1510,7 +1510,7 @@
         191,
         139
       ],
-      "content": "<pre class=\"poemtext\">\n\n<span class=\"poemtitle\">Rivien väleissä</span>\n\nNiissä elämäni pienissä\nkuolemieni laaksoissa,\n\njoihin kauniit muistikuvat\njaetuista hetkistämme\nvielä yltävät\n\nmutta joihin\nmielikuvat tulevista jaetuista hetkistämme\neivät ole vielä löytäneet\n\nvain ikävä ojentaa kätensä\nmustasta aukostaan\nylös kapuajan\nkiinni pideltäväksi.</pre>"
+      "content": "<pre class=\"poemtext\">\n\n<span class=\"poemtitle\">Rivien väleissä</span>\n\nNiissä elämäni pienissä\nkuolemieni laaksoissa,\n\njoihin kauniit muistikuvat\njaetuista hetkistämme\nvielä yltävät\n\nmutta joihin\nmielikuvat tulevista jaetuista hetkistämme\neivät ole vielä löytäneet,\n\nvain ikävä ojentaa kätensä\nmustasta aukostaan\nylös kapuajan\nkiinni pideltäväksi.</pre>"
     },
     {
       "id": "171",
@@ -1519,7 +1519,7 @@
         185,
         97
       ],
-      "content": "<pre class=\"poemtext\">\n\n<span class=\"poemtitle\">Me kuivettujat</span>\n\nYritämme satuttaa jalkamme\nsamojen sateiden pisaroihin\n\netteivät kosteikot\nkatoaisi\nyhteisten kertomustemme alta.</pre>"
+      "content": "<pre class=\"poemtext\">\n\n<span class=\"poemtitle\">Me kuivettujat</span>\n\nYritämme satuttaa jalkamme\nsamojen sateiden pisaroihin,\n\netteivät kosteikot\nkatoaisi\nyhteisten kertomustemme alta.</pre>"
     },
     {
       "id": "172",
@@ -1528,7 +1528,7 @@
         24,
         22
       ],
-      "content": "<pre class=\"poemtext\">\n\n<span class=\"poemtitle\">Entropiamatkaaja</span>\n\nAnnan\nrikkoutua\nkaikkien\nkäsiini saamieni\nsoittorasioideni\n\nlöytääkseni\nloputtomia puuttuvia rattaitani\n\njoiden avulla virittää\nkellokoneistoani käymään\nvielä vain\nhajanaisia hetkiäni\ntarkemmin.</pre>"
+      "content": "<pre class=\"poemtext\">\n\n<span class=\"poemtitle\">Entropiamatkaaja</span>\n\nAnnan\nrikkoutua\nkaikkien\nkäsiini saamieni\nsoittorasioideni\n\nlöytääkseni\nloputtomia puuttuvia rattaitani,\n\njoiden avulla virittää\nkellokoneistoani käymään\nvielä vain\nhajanaisia hetkiäni\ntarkemmin.</pre>"
     },
     {
       "id": "173",
@@ -1537,7 +1537,7 @@
         55,
         170
       ],
-      "content": "<pre class=\"poemtext\">\n\n<span class=\"poemtitle\">Saattajat</span>\n\nKorvakäytäviini kaivautuneet aiemmat kuiskauksesi\nKieleni päälle kiivenneet lainasanasi\n\nTaluttavat erossa olevat ajatukseni\nhiljaisten hetkieni tuolle puolen\n\nSaattavat odottelemaan\nunohduksen kuilumme reunalle,\n\njolla sillanrakentajamme\nvielä jo operoivat.</pre>"
+      "content": "<pre class=\"poemtext\">\n\n<span class=\"poemtitle\">Saattajat</span>\n\nKorvakäytäviini kaivautuneet aiemmat kuiskauksesi.\nKieleni päälle kiivenneet lainasanasi.\n\nTaluttavat erossa olevat ajatukseni\nhiljaisten hetkieni tuolle puolen.\n\nSaattavat odottelemaan\nunohduksen kuilumme reunalle,\n\njolla sillanrakentajamme\nvielä jo operoivat.</pre>"
     },
     {
       "id": "174",
@@ -1546,7 +1546,7 @@
         102,
         212
       ],
-      "content": "<pre class=\"poemtext\">\n\n<span class=\"poemtitle\">Häkinsärkijä</span>\n\nRistiin luutuneiden\nkylkiluideni väleistä\nristeilevät\nkarkuun\ntoiveet,\njoilla on tarpeilta\nlainatut hännät,\n\nkosiskelevat\nhunajalla kuorrutetulla\nmuurinmurtajallaan\nviereisiään\n\nsynnyttävät\ntuuliset pihat,\njoilta tunteeni kerätään.</pre>"
+      "content": "<pre class=\"poemtext\">\n\n<span class=\"poemtitle\">Häkinsärkijä</span>\n\nRistiin luutuneiden\nkylkiluideni väleistä\nristeilevät\nkarkuun\ntoiveet,\njoilla on tarpeilta\nlainatut hännät.\n\nKosiskelevat\nhunajalla kuorrutetulla\nmuurinmurtajallaan\nviereisiään.\n\nSynnyttävät\ntuuliset pihat,\njoilta tunteeni kerätään.</pre>"
     },
     {
       "id": "175",
@@ -1555,7 +1555,7 @@
         106,
         62
       ],
-      "content": "<pre class=\"poemtext\">\n\n<span class=\"poemtitle\">Yönhalkoja</span>\n\nTähtien rei'ille\npolttama tumma taivaankansi\n\njota ikuisuutta\ntavoittelevat sormeni\npyrkivät koskettamaan.\n\nJättämään jäljen,\njoka häivyttäisi oman katoavaisuuteni\nennen kuin se kurkistaa olkani yli\n\nja syö omansa sydämen.</pre>"
+      "content": "<pre class=\"poemtext\">\n\n<span class=\"poemtitle\">Yönhalkoja</span>\n\nTähtien rei'ille\npolttama tumma taivaankansi,\n\njota ikuisuutta\ntavoittelevat sormeni\npyrkivät koskettamaan.\n\nJättämään jäljen,\njoka häivyttäisi oman katoavaisuuteni\nennen kuin se kurkistaa olkani yli\n\nja syö omansa sydämen.</pre>"
     },
     {
       "id": "176",
@@ -1564,7 +1564,7 @@
         13,
         160
       ],
-      "content": "<pre class=\"poemtext\">\n\n<span class=\"poemtitle\">Kasa kyitä</span>\n\nKiimaan kadonneet kylkiluut,\nunohdukseen uponneet myrkkyhampaat\n\nEnää vain\nkevään mieleen\nkuljettama\njatkumisen tarve.</pre>"
+      "content": "<pre class=\"poemtext\">\n\n<span class=\"poemtitle\">Kasa kyitä</span>\n\nKiimaan kadonneet kylkiluut,\nunohdukseen uponneet myrkkyhampaat.\n\nEnää vain\nkevään mieleen\nkuljettama\njatkumisen tarve.</pre>"
     },
     {
       "id": "177",
@@ -1573,7 +1573,7 @@
         68,
         24
       ],
-      "content": "<pre class=\"poemtext\">\n\n<span class=\"poemtitle\">Moottoritie</span>\n\nKirjoittaudun\nedessäni levittäytyvälle paperille\nkoukeroin\nsanankääntein,\n\nsillä suorani\novat liian pitkiä,\ntuulisia ja\npaljaita,\n\nkykeneväisiä\nkuljettamaan\nvaromattoman katseeni\naina\nviimeisen risteykseni\nkoleuteen\nsaakka.</pre>"
+      "content": "<pre class=\"poemtext\">\n\n<span class=\"poemtitle\">Moottoritie</span>\n\nKirjoittaudun\nedessäni levittäytyvälle paperille\nkoukeroin\nsanankääntein,\n\nsillä suorani\novat liian pitkiä,\ntuulisia ja\npaljaita.\n\nKykeneväisiä\nkuljettamaan\nvaromattoman katseeni\naina\nviimeisen risteykseni\nkoleuteen\nsaakka.</pre>"
     },
     {
       "id": "178",
@@ -1582,7 +1582,7 @@
         186,
         68
       ],
-      "content": "<pre class=\"poemtext\">\n\n<span class=\"poemtitle\">Paljain jaloin</span>\n\nTarkoituksensa kadottanut\nkutoo sanoistaan\nrationaalisuuden nuottaa,\njolla vetää itseänsä kuivalle maalle\n\nSiltä katkenneiden\nhorisonttien\nupottamalta lentomatolta,\njota\nkivun nimeen vannovat\nfakiirit jo\nitselleen himoitsevat.</pre>"
+      "content": "<pre class=\"poemtext\">\n\n<span class=\"poemtitle\">Paljain jaloin</span>\n\nTarkoituksensa kadottanut\nkutoo sanoistaan\nrationaalisuuden nuottaa,\njolla vetää itseänsä kuivalle maalle.\n\nSiltä katkenneiden\nhorisonttien\nupottamalta lentomatolta,\njota\nkivun nimeen vannovat\nfakiirit jo\nitselleen himoitsevat.</pre>"
     },
     {
       "id": "179",
@@ -1591,7 +1591,7 @@
         28,
         181
       ],
-      "content": "<pre class=\"poemtext\">\n\n<span class=\"poemtitle\">Aamuntörröttäjä</span>\n\nKatseeni asettuu\nunessa vielä keinuvalle vartalollesi\n\nRauhoittaa levottomuuttani\nspiraaleihisi,\n\njoita\nonnellisuutemme\nkehosi pinnalle\nkauneudellaan kiertää\n\ntuulia vasten,\nvasten aamua,\njota ajatuksesi ei malta odottaa,\njohon se arastelee kuitenkin nousta\nennen\nhuulieni kosketusta\nvalveen rajalla\nvielä\nodottavalle ihollesi.</pre>"
+      "content": "<pre class=\"poemtext\">\n\n<span class=\"poemtitle\">Aamuntörröttäjä</span>\n\nKatseeni asettuu\nunessa vielä keinuvalle vartalollesi.\n\nRauhoittaa levottomuuttani\nspiraaleihisi,\n\njoita\nonnellisuutemme\nkehosi pinnalle\nkauneudellaan kiertää.\n\nTuulia vasten,\nvasten aamua,\njota ajatuksesi ei malta odottaa\nja\njohon se arastelee kuitenkin nousta\nennen\nhuulieni kosketusta\nvalveen rajalla\nvielä\nodottavalle ihollesi.</pre>"
     },
     {
       "id": "180",
@@ -1609,7 +1609,7 @@
         85,
         33
       ],
-      "content": "<pre class=\"poemtext\">\n\n<span class=\"poemtitle\">Horrostaja</span>\n\nSinua vasten\ntuuleni huutavat\n\nSinua vasten\nkipunoin\n\nsyntyäkseni\nliekkeihini uudelleen.\n\nSyvän uneni\nviileydestä,\n\njonne\nptkittynyt talveni\non minut vienyt.</pre>"
+      "content": "<pre class=\"poemtext\">\n\n<span class=\"poemtitle\">Horrostaja</span>\n\nSinua vasten\ntuuleni huutavat.\n\nSinua vasten\nkipunoin.\n\nSyntyäkseni\nliekkeihini uudelleen.\n\nSyvän uneni\nviileydestä,\n\njonne\nptkittynyt talveni\non minut vienyt.</pre>"
     },
     {
       "id": "182",
@@ -1618,7 +1618,7 @@
         29,
         28
       ],
-      "content": "<pre class=\"poemtext\">\n\n<span class=\"poemtitle\">Tuulikello</span>\n\nSätkin jalkojani\nvielä juoksevia jalkojani\n\ntaivasta kohti\nkurottelevasta kaulastani\nvielä venyvästä kaulastani.</pre>"
+      "content": "<pre class=\"poemtext\">\n\n<span class=\"poemtitle\">Tuulikello</span>\n\nSätkin jalkojani,\nvielä juoksevia jalkojani\n\ntaivasta kohti\nkurottelevasta kaulastani,\nvielä venyvästä kaulastani.</pre>"
     },
     {
       "id": "183",
@@ -1636,7 +1636,7 @@
         209,
         194
       ],
-      "content": "<pre class=\"poemtext\">\n\n<span class=\"poemtitle\">Kielen puhkaisusta</span>\n\nKoukku läpi\nomista\nkielenkannoista\n\nTuntemus jokaisesta\njulki lausutusta\nsanasta\n\nmyönnetty\nja\nmyötä eletty\n\nSanojan ja kohteen\nkautta,\n\nmatkojensa päihin.</pre>"
+      "content": "<pre class=\"poemtext\">\n\n<span class=\"poemtitle\">Kielen puhkaisusta</span>\n\nKoukku läpi\nomista\nkielenkannoista.\n\nTuntemus jokaisesta\njulki lausutusta\nsanasta.\n\nyönnetty\nja\nmyötä eletty.\n\nSanojan ja kohteen\nkautta,\n\nmatkojensa päihin.</pre>"
     },
     {
       "id": "185",
@@ -1654,7 +1654,7 @@
         178,
         240
       ],
-      "content": "<pre class=\"poemtext\">\n\n<span class=\"poemtitle\">Tarrautuja</span>\n\nMuuraan\nitseäni kiinni\nihmisen rakennelmiimme\n\nLukitsen\nitseäni kiiinni\nluonnon liikkeisiinsä\n\nHukutan\nirrallisuuttani\nyhteisen unemme\najan halki valuvaan hiekkaan.</pre>"
+      "content": "<pre class=\"poemtext\">\n\n<span class=\"poemtitle\">Tarrautuja</span>\n\nMuuraan\nitseäni kiinni\nihmisen rakennelmiimme.\n\nLukitsen\nitseäni kiiinni\nluonnon liikkeisiinsä.\n\nHukutan\nirrallisuuttani\nyhteisen unemme\najan halki valuvaan hiekkaan.</pre>"
     },
     {
       "id": "187",
@@ -1663,7 +1663,7 @@
         10,
         267
       ],
-      "content": "<pre class=\"poemtext\">\n\n<span class=\"poemtitle\">Sijaiskärsijä</span>\n\nTyönnän\nliiaksi tummenneet\najatukseni\nystäväni,\nunohdukseni,\nsyliin\n\nEtteivät värjäymät\nlaikuttaisi liiaksi\nmieleni syntyjään\nkirkasta pintaa,\n\nvielä muistini laidalla\nkeikkuvaa.</pre>"
+      "content": "<pre class=\"poemtext\">\n\n<span class=\"poemtitle\">Sijaiskärsijä</span>\n\nTyönnän\nliiaksi tummenneet\najatukseni\nystäväni,\nunohdukseni,\nsyliin.\n\nEtteivät värjäymät\nlaikuttaisi liiaksi\nmieleni syntyjään\nkirkasta pintaa,\n\nvielä muistini laidalla\nkeikkuvaa.</pre>"
     },
     {
       "id": "188",
@@ -1681,7 +1681,7 @@
         191,
         275
       ],
-      "content": "<pre class=\"poemtext\">\n\n<span class=\"poemtitle\">Kadonneet jäljet</span>\n\nElonkipinöiden\nmustiin puetut\nmurhamiehet\n\nPetttymysten pielissä,\nlohduttomuuden lammikoissa\nsaaliitaan\nodottamassa\n\njalkoja,\njotka eivät jaksa enää\nottaa seuraavia askeliaan,\n\nhuomisen huomaan suuntaavia.</pre>"
+      "content": "<pre class=\"poemtext\">\n\n<span class=\"poemtitle\">Kadonneet jäljet</span>\n\nElonkipinöiden\nmustiin puetut\nmurhamiehet.\n\nPettymysten pielissä,\nlohduttomuuden lammikoissa\nsaaliitaan\nodottamassa\n\njalkoja,\njotka eivät jaksa enää\nottaa seuraavia askeliaan,\n\nhuomisen huomaan suuntaavia.</pre>"
     },
     {
       "id": "190",
@@ -1699,7 +1699,7 @@
         103,
         170
       ],
-      "content": "<pre class=\"poemtext\">\n\n<span class=\"poemtitle\">Takiaiset</span>\n\nTummiin pukeutuneet ajatukset\nväsymyksessä värjäytyneet\nmenetyksissä muovautuneet\n\nKapuavat jälleen esiin\nkuolleista kulmista,\n\njoita eletyt päivät jättävät\njälkiinsä\n\ntähän hetkeen\nasti\nyltäviin.</pre>"
+      "content": "<pre class=\"poemtext\">\n\n<span class=\"poemtitle\">Takiaiset</span>\n\nTummiin pukeutuneet ajatukset\nväsymyksessä värjäytyneet\nmenetyksissä muovautuneet.\n\nKapuavat jälleen esiin\nkuolleista kulmista,\n\njoita eletyt päivät jättävät\njälkiinsä\n\ntähän hetkeen\nasti\nyltäviin.</pre>"
     },
     {
       "id": "192",
@@ -1717,7 +1717,7 @@
         191,
         261
       ],
-      "content": "<pre class=\"poemtext\">\n\n<span class=\"poemtitle\">Samuudenpoistaja</span>\n\nAatteiden vaatteilla\nvieraiksi puetut\n\nEroteltuina itsestään\nomiin aitauksiin\n\nJotta maailmankuvat\njatkavat piirtymistään\nriittävän harvoilla,\nriittävän selkeillä sävyillään.</pre>"
+      "content": "<pre class=\"poemtext\">\n\n<span class=\"poemtitle\">Samuudenpoistaja</span>\n\nAatteiden vaatteilla\nvieraiksi puetut.\n\nEroteltuina itsestään\nomiin aitauksiin.\n\nJotta maailmankuvat\njatkavat piirtymistään\nriittävän harvoilla,\nriittävän selkeillä sävyillään.</pre>"
     },
     {
       "id": "194",
@@ -1744,7 +1744,7 @@
         97,
         161
       ],
-      "content": "<pre class=\"poemtext\">\n\n<span class=\"poemtitle\">Aavalla</span>\n\nSydämen reunoilla kiertevät\npelot\n\nVerta vedestä haistelevat\nkiertelevät\npedot\n\nHeti ensimmäisestä\npisarasta,\n\njonka haaveistaan\nhaavoittunut\nitsestään\nmerelleen luovuttaa.</pre>"
+      "content": "<pre class=\"poemtext\">\n\n<span class=\"poemtitle\">Aavalla</span>\n\nSydämen reunoilla kiertevät\npelot.\n\nVerta vedestä haistelevat\nkiertelevät\npedot.\n\nHeti ensimmäisestä\npisarasta,\n\njonka haaveistaan\nhaavoittunut\nitsestään\nmerelleen luovuttaa.</pre>"
     },
     {
       "id": "197",
@@ -1753,7 +1753,7 @@
         195,
         84
       ],
-      "content": "<pre class=\"poemtext\">\n\n<span class=\"poemtitle\">Me liimanhaistajat</span>\n\nItselleen vahvistusta\ntoisista hakien\n\njaetttujen kertomusten\nitsellensä kirjoitettujen\n\nnarratiivia\nneliin kykenevää\nkylkiinsä sivellen.</pre>"
+      "content": "<pre class=\"poemtext\">\n\n<span class=\"poemtitle\">Me liimanhaistajat</span>\n\nItselleen vahvistusta\ntoisista hakien\n\njaettujen kertomusten\nitsellensä kirjoitettujen\n\nnarratiivia\nneliin kykenevää\nkylkiinsä sivellen.</pre>"
     },
     {
       "id": "198",
@@ -1762,7 +1762,7 @@
         262,
         209
       ],
-      "content": "<pre class=\"poemtext\">\n\n<span class=\"poemtitle\">Tyhjyydestä</span>\n\nYrittää juosta sanojen siltaa pitkin\ntoisten luokse\n\nvaikka rakennelma sitä nopeammin purkautuu\nmitä kiihkeämmin niiltä merkityksiä\nitselleen hakee.\n\nKun kieli ei enää kannattele,\nkun kokemus\nei enää kykene olemaan läsnä.\n\nKun ilmasta on hapen syrjäyttänyt jälleen\nnäennäisen yksinkertainen, silti vastaamaton kysymys,\n\nmiksi?</pre>"
+      "content": "<pre class=\"poemtext\">\n\n<span class=\"poemtitle\">Tyhjyydestä</span>\n\nYrittää juosta sanojen siltaa pitkin\ntoisten luokse,\n\nvaikka rakennelma sitä nopeammin purkautuu\nmitä kiihkeämmin niiltä merkityksiä\nitselleen hakee.\n\nKun kieli ei enää kannattele,\nkun kokemus\nei enää kykene olemaan läsnä.\n\nKun ilmasta on hapen syrjäyttänyt jälleen\nnäennäisen yksinkertainen, silti vastaamaton kysymys,\n\nmiksi?</pre>"
     },
     {
       "id": "199",
@@ -1771,7 +1771,7 @@
         30,
         10
       ],
-      "content": "<pre class=\"poemtext\">\n\n<span class=\"poemtitle\">Pimeydellä liekitetty</span>\n\nSilmäni palavat.\n\nJatkavat näkemistä,\nvaikka mieli on menettänyt kykynsä selittää.\n\nKulottavat silmäkuoppaa,\njonka pohja hiljalleen lähestyy kallon keskustaa\nVievät taivasta päivä päivältä kauemmaksi.</pre>"
+      "content": "<pre class=\"poemtext\">\n\n<span class=\"poemtitle\">Pimeydellä liekitetty</span>\n\nSilmäni palavat.\n\nJatkavat näkemistä,\nvaikka mieli on menettänyt kykynsä selittää.\n\nKulottavat silmäkuoppaa,\njonka pohja hiljalleen lähestyy kallon keskustaa.\n\nVievät taivasta päivä päivältä kauemmaksi.</pre>"
     },
     {
       "id": "200",
@@ -1807,7 +1807,7 @@
         246,
         33
       ],
-      "content": "<pre class=\"poemtext\">\n\n<span class=\"poemtitle\">Maljapuhe</span>\n\nVuodan hetkiäni\njuoksuhiekaksi tiimalasiini\n\nEttevät päiväni pelkistyisi\nvain\nmatelevaksi halvaksi näytelmäksi\n\nVaan juopuisin,\nmaistaisin virtaavan vereni\n\nTuntisin lihani,\nvärisisin elämäni edessä,\n\nen kylmästä,\nvaan kiimasta.</pre>"
+      "content": "<pre class=\"poemtext\">\n\n<span class=\"poemtitle\">Maljapuhe</span>\n\nVuodan hetkiäni\njuoksuhiekaksi tiimalasiini.\n\nEttevät päiväni pelkistyisi\nvain\nmatelevaksi halvaksi näytelmäksi.\n\nVaan juopuisin,\nmaistaisin virtaavan vereni.\n\nTuntisin lihani,\nvärisisin elämäni edessä,\n\nen kylmästä,\nvaan kiimasta.</pre>"
     },
     {
       "id": "204",
@@ -1843,7 +1843,7 @@
         147,
         95
       ],
-      "content": "<pre class=\"poemtext\">\n\n<span class=\"poemtitle\">Kroonikko</span>\n\nJärki pitää kasassa\nluista linnoitusta,\n\njonka muureilta viima\non syönyt tunteet pois.\n\nEnää Iho koristeena\nkorostuneilla poskipäillä,\n\njotka vielä\nmuistavat\nsuuntautua ulospäin.</pre>"
+      "content": "<pre class=\"poemtext\">\n\n<span class=\"poemtitle\">Kroonikko</span>\n\nJärki pitää kasassa\nluista linnoitusta,\n\njonka muureilta viima\non syönyt tunteet pois.\n\nEnää iho koristeena\nkorostuneilla poskipäillä,\n\njotka vielä\nmuistavat\nsuuntautua ulospäin.</pre>"
     },
     {
       "id": "208",
@@ -1879,7 +1879,7 @@
         253,
         206
       ],
-      "content": "<pre class=\"poemtext\">\n\n<span class=\"poemtitle\">Kaunankuljettajat</span>\n\nKun  merkityksemme ovat väliltämme\nkuolleet\n\nkyvyttömyyteni kuljettaa enää riekaleita\nkainalossani\n\nmuuttaa ne ristiriidoiksi,\njotka vihamme ruokkivat.</pre>"
+      "content": "<pre class=\"poemtext\">\n\n<span class=\"poemtitle\">Kaunankuljettajat</span>\n\nKun  merkityksemme ovat väliltämme\nkuolleet,\n\nkyvyttömyyteni kuljettaa enää riekaleita\nkainalossani.\n\nMuuttaa ne ristiriidoiksi,\njotka vihamme ruokkivat.</pre>"
     },
     {
       "id": "212",
@@ -1924,7 +1924,7 @@
         62,
         240
       ],
-      "content": "<pre class=\"poemtext\">\n\n<span class=\"poemtitle\">Päiväperho</span>\n\nEpätoivossani kuolevaisuuteni edessä\n\nyritän olla ikuinen,\n\ntakerrun jatkuvuuteen.\n\nTeeskentelen välinpitämättömyyttä.\n\nYritän elää hetkessä,\nkaikista meistä huolimatta,\n\nriipustaudun ajattomuuteen\n\nja silti,\n\nolen vain yksi\n\nkaikista lainatuista\nBunuelin ja Schopenhauerin\n\nlukemattomista lapsista.</pre>"
+      "content": "<pre class=\"poemtext\">\n\n<span class=\"poemtitle\">Päiväperho</span>\n\nEpätoivossani kuolevaisuuteni edessä\n\nyritän olla ikuinen,\n\ntakerrun jatkuvuuteen.\n\nTeeskentelen välinpitämättömyyttä.\n\nYritän elää hetkessä,\nkaikista meistä huolimatta.\n\nRipustaudun ajattomuuteen\n\nja silti,\n\nolen vain yksi\n\nkaikista lainatuista\nBunuelin ja Schopenhauerin\n\nlukemattomista lapsista.</pre>"
     },
     {
       "id": "217",
@@ -1969,7 +1969,7 @@
         140,
         170
       ],
-      "content": "<pre class=\"poemtext\">\n\n<span class=\"poemtitle\">Peilityyni</span>\n\nPäädyn katsomaan\njälleen\nsamaa\nrauhoittuneen veden\ntaakse taittuvaa pakopistettäni.\n\nPakopistettä,\njohon näkemäni maalaukset lopulta katoavat,\nkuulemani kertomukset päättyvät,\nitse aika unohtaa itseni.\n\nJoka antaa minun jälleen hetkeksi ottaa kiinni\nikuisuudestani,\nkunnes aikani  minut jälleen takaisin\nitselleen riistää.</pre>"
+      "content": "<pre class=\"poemtext\">\n\n<span class=\"poemtitle\">Peilityyni</span>\n\nPäädyn katsomaan\njälleen\nsamaa\nrauhoittuneen veden\ntaakse taittuvaa pakopistettäni.\n\nPakopistettä,\njohon näkemäni maalaukset lopulta katoavat,\nkuulemani kertomukset päättyvät,\nitse aika unohtaa itseni.\n\nJoka antaa minun jälleen hetkeksi ottaa kiinni\nikuisuudestani,\n\nkunnes aikani  minut jälleen takaisin\nitselleen riistää.</pre>"
     },
     {
       "id": "222",
@@ -1978,7 +1978,7 @@
         77,
         215
       ],
-      "content": "<pre class=\"poemtext\">\n\n<span class=\"poemtitle\">Laiturilla</span>\n\nMittatilkujen\nja vertailukeppien\nkatoaminen.\n\nSanotuista sanoista vapaa\najatus,\njoka vaeltelee\ntoistensa perään toistuvien\naaltojen harjoilla.\n\nPalaa itseensä,\ntoistaa ajan\nläpäisevää kaavaa,\n\njohon kaikkien kohtaamieni olentojen\ntoimet on sisäänkirjoitettu.\n\nKahlittu ja samalla vapautettu.</pre>"
+      "content": "<pre class=\"poemtext\">\n\n<span class=\"poemtitle\">Laiturilla</span>\n\nMittatikskujen\nja vertailukeppien\nkatoaminen.\n\nSanotuista sanoista vapaa\najatus,\njoka vaeltelee\ntoistensa perään toistuvien\naaltojen harjoilla.\n\nPalaa itseensä,\ntoistaa ajan\nläpäisevää kaavaa,\n\njohon kaikkien kohtaamieni olentojen\ntoimet on sisäänkirjoitettu.\n\nKahlittu ja samalla vapautettu.</pre>"
     },
     {
       "id": "223",
@@ -1987,7 +1987,7 @@
         222,
         240
       ],
-      "content": "<pre class=\"poemtext\">\n\n<span class=\"poemtitle\">Kaavaankirjoitettu</span>\n\nEnnallta haettu\nvuosi vuodelta opittu\najatus,\nköynnöskasvi,\n\nennättää kokemuksen\nedellle,\nvuosien myötä.\n\nTaltuttaa,\nkouluttaa,\ntylsyttää,\ntyhjentää,\nkuluttaa pois,\n\nkohti yhteisiä askelia\nkävelevää kuolemaa</pre>"
+      "content": "<pre class=\"poemtext\">\n\n<span class=\"poemtitle\">Kaavaankirjoitettu</span>\n\nEnnalta haettu\nvuosi vuodelta opittu\najatus,\nköynnöskasvi,\n\nennättää kokemuksen\nedelle,\nvuosien myötä.\n\nTaltuttaa,\nkouluttaa,\ntylsyttää,\ntyhjentää,\nkuluttaa pois,\n\nkohti yhteisiä askelia\nkävelevää kuolemaa</pre>"
     },
     {
       "id": "224",
@@ -2023,7 +2023,7 @@
         68,
         110
       ],
-      "content": "<pre class=\"poemtext\">\n\n<span class=\"poemtitle\">?</span>\n\nVasta periltä\nyritän löytää toisemme\n\nPalamattomien siltojen\ntakaa,\n\nKaikkien kysyttyjen kysymysten\njäljiltä\n\nvielä jaloiltaan.</pre>"
+      "content": "<pre class=\"poemtext\">\n\n<span class=\"poemtitle\">?</span>\n\nVasta periltä\nyritän löytää toisemme.\n\nPalamattomien siltojen\ntakaa,\n\nkaikkien kysyttyjen kysymysten\njäljiltä.\n\nVielä jaloiltaan.</pre>"
     },
     {
       "id": "228",
@@ -2032,7 +2032,7 @@
         154,
         218
       ],
-      "content": "<pre class=\"poemtext\">\n\n<span class=\"poemtitle\">Shokkikäytävä</span>\n\nKuulen\ntuhoutuneita ääniä.\n\nHavaintojen\nraiskaamia\nmenneisyyden lupaaman\ntoteutumattoman tulevaisuuden huutoja\n\njotka harhailevat\npimeässä yössäni\ntarpeettomina\nlojuviilla korvakäytävilläni.</pre>"
+      "content": "<pre class=\"poemtext\">\n\n<span class=\"poemtitle\">Shokkikäytävä</span>\n\nKuulen\ntuhoutuneita ääniä.\n\nHavaintojen\nraiskaamia\nmenneisyyden lupaaman\ntoteutumattoman tulevaisuuden huutoja,\n\njotka harhailevat\npimeässä yössäni\ntarpeettomina\nlojuvilla korvakäytävilläni.</pre>"
     },
     {
       "id": "229",
@@ -2041,7 +2041,7 @@
         174,
         38
       ],
-      "content": "<pre class=\"poemtext\">\n\n<span class=\"poemtitle\">Riippuliitäjä</span>\n\nKuljen\nriippuvuuksieni\nvarassa\n\nEtsien\nlaaksojani\n\nVäistellen\nvurorenseinämiäni.</pre>"
+      "content": "<pre class=\"poemtext\">\n\n<span class=\"poemtitle\">Riippuliitäjä</span>\n\nKuljen\nriippuvuuksieni\nvarassa,\n\netsien\nlaaksojani,\n\nväistellen\nvurorenseinämiäni.</pre>"
     },
     {
       "id": "230",
@@ -2050,7 +2050,7 @@
         284,
         255
       ],
-      "content": "<pre class=\"poemtext\">\n\n<span class=\"poemtitle\">Shangri-la</span>\n\nYritän\nkuluttaa\nsanojani loppuun\n\nLoputtomia\nsanoja,\njotta tämä\npirunpolkkani loppuisi\n\njotta ajatukseni\nlakkaisivat kiusaamasta,\n\njotta voisin\nvain olla,\n\nilman sanoja,\nilman ääniä.</pre>"
+      "content": "<pre class=\"poemtext\">\n\n<span class=\"poemtitle\">Shangri-la</span>\n\nYritän\nkuluttaa\nsanojani loppuun.\n\nLoputtomia\nsanoja,\njotta tämä\npirunpolkkani loppuisi.\n\nJotta ajatukseni\nlakkaisivat kiusaamasta,\n\njotta voisin\nvain olla,\n\nilman sanoja,\nilman ääniä.</pre>"
     },
     {
       "id": "231",
@@ -2059,7 +2059,7 @@
         266,
         206
       ],
-      "content": "<pre class=\"poemtext\">\n\n<span class=\"poemtitle\">Minusta</span>\n\nHaluan kuulla toiveemme\nunohtaa puutteemme\nnähdä tarpeemme\n\naina uudelleen\n\ntoiveissani ja tahdossani.</pre>"
+      "content": "<pre class=\"poemtext\">\n\n<span class=\"poemtitle\">Minusta</span>\n\nHaluan kuulla toiveemme,\nunohtaa puutteemme,\nnähdä tarpeemme\n\naina uudelleen\n\ntoiveissani ja tahdossani.</pre>"
     },
     {
       "id": "232",
@@ -2068,7 +2068,7 @@
         265,
         206
       ],
-      "content": "<pre class=\"poemtext\">\n\n<span class=\"poemtitle\">Meistä</span>\n\nHaluan löytää toisemme\n\naina uudelleen\n\nilman erottavia\ntekijöitä\n\nilman riitasointuja\n\nkauniina sekasotkuna\nsiitä kasasta,\n\njohon kylmyydeltäni\nsuojaan käperryn.</pre>"
+      "content": "<pre class=\"poemtext\">\n\n<span class=\"poemtitle\">Meistä</span>\n\nHaluan löytää toisemme,\n\naina uudelleen,\n\nilman erottavia\ntekijöitä,\n\nilman riitasointuja,\n\nkauniina sekasotkuna\nsiitä kasasta,\n\njohon kylmyydeltäni\nsuojaan käperryn.</pre>"
     },
     {
       "id": "233",
@@ -2077,7 +2077,7 @@
         126,
         230
       ],
-      "content": "<pre class=\"poemtext\">\n\n<span class=\"poemtitle\">Outlet</span>\n\nVuodatan sanojani paperille\n\netten vuotaisi kuiviin\nmaailman lausumattomalle lattialle.</pre>"
+      "content": "<pre class=\"poemtext\">\n\n<span class=\"poemtitle\">Outlet</span>\n\nVuodatan sanojani paperille,\n\netten vuotaisi kuiviin\nmaailman lausumattomalle lattialle.</pre>"
     },
     {
       "id": "234",
@@ -2095,7 +2095,7 @@
         256,
         168
       ],
-      "content": "<pre class=\"poemtext\">\n\n<span class=\"poemtitle\">Saastuneet sanat</span>\n\nSyntyvät valmiiksi vaatetettuina,\npunaisten lyhtyjen alle.\n\nItsetietoisuutesi tuolla puolen.\n\nKuitenkin\n\nkauneutesi elää ainoastaan tavoittamissani teoissasi,\nrumuutesi tavoittamattomissani sanoissasi.</pre>"
+      "content": "<pre class=\"poemtext\">\n\n<span class=\"poemtitle\">Saastuneet sanat</span>\n\nSyntyvät valmiiksi vaatetettuina,\npunaisten lyhtyjen alle.\n\nItsetietoisuutesi tuolla puolen.\n\nKuitenkin,\n\nkauneutesi elää ainoastaan tavoittamissani teoissasi,\nrumuutesi tavoittamattomissani sanoissasi.</pre>"
     },
     {
       "id": "236",
@@ -2104,7 +2104,7 @@
         166,
         268
       ],
-      "content": "<pre class=\"poemtext\">\n\n<span class=\"poemtitle\">Ikuinen paluu II</span>\n\nKartoittakaamme toistemme\nloputtomat kolkat\n\npäätyäksemme lopulliselle\nloputtomalle taistelukentälle\n\njolla tuliset sielumme\nkohtaavat ikuiset toisensa,\nkadottamatta näköyhteyttään.</pre>"
+      "content": "<pre class=\"poemtext\">\n\n<span class=\"poemtitle\">Ikuinen paluu II</span>\n\nKartoittakaamme toistemme\nloputtomat kolkat\n\npäätyäksemme lopulliselle\nloputtomalle taistelukentälle,\n\njolla tuliset sielumme\nkohtaavat ikuiset toisensa,\nkadottamatta näköyhteyttään.</pre>"
     },
     {
       "id": "237",
@@ -2122,7 +2122,7 @@
         34,
         15
       ],
-      "content": "<pre class=\"poemtext\">\n\n<span class=\"poemtitle\">Kuuluu</span>\n\nHiljaisuuden merestä\nnousevat kuolleet kalat\nkuivalle kolealle maalle\n\nkoleiden tähtien\nvalaisemalle,\navaruuden tyhjyyteen tomuavallle\nrantahiekalle\n\nPuhaltavat\nhengen täyteen\nseisovaa, hetkestä höyryävää ilmaa.</pre>"
+      "content": "<pre class=\"poemtext\">\n\n<span class=\"poemtitle\">Kuuluu</span>\n\nHiljaisuuden merestä\nnousevat kuolleet kalat\nkuivalle kolealle maalle\n\nkoleiden tähtien\nvalaisemalle,\navaruuden tyhjyyteen tomuavallle\nrantahiekalle.\n\nPuhaltavat\nhengen täyteen\nseisovaa, hetkestä höyryävää ilmaa.</pre>"
     },
     {
       "id": "239",
@@ -2140,7 +2140,7 @@
         78,
         62
       ],
-      "content": "<pre class=\"poemtext\">\n\n<span class=\"poemtitle\">Karuselli</span>\n\nKun aistit\nruokkivat\n\nenää\nhulluuden\nkokemusta,\n\nkyky selittää jää jäljelle,\nkuolleen miehen kahvana,\njossa elämänhalu roikkuu</pre>"
+      "content": "<pre class=\"poemtext\">\n\n<span class=\"poemtitle\">Karuselli</span>\n\nKun aistit\nruokkivat\n\nenää\nhulluuden\nkokemusta,\n\nkyky selittää jää jäljelle,\nkuolleen miehen kahvana,\njossa elämänhalu rampana roikkuu.</pre>"
     },
     {
       "id": "241",
@@ -2158,7 +2158,7 @@
         45,
         134
       ],
-      "content": "<pre class=\"poemtext\">\n\n<span class=\"poemtitle\">Elämän puu</span>\n\nKohotettujen katseiden\nkiipeilevät kantajat\noksilla kurkoittavilla\n\ntaivaan allla\ntuulten kieppuvien\npäällä\nalas kiertyvinä kuiskauksina\n\njuurten suojiin\nkuivuvina käpertyvinä\nikääntyneinä lehtinä.</pre>"
+      "content": "<pre class=\"poemtext\">\n\n<span class=\"poemtitle\">Elämän puu</span>\n\nKohotettujen katseiden\nkiipeilevät kantajat\noksilla kurkoittavilla\n\ntaivaan alla\ntuulten kieppuvien\npäällä\nalas kiertyvinä kuiskauksina\n\njuurten suojiin\nkuivuvina käpertyvinä\nikääntyneinä lehtinä.</pre>"
     },
     {
       "id": "243",
@@ -2176,7 +2176,7 @@
         194,
         77
       ],
-      "content": "<pre class=\"poemtext\">\n\n<span class=\"poemtitle\">Toiveet</span>\n\nSanotut sanat\nkaipaavien korvien pyydystämät\n\nAsettuvat pesiin\nhaudotuiksi poikasiksi\ntilkkeiiksi mielen\nKolottaviin koloihin.</pre>"
+      "content": "<pre class=\"poemtext\">\n\n<span class=\"poemtitle\">Toiveet</span>\n\nSanotut sanat\nkaipaavien korvien pyydystämät.\n\nAsettuvat pesiin\nhaudotuiksi poikasiksi\ntilkkeiksi mielen\nkolottaviin koloihin.</pre>"
     },
     {
       "id": "245",
@@ -2194,7 +2194,7 @@
         154,
         203
       ],
-      "content": "<pre class=\"poemtext\">\n\n<span class=\"poemtitle\">Sattuja</span>\n\nVuoden sanoissani,\nMurrun lauseissani,\n\nettä kulkisin kehossani,\nelämän kylmän halki\n\nilman,\nettä hymyni hyytyisi\nverettömälle naamalleni\n\ntai\n\nkatseeni hautautuisi\njaloissani kuljettamaani\nunihiekkaan.</pre>"
+      "content": "<pre class=\"poemtext\">\n\n<span class=\"poemtitle\">Sattuja</span>\n\nVuoden sanoissani,\nmurrun lauseissani,\n\nettä kulkisin kehossani,\nelämän kylmän halki\n\nilman,\nettä hymyni hyytyisi\nverettömälle naamalleni\n\ntai\n\nkatseeni hautautuisi\njaloissani kuljettamaani\nunihiekkaan.</pre>"
     },
     {
       "id": "247",
@@ -2212,7 +2212,7 @@
         103,
         66
       ],
-      "content": "<pre class=\"poemtext\">\n\n<span class=\"poemtitle\">Poltetun maan taktiikkaa</span>\n\nKaivattujen hahmojen\nkielenkannoissa asuvat\nkameleonttihuorat\n\nodottavat\ntulevansa singotuksi\nmassojen naamalle\n\njolla sankaritarinat herätellään henkiin,\nsamalla kun\ntäytetyn tyhjyyden illuusio ilmestyy maantielle.\n\nSillä kaikki tietävät,\nettä\nhuomenna hän tulee.</pre>"
+      "content": "<pre class=\"poemtext\">\n\n<span class=\"poemtitle\">Poltetun maan taktiikkaa</span>\n\nKaivattujen hahmojen\nkielenkannoissa asuvat\nkameleonttihuorat\n\nodottavat\ntulevansa singotuksi\nmassojen naamalle,\n\njolla sankaritarinat herätellään henkiin,\nsamalla kun\ntäytetyn tyhjyyden illuusio ilmestyy maantielle.\n\nSillä kaikki tietävät,\nettä\nhuomenna hän tulee.</pre>"
     },
     {
       "id": "249",
@@ -2221,7 +2221,7 @@
         185,
         228
       ],
-      "content": "<pre class=\"poemtext\">\n\n<span class=\"poemtitle\">Kaiku luotain</span>\n\nKuuntelen silmilläni  yötä,\njoka kutsuu omakseen\n\nlupaa kadottaa,\nlupaa murtaa\n\nne aallot,\nJotka ovat olleet liian kauan matkalla\nkohtaamatta vastarantaansa.</pre>"
+      "content": "<pre class=\"poemtext\">\n\n<span class=\"poemtitle\">Kaiku luotain</span>\n\nKuuntelen silmilläni yötä,\njoka kutsuu omakseen.\n\nLupaa kadottaa,\nlupaa murtaa\n\nne aallot,\nJotka ovat olleet liian kauan matkalla\nkohtaamatta vastarantaansa.</pre>"
     },
     {
       "id": "250",
@@ -2257,7 +2257,7 @@
         211,
         222
       ],
-      "content": "<pre class=\"poemtext\">\n\n<span class=\"poemtitle\">Tasauspyörästö</span>\n\nAika syö\nKulumani pois\n\nJättää toisteisen\nPelkistetyn rytmin,\n\njoka ei tunnista,\nEi erottele,\n\nvain  toistaa,\nvahvistaa.\n\nOpettaa\nvihaamaan itseään.</pre>"
+      "content": "<pre class=\"poemtext\">\n\n<span class=\"poemtitle\">Tasauspyörästö</span>\n\nAika syö\nkulumani pois.\n\nJättää toisteisen\npelkistetyn rytmin,\n\njoka ei tunnista,\nEi erottele,\n\nvain  toistaa,\nvahvistaa.\n\nOpettaa\nvihaamaan itseään.</pre>"
     },
     {
       "id": "254",
@@ -2266,7 +2266,7 @@
         33,
         256
       ],
-      "content": "<pre class=\"poemtext\">\n\n<span class=\"poemtitle\">Kuollutta kudosta/nahkalla</span>\n\nHankaan ajatuksiani\ntoista ihmistä vasten\n\nEn kadu mitään,\nsatun jos niiñ käy,\n\nkelloni kehoani vasten,\nsarveni puhtaana,\nvalmiina tippumaan.</pre>"
+      "content": "<pre class=\"poemtext\">\n\n<span class=\"poemtitle\">Kuollutta kudosta/nahkalla</span>\n\nHankaan ajatuksiani\ntoista ihmistä vasten.\n\nEn kadu mitään,\nsatun jos niin käy,\n\nkelloni kehoani vasten,\nsarveni puhdistettuina,\nvalmiina tippumaan.</pre>"
     },
     {
       "id": "255",
@@ -2284,7 +2284,7 @@
         132,
         93
       ],
-      "content": "<pre class=\"poemtext\">\n\n<span class=\"poemtitle\">Kohdattu</span>\n\nOlen kurkoitettu, nähty.\n\nSilmäni ovat löytäneet luoksesi.\n\nKatseeni on kirjoitttautunut mieleesi,\nkatseesi kierähtänyt kielesi päälle.\n\nOlen läsnä,\nen vain rakentamissani ajatuksissani,\nvaan myös suustasi vuotavissa sanoissasi.</pre>"
+      "content": "<pre class=\"poemtext\">\n\n<span class=\"poemtitle\">Kohdattu</span>\n\nOlen kurkoitettu, nähty.\n\nSilmäni ovat löytäneet luoksesi.\n\nKatseeni on kirjoittautunut mieleesi,\nkatseesi kierähtänyt kielesi päälle.\n\nOlen läsnä,\nen vain rakentamissani ajatuksissani,\nvaan myös suustasi vuotavissa sanoissasi.</pre>"
     },
     {
       "id": "257",
@@ -2293,7 +2293,7 @@
         219,
         30
       ],
-      "content": "<pre class=\"poemtext\">\n\n<span class=\"poemtitle\">Paineaalto</span>\n\nSanani huutavat\nvereni vuotavat\n\njärki kantaa\nvielä haavoittuneita\nsilmiensidontapaikalle.\n\nEtsin itseni osia sirpaleista,\nedessäni hajonneiden ihmisten keskeltä.</pre>"
+      "content": "<pre class=\"poemtext\">\n\n<span class=\"poemtitle\">Paineaalto</span>\n\nSanani huutavat,\nvereni vuotavat,\n\njärki kantaa\nvielä haavoittuneita\nsilmiensidontapaikalle.\n\nEtsin itseni osia sirpaleista,\nedessäni hajonneiden ihmisten keskeltä.</pre>"
     },
     {
       "id": "258",
@@ -2302,7 +2302,7 @@
         240,
         191
       ],
-      "content": "<pre class=\"poemtext\">\n\n<span class=\"poemtitle\">Noitarumpu</span>\n\nKainaloon kuollutta usvaa,\niholle palanutta virtsaa\n\nSattuneita sattumia,\najatuksen kokemuksen edelle ehtineen.\n\nPaljaalle kalvolle\ntanssiin\ntranssiin piirtyneet.</pre>"
+      "content": "<pre class=\"poemtext\">\n\n<span class=\"poemtitle\">Noitarumpu</span>\n\nKainaloon kuollutta usvaa,\niholle palanutta virtsaa.\n\nSattuneita sattumia,\najatuksen kokemuksen edelle ehtineen.\n\nPaljaalle kalvolle\ntanssiin\ntranssiin piirtyneet.</pre>"
     },
     {
       "id": "259",
@@ -2311,7 +2311,7 @@
         247,
         12
       ],
-      "content": "<pre class=\"poemtext\">\n\n<span class=\"poemtitle\">Lego</span>\n\nKasaan\nhiekkalinnaani\n\nhuorilta\nlainatuihin\nkorviin,\n\njotka\nhelppoa\nlohtua rakentavat.</pre>"
+      "content": "<pre class=\"poemtext\">\n\n<span class=\"poemtitle\">Lego</span>\n\nKasaan\nhiekkalinnaani\n\nhuorilta\nlainattuihin\nkorviin,\n\njotka\nhelppoa\nlohtua rakentavat.</pre>"
     },
     {
       "id": "260",
@@ -2320,7 +2320,7 @@
         220,
         62
       ],
-      "content": "<pre class=\"poemtext\">\n\n<span class=\"poemtitle\">Kuhesnjargâ</span>\n\nKokemukset lipuvat\nlävitseni\n\nIkuisuuteen tarraavien\nsormieni ympäri.\n\nHoukuttelevat\njuoksemaan peräänsä\n\nlupaavat tappaa\nkuolemanpelkoni\n\nymmärryksellä,\njoka ei lopu\nennen itseäni.</pre>"
+      "content": "<pre class=\"poemtext\">\n\n<span class=\"poemtitle\">Kuhesnjargâ</span>\n\nKokemukset lipuvat\nlävitseni\n\nikuisuuteen tarraavien\nsormieni ympäri.\n\nHoukuttelevat\njuoksemaan peräänsä.\n\nLupaavat tappaa\nkuolemanpelkoni\n\nymmärryksellä,\njoka ei lopu\nennen itseäni.</pre>"
     },
     {
       "id": "261",
@@ -2356,7 +2356,7 @@
         268,
         254
       ],
-      "content": "<pre class=\"poemtext\">\n\n<span class=\"poemtitle\">Halpuudestani I</span>\n\nJanoan\nkohtaamisia\n\nOmilla\nehdoillani\n\nOdottaen\nheittäytymisiä\n\nvasta sitten\nheittäytyen\n\nkyeten olemaan läsnä\nyhdessä\nennen kaikkea Itsessäni.</pre>"
+      "content": "<pre class=\"poemtext\">\n\n<span class=\"poemtitle\">Halpuudestani I</span>\n\nJanoan\nkohtaamisia.\n\nOmilla\nehdoillani.\n\nOdottaen\nheittäytymisiä,\n\nvasta sitten\nheittäytyen.\n\nKyeten olemaan läsnä\nyhdessä\nennen kaikkea itsessäni.</pre>"
     },
     {
       "id": "265",
@@ -2365,7 +2365,7 @@
         86,
         277
       ],
-      "content": "<pre class=\"poemtext\">\n\n<span class=\"poemtitle\">Olemme toisillemme pintoja</span>\n\n... joihin takerrumme\n\njoihin haluamme\ntoisemme takerruttaa\n\nJotka rauhoittavat\npyristellyjämme,\n\nsisäämme\nsyntymässä rakennettuja.</pre>"
+      "content": "<pre class=\"poemtext\">\n\n<span class=\"poemtitle\">Olemme toisillemme pintoja</span>\n\n... joihin takerrumme,\n\njoihin haluamme\ntoisemme takerruttaa,\n\njotka rauhoittavat\npyristellyjämme,\n\nsisäämme\nsyntymässä rakennettuja.</pre>"
     },
     {
       "id": "266",
@@ -2392,7 +2392,7 @@
         122,
         264
       ],
-      "content": "<pre class=\"poemtext\">\n\n<span class=\"poemtitle\">Halpuudestani II</span>\n\nHeijastan ihanteeni\ntaivaallle, jonne kurkoitan,\n\nettei katseeni kompastuisi\ntarpeissani kulkeviin jalkoihini.</pre>"
+      "content": "<pre class=\"poemtext\">\n\n<span class=\"poemtitle\">Halpuudestani II</span>\n\nHeijastan ihanteeni\ntaivaalle, jonne kurkoitan,\n\nettei katseeni kompastuisi\ntarpeissani kulkeviin jalkoihini.</pre>"
     },
     {
       "id": "269",
@@ -2401,7 +2401,7 @@
         28,
         33
       ],
-      "content": "<pre class=\"poemtext\">\n\n<span class=\"poemtitle\">Kittyhawk</span>\n\nJaan tarinani\ntoisille\n\nvahvistuakseni\ntoistemme kautta,\n\nsillä en jaksa\npuhaltaa kaikkea\ntarvitsemaani ilmaa\nomien siipieni alle.</pre>"
+      "content": "<pre class=\"poemtext\">\n\n<span class=\"poemtitle\">Kittyhawk</span>\n\nJaan sanojani\ntoisille\n\nvahvistuakseni\ntoisten kautta,\n\nsillä en jaksa\npuhaltaa kaikkea\ntarvitsemaani ilmaa\nomien siipieni alle.</pre>"
     },
     {
       "id": "270",
@@ -2419,7 +2419,7 @@
         277,
         268
       ],
-      "content": "<pre class=\"poemtext\">\n\n<span class=\"poemtitle\">Baabelin torni</span>\n\nMuuraan itseäni\nkieliemme koloihin,\n\nettä yltäisin\najatustemme taivaaseen asti.</pre>"
+      "content": "<pre class=\"poemtext\">\n\n<span class=\"poemtitle\">Baabelin torni</span>\n\nMuuraan itseäni\nkieliemme koloihin,\n\nettä yltäisin\nvielä joskus\najatustemme taivaaseen asti.</pre>"
     },
     {
       "id": "272",
@@ -2432,12 +2432,12 @@
     },
     {
       "id": "273",
-      "name": "Surullisin, Julmin, Irvokkain asia maailmassa",
+      "name": "Surullisin, julmin, irvokkain asia maailmassa",
       "kinpoems": [
         99,
         118
       ],
-      "content": "<pre class=\"poemtext\">\n\n<span class=\"poemtitle\">Surullisin, Julmin, Irvokkain asia maailmassa</span>\n\nVäkivallalla pelottelullla\nja\nkieltäytyjien panetteluilla\n\nkurkuista alas\ntungettu palvonta.\n\nIhmisen kauneuden riistäjä.</pre>"
+      "content": "<pre class=\"poemtext\">\n\n<span class=\"poemtitle\">Surullisin, julmin, irvokkain asia maailmassa</span>\n\nVäkivallalla pelottelulla\nja\nkieltäytyjien panetteluilla\n\nkurkuista alas\ntungettu palvonta.\n\nIhmisen kauneuden riistäjä.</pre>"
     },
     {
       "id": "274",
@@ -2446,7 +2446,7 @@
         210,
         29
       ],
-      "content": "<pre class=\"poemtext\">\n\n<span class=\"poemtitle\">Palapeli</span>\n\nHakkaan päätäni\nMaailmaa vasten\nRikkoudun toistoon.\n\nHapuilen palani\nlaajenevaan syliini\njuostessani pakoon pikaliimaa.</pre>"
+      "content": "<pre class=\"poemtext\">\n\n<span class=\"poemtitle\">Palapeli</span>\n\nHakkaan päätäni\nmaailmaa vasten\n\nRikkoudun toistoon.\n\nHapuilen palani\nlaajenevaan syliini\njuostessani pakoon pikaliimaa.</pre>"
     },
     {
       "id": "275",
@@ -2455,7 +2455,7 @@
         189,
         219
       ],
-      "content": "<pre class=\"poemtext\">\n\n<span class=\"poemtitle\">Naulatut arkut</span>\n\nJoihin sulkeutua\n\nValkoisen ja mustan\nväliseen pehmeyteen\n\nVihollistensa\nMätänevien ruumiiden\nviereen.</pre>"
+      "content": "<pre class=\"poemtext\">\n\n<span class=\"poemtitle\">Naulatut arkut</span>\n\nJoihin sulkeutua.\n\nValkoisen ja mustan\nväliseen pehmeyteen.\n\nVihollistensa\nMätänevien ruumiiden\nviereen.</pre>"
     },
     {
       "id": "276",
@@ -2464,7 +2464,7 @@
         186,
         250
       ],
-      "content": "<pre class=\"poemtext\">\n\n<span class=\"poemtitle\">Lävistetty hetki</span>\n\nMieleni ja\nmaailmani\n\nKiinn toisissaan\nVain aistien kautta\n\nAjatusten kompurovat\nNarrit uskaltanatta astua\nsisään hoviimme,\n\njoka täyttyy\nläsnäolosta.</pre>"
+      "content": "<pre class=\"poemtext\">\n\n<span class=\"poemtitle\">Lävistetty hetki</span>\n\nMieleni ja\nmaailmani\n\nkiinni toisissaan\nvain aistien kautta.\n\nAjatusten kompuroivat\nNarrit uskaltamatta astua\nsisään hoviimme,\n\njoka täyttyy\nläsnäolosta.</pre>"
     },
     {
       "id": "277",
@@ -2473,7 +2473,7 @@
         204,
         89
       ],
-      "content": "<pre class=\"poemtext\">\n\n<span class=\"poemtitle\">Tähdet taivaalla</span>\n\nRiipumme toisissamme\nrakentaen yhteisiä merkityksiämme\n\nKurkoitamme toisiamme kohti\nVaroen kadottamatta itseämme\n\nPyrkien rakentamaan\nhaurasta yhteistämme.</pre>"
+      "content": "<pre class=\"poemtext\">\n\n<span class=\"poemtitle\">Tähdet taivaalla</span>\n\nRiipumme toisissamme\nrakentaen yhteisiä merkityksiämme.\n\nKurkoitamme toisiamme kohti\nVaroen kadottamatta itseämme.\n\nPyrkien rakentamaan\nhaurasta yhteistämme.</pre>"
     },
     {
       "id": "278",
@@ -2482,7 +2482,7 @@
         116,
         201
       ],
-      "content": "<pre class=\"poemtext\">\n\n<span class=\"poemtitle\">Irvikuva</span>\n\nIhminen kuihtuu\nomaan jatkuvuuden tarpeeseensa\nlopun pelkoonsa.\n\nPatologiseen nälkäänsä\nolla jotain enemmän kuin voi olla.\n\nHaluunsa palvoa.\n\nPalvottuun haluunsa\npeloteltujen lahjottujen\nkumartajiensa edessä.</pre>"
+      "content": "<pre class=\"poemtext\">\n\n<span class=\"poemtitle\">Irvikuva</span>\n\nIhminen kuihtuu\nomaan jatkuvuuden tarpeeseensa,\nlopun pelkoonsa.\n\nPatologiseen nälkäänsä\nolla jotain enemmän kuin voi olla.\n\nHaluunsa palvoa.\n\nPalvottuun haluunsa\npeloteltujen lahjottujen\nkumartajiensa edessä.</pre>"
     },
     {
       "id": "279",
@@ -2500,7 +2500,7 @@
         236,
         175
       ],
-      "content": "<pre class=\"poemtext\">\n\n<span class=\"poemtitle\">Supernova</span>\n\nHetki, jolloin maailmat\nlakkaavat törmäämästä\n\nJa katoavat\nihmiseen,\n\njoka ottaa vastaan\nloputonta sulkutulta.</pre>"
+      "content": "<pre class=\"poemtext\">\n\n<span class=\"poemtitle\">Supernova</span>\n\nHetki, jolloin maailmat\nlakkaavat törmäämästä\n\nja katoavat\nihmiseen,\n\njoka ottaa vastaan\nloputonta sulkutulta.</pre>"
     },
     {
       "id": "281",
@@ -2509,7 +2509,7 @@
         205,
         14
       ],
-      "content": "<pre class=\"poemtext\">\n\n<span class=\"poemtitle\">Kaiken jälkeen</span>\n\nEtsin itseäni\nihmisestä,\n\njonka tunnistan\naina vain huonommin,</pre>"
+      "content": "<pre class=\"poemtext\">\n\n<span class=\"poemtitle\">Kaiken jälkeen</span>\n\nEtsin itseäni\nihmisestä,\n\njonka tunnistan\naina vain huonommin.</pre>"
     },
     {
       "id": "282",
@@ -2518,7 +2518,7 @@
         235,
         44
       ],
-      "content": "<pre class=\"poemtext\">\n\n<span class=\"poemtitle\">Kilpuri</span>\n\nYritän selittää\nkokemukseni\n\nennenkuin\npyydystän sen\n\nsanani\novat aina edelläni.</pre>"
+      "content": "<pre class=\"poemtext\">\n\n<span class=\"poemtitle\">Kilpuri</span>\n\nYritän selittää\nkokemukseni\n\nennenkuin\npyydystän sen\n\nsanani\naina edelläni.</pre>"
     },
     {
       "id": "283",
@@ -2527,7 +2527,7 @@
         29,
         169
       ],
-      "content": "<pre class=\"poemtext\">\n\n<span class=\"poemtitle\">Raamit</span>\n\nRimpuilen\nMerkityksissäni\n\njotta jatkuisin\naikani yli,\n\njotta\nolisin jotain,\naikani yli.</pre>"
+      "content": "<pre class=\"poemtext\">\n\n<span class=\"poemtitle\">Raamit</span>\n\nRimpuilen\nmerkityksissäni\n\njotta jatkuisin\naikani yli,\n\njotta\nolisin jotain,\naikani yli.</pre>"
     },
     {
       "id": "284",
@@ -2536,7 +2536,7 @@
         198,
         235
       ],
-      "content": "<pre class=\"poemtext\">\n\n<span class=\"poemtitle\">Kuihtuneet sanat</span>\n\nKadonneet merkitykset\nLakastuneet lauseet\n\nkielen ja korvan väli,\njoka on kasvanut liian suureksi,\n\njättäen jäljelle enää\nhiljaisuuden meren,\n\njohon hukkua\nsuu ääneti auki.</pre>"
+      "content": "<pre class=\"poemtext\">\n\n<span class=\"poemtitle\">Kuihtuneet sanat</span>\n\nKadonneet merkitykset,\nlakastuneet lauseet.\n\nKielen ja korvan väli,\njoka on kasvanut liian suureksi,\n\njättäen jäljelle enää\nhiljaisuuden meren,\n\njohon hukkua\nsuu ääneti auki.</pre>"
     },
     {
       "id": "285",
@@ -2545,7 +2545,7 @@
         218,
         154
       ],
-      "content": "<pre class=\"poemtext\">\n\n<span class=\"poemtitle\">Kohdistan katseeni tuntemattomaan</span>\n\nSiivet pimeäni yllä\nKajo öisen taivaani rannassa\n\nMerkitys\nkäpetyneenä sikiönä\nkysymyksissä\n\nJotka vielä\nlöydän ennen\nKiitoradalle vuotaneita\nvastauksiaan.</pre>"
+      "content": "<pre class=\"poemtext\">\n\n<span class=\"poemtitle\">Kohdistan katseeni tuntemattomaan</span>\n\nSiivet pimeäni yllä,\nkajo öisen taivaani rannassa.\n\nMerkitys\nkäpetyneenä sikiönä\nkysymyksissä,\n\njotka vielä\nlöydän ennen\nKiitoradalle vuotaneita\nvastauksiaan.</pre>"
     },
     {
       "id": "286",
@@ -2554,7 +2554,7 @@
         195,
         236
       ],
-      "content": "<pre class=\"poemtext\">\n\n<span class=\"poemtitle\">Läsnäolosta II</span>\n\nVoin olla sinussa ,\nvoit\nollla minussa\n\nIlman\nmäärityksiä\ntai sopimuksia\n\nvain\njaetussa liikkuvan\nriisutun kelemme\nkautta,\n\nkun happemme\nkulkee\ntoistemme kautta</pre>"
+      "content": "<pre class=\"poemtext\">\n\n<span class=\"poemtitle\">Läsnäolosta II</span>\n\nVoin olla sinussa,\nvoit\nolla minussa.\n\nIlman\nmäärityksiä\ntai sopimuksia.\n\nVain\njaetussa liikkuvan\nriisutun kelemme\nkautta,\n\nkun happemme\nkulkee\ntoistemme kautta.</pre>"
     }
   ]
 }
