@@ -2,7 +2,7 @@ import { Fragment, useEffect, useMemo } from "react";
 import { Link, useLocation, useNavigate } from "react-router-dom";
 
 import Poems from "./poems.js";
-import BGImage from "./../images/Kolmikarki_Background.webp";
+import BGImage from "./../images/PageBackground.webp";
 import { usePoemsData } from "../context/PoemsContext";
 
 function getRandom(min, max) {

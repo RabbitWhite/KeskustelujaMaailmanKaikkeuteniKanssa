@@ -2,7 +2,7 @@ import React, { Fragment } from "react";
 import { Link } from "react-router-dom";
 import 'react-tooltip/dist/react-tooltip.css';
 
-import BGImage from "./../images/Kolmikarki_Background.webp";
+import BGImage from "./../images/PageBackground.webp";
 
 // Front page component for the Kolmikarki poetry app
 export default function FrontPage(props) {
