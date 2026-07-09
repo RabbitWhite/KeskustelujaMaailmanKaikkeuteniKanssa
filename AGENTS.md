@@ -35,6 +35,21 @@ src/
   data/         — JSON poem data files + Python utility scripts
   images/       — cursors, background images
 
+## Data Pipeline
+`src/data/Poems.json` is the editing source — typo and content fixes go
+here first. It is not what the app bundles.
+Two derived files, generated in order:
+1. `PoemsKins.json` — adds embedding-based `kinpoems` from `Poems.json`
+   via `assign_kin_poems.py`. Only re-run this when kin assignments
+   should deliberately change — it is not part of routine content
+   fixes and will reshuffle every poem's `kinpoems`.
+2. `PoemsKinsStyled.json` — adds title-span HTML styling from
+   `PoemsKins.json` via `restyle_poems_json.py`. This is what
+   `PoemsContext`/the app actually renders.
+When `Poems.json` content is fixed, propagate the change into
+`PoemsKins.json` (content/name fields only, never `kinpoems`) and
+regenerate `PoemsKinsStyled.json` via `restyle_poems_json.py`.
+
 ## Naming Conventions
 New components use PascalCase (e.g. PoemCard.js, NavigationBar.js).
 Existing components use the legacy kolmikarki_* prefix — do not rename
